@@ -1,0 +1,208 @@
+WEBVTT
+
+00:01.490 --> 00:02.470
+Help again.
+
+00:02.640 --> 00:10.260
+So no we'll going to see another example for migrating out virtually on a machine from a local store
+
+00:10.500 --> 00:17.800
+to another host or that you do look out the store or do shit in that store.
+
+00:18.330 --> 00:23.200
+So this would take this example of this virtual machine that is powered on.
+
+00:23.370 --> 00:25.750
+It's the same as Bharath on or opponent.
+
+00:26.040 --> 00:32.930
+And this machine is to store the look out the start of the Isak's I want if we try to immigrate it is
+
+00:33.080 --> 00:34.540
+I number two.
+
+00:34.680 --> 00:41.820
+And if you remember to migrate Ah parishioner's only from a virgin machine that was on local store.
+
+00:41.850 --> 00:43.190
+It is impossible.
+
+00:43.620 --> 00:50.730
+You can go to the next step you will get on a road that this machine have a new suit to immigrate to
+
+00:50.760 --> 00:54.500
+another house because it's used the local store.
+
+00:54.840 --> 00:58.920
+But of course if we choose to migrate stores only it's so dark.
+
+00:59.070 --> 00:59.680
+That's me.
+
+00:59.790 --> 01:06.290
+You can migrate to our shared storage but another option.
+
+01:06.370 --> 01:14.610
+But if we try to chose both of them the resource and the storage it will work perfectly because it will
+
+01:14.850 --> 01:22.710
+migrate to stores first then when it will migrate to storage do the resource will be available to be
+
+01:22.800 --> 01:24.090
+migrated if we chose.
+
+01:24.090 --> 01:30.010
+When I was on ethics I took a six i3 walk the next day.
+
+01:30.380 --> 01:36.870
+We can chose to look at the store of this host but to me it will migrate the storage of the virtual
+
+01:36.870 --> 01:37.510
+machine.
+
+01:37.560 --> 01:47.160
+Windows 7 from the local storage of do E6 I want to look all that I store of E-6 I do in this case do
+
+01:47.310 --> 01:53.240
+is excite them but you can raid do store hours of this one.
+
+01:53.460 --> 01:57.440
+But of course there are a complex process that will happen right.
+
+01:57.870 --> 02:04.170
+Because when we migrate to the hard drive of his virtual machine from the local storage this one to
+
+02:04.170 --> 02:06.090
+do local store of the host.
+
+02:06.120 --> 02:15.970
+But to do resouce use it from this machine from the Isak's I want were not to be able to access to storage
+
+02:16.060 --> 02:20.860
+of the virtual machine that save it in storage or to Isak's.
+
+02:20.910 --> 02:25.640
+I stop behind the scene or in the background what's happened.
+
+02:26.480 --> 02:32.900
+Do the it will make great storage of this virtual machine.
+
+02:32.970 --> 02:34.260
+Do Windows 7.
+
+02:34.270 --> 02:38.950
+Number one from Mukalla the start of iOS 6.
+
+02:39.270 --> 02:45.010
+I want to assure that storage will chose any of those shedded Stosh.
+
+02:45.180 --> 02:53.380
+Then when the storage of this machine saved it into a sheet it's trash.
+
+02:53.450 --> 03:00.410
+That's me and all the host can get access to do a hard drive out of this virtual machine in a shared
+
+03:00.470 --> 03:01.480
+storage.
+
+03:01.610 --> 03:07.120
+Then the next process is to make great resource use it.
+
+03:07.200 --> 03:15.820
+There's this option Right-Hand will do this process first then hit back and charge the computer resources
+
+03:16.370 --> 03:19.340
+later from the e6.
+
+03:19.340 --> 03:21.250
+I number 1 to 6.
+
+03:21.290 --> 03:22.220
+Number two.
+
+03:22.280 --> 03:26.980
+No the machine is still running and is the resource of the Isak's.
+
+03:27.000 --> 03:33.430
+I number two and use the shared storage that it is accessible from Isak's.
+
+03:33.440 --> 03:43.340
+I never took them as third step is to migrate the data or the body of the virtual machine from the shared
+
+03:43.360 --> 03:46.740
+trash to the local storage of it.
+
+03:46.770 --> 03:48.550
+I number two.
+
+03:49.160 --> 03:51.410
+So this is a long process.
+
+03:51.710 --> 03:56.600
+If we try to do it we will take a long time to do that.
+
+03:56.960 --> 04:01.900
+But let's try it and check what will happen next.
+
+04:02.170 --> 04:11.660
+So the network as the same next and we click Finish on you is to have charge computer resource and storage
+
+04:12.040 --> 04:16.240
+of our the virtual machine VM 7 to do it.
+
+04:16.250 --> 04:20.890
+I do know that all of us need a minute for the past or number one.
+
+04:21.200 --> 04:24.190
+So this is a long process because it was Windows 7.
+
+04:24.200 --> 04:25.970
+It's a large virtual machine.
+
+04:25.970 --> 04:31.330
+It will take more than a how and this is too much time to wait.
+
+04:31.340 --> 04:41.030
+So let's just make it simple and we migrated to do land number one or line number two to make it's more
+
+04:41.090 --> 04:41.560
+faster.
+
+04:41.600 --> 04:43.200
+So the click NEXT NEXT.
+
+04:43.210 --> 04:49.040
+So the process that will be happening in the background migrating to storage first from to look at storage
+
+04:49.070 --> 04:49.790
+or to E6.
+
+04:49.790 --> 04:55.540
+I want to I should it splash they migrated to resouce from E6.
+
+04:55.550 --> 04:56.440
+I want to.
+
+04:56.480 --> 04:58.440
+Any host country.
+
+04:58.970 --> 05:01.090
+External storage or share it.
+
+05:01.100 --> 05:01.720
+Storage.
+
+05:01.910 --> 05:10.410
+So the click next and finish and the process will work perfectly and the machine will be powered on
+
+05:10.410 --> 05:12.150
+without any problem.
+
+05:14.000 --> 05:20.120
+So this is the end of this section and we cover it all the different duration of the mission that we
+
+05:20.120 --> 05:22.600
+can get in the real environment.
+
+05:22.640 --> 05:29.120
+And next we'll discover another future of do theme where we spend to see in the next section.

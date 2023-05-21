@@ -1,0 +1,181 @@
+WEBVTT
+
+00:00.740 --> 00:08.370
+Then we have the horses bus lane where we have to post busline calorie exists all already predefine
+
+00:08.390 --> 00:09.390
+and that's mean.
+
+00:09.420 --> 00:12.780
+Those come to be edited or deleted.
+
+00:12.850 --> 00:22.030
+It's by default created by the VM Where does one get you the noncritical host page and the critical
+
+00:22.380 --> 00:24.020
+Spaight redefine it.
+
+00:24.180 --> 00:32.240
+That's mean different content that exists in this one and composite to do different tasks you have in
+
+00:32.240 --> 00:35.280
+your environment to check if there are any updates.
+
+00:35.330 --> 00:44.810
+In our environment we have one line for non-critical hosts updates available and 65 critical Hulst updates
+
+00:44.840 --> 00:45.450
+available.
+
+00:45.620 --> 00:51.520
+You click on it it will see the details about the different update that we should use of course.
+
+00:54.350 --> 00:58.710
+You see right there if we check the different updates we can use.
+
+00:58.820 --> 01:07.470
+Of course he gets all the updates for 6 5 4 5 and 6 6.5 if we check right there is 6.5.
+
+01:07.520 --> 01:12.140
+So we have only just update that we should use in our environments.
+
+01:12.140 --> 01:20.770
+Aldo's forsakes and the 5.5 as we don't have any house running under 6 1 0 or 5 4 5.
+
+01:20.780 --> 01:23.650
+So we don't need to update you others.
+
+01:23.690 --> 01:30.500
+But of course you need it when you start any host or other shit holes.
+
+01:30.560 --> 01:33.690
+In this the center server that's hard to do is x.
+
+01:33.740 --> 01:35.960
+I fly plant five.
+
+01:36.320 --> 01:38.800
+Then of course we can create a house line.
+
+01:38.870 --> 01:42.820
+It's like when you create a hospital fight.
+
+01:42.890 --> 01:44.720
+No we have a host busline.
+
+01:44.900 --> 01:52.400
+You give it a name for example new one then description then you chose to create a house patch or a
+
+01:52.400 --> 01:54.860
+house extension or a house upgrade.
+
+01:55.070 --> 02:02.090
+Let's chals with the patch then you chose fix it or the unique fix it does mean you would put a specific
+
+02:02.200 --> 02:05.210
+date but never updates them but dynamic.
+
+02:05.240 --> 02:11.060
+They will be updated automatically if there are any available page then you click next.
+
+02:11.180 --> 02:18.700
+It's secure to get and you wonder if you'll check our fate available in our But repository we have the
+
+02:18.700 --> 02:22.550
+same way where products and Cisco Systems products.
+
+02:22.550 --> 02:27.380
+So for example where we chose any last minute Alda on board or for example you want to get only the
+
+02:27.380 --> 02:30.050
+updates from the VM when we chose this one.
+
+02:30.170 --> 02:37.970
+Or if we are for example some Cisco switch or hardware we add so it's and we had the product that we
+
+02:38.120 --> 02:40.360
+want to use and get updates from it.
+
+02:40.360 --> 02:45.770
+So it draws any Then we chose critical and important like that.
+
+02:46.160 --> 02:52.880
+Of course it is recommended use is critical in a portal and it's not necessary to use the moderates
+
+02:52.940 --> 03:01.020
+and low updates because it's not necessary to always update your environment for a low severity update
+
+03:01.250 --> 03:08.240
+because sometimes can destroy your environments sort of which is too low and moderately into you are
+
+03:08.270 --> 03:12.100
+sure that you want to get a low updates D-New enable this one.
+
+03:12.260 --> 03:17.900
+So if your girl chose critical and important like this one then it shows the release date of the update.
+
+03:17.900 --> 03:26.780
+For example if you have an update for the 2017 You can chose only do 2000 18 update of wait over downloading
+
+03:26.870 --> 03:28.790
+of the different updates available.
+
+03:29.150 --> 03:35.830
+Then the category if you want get some kind of security or a bug fixed or enhancements or any etc..
+
+03:36.050 --> 03:38.650
+Then you click next.
+
+03:38.850 --> 03:41.500
+Then you have patch to exclude.
+
+03:41.640 --> 03:42.790
+This is different.
+
+03:42.870 --> 03:45.810
+Birch that's available from the updates.
+
+03:45.810 --> 03:46.090
+Right.
+
+03:46.090 --> 03:51.990
+No he check the network and to get those updates then it shows you the different updates are available
+
+03:52.050 --> 03:52.850
+and head.
+
+03:53.100 --> 03:58.020
+These are the Bertsch matching to dynamic busline critical dynamic that we chose.
+
+03:58.020 --> 04:00.860
+But in this step right there.
+
+04:01.340 --> 04:05.910
+But for chaws only see scoop it will show only for option 10.
+
+04:05.970 --> 04:12.690
+But when we chose any or only VM what it will show us a lot of updates available then if you want to
+
+04:12.690 --> 04:16.510
+exclude some of this update we need to check it.
+
+04:16.530 --> 04:21.780
+So you see Silex the one that you want to permanently exclude from this bus line.
+
+04:21.870 --> 04:27.350
+So we in chick Aldo's one we leave them in check so we want to get all these updates.
+
+04:27.430 --> 04:34.790
+We click next then if we want to add some additional part there is our page not matching the dynamic
+
+04:34.810 --> 04:41.730
+busline critiquer Silex to Dujuan permanently and Kloot into dynamic busline detect that this one does
+
+04:41.730 --> 04:49.780
+not exist in the bass line so we can take them to other them to the bass line if we want or not then.
+
+04:49.820 --> 04:52.900
+Next this is a quick overview finish.
+
+04:52.980 --> 04:58.810
+So we create our new busline for our hosts so seemed a be the.

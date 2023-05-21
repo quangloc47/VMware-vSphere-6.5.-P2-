@@ -1,0 +1,274 @@
+WEBVTT
+
+00:01.130 --> 00:02.070
+Help again.
+
+00:02.190 --> 00:05.860
+So the link it galloon that we talk about.
+
+00:06.060 --> 00:14.190
+Unfortunately you can't create art linkit clone from the center the center server does not have this
+
+00:14.250 --> 00:17.450
+option to clone machine.
+
+00:17.460 --> 00:19.580
+Ours are linkit clone.
+
+00:19.680 --> 00:22.100
+This option is only available when you.
+
+00:22.300 --> 00:29.850
+We ate the virtual desktop ox's this Droon lets you to create our linkit.
+
+00:30.150 --> 00:34.550
+And as you know the link it clone use it for appropriate service.
+
+00:34.740 --> 00:38.760
+That's why this option is not available in our decentest ever.
+
+00:38.820 --> 00:45.970
+So if we check the software that's created by our video a virtual desktop access.
+
+00:46.130 --> 00:54.440
+When you try to clone a virtual machine you have the file clone and do link it cannot so alink clone
+
+00:54.470 --> 00:59.930
+is a reference to the original virtual machine and require less disk space to store.
+
+00:59.930 --> 01:04.060
+However it cannot run without access to the original virtual machine.
+
+01:04.400 --> 01:11.570
+So this is why the visitor center would not let you to create a link it grown in your rent environment
+
+01:11.600 --> 01:16.090
+because this is not safe in our real environment.
+
+01:16.610 --> 01:23.280
+So another information that we have for the glory that's mean we clone a virtual machine.
+
+01:23.390 --> 01:30.170
+But in a situation that we have some specific machine in a service use it in our that's mean we have
+
+01:30.170 --> 01:36.260
+a database connected to do our shared brain and another machine connected to do shit it Queen etc..
+
+01:36.380 --> 01:42.080
+We put them inside of we up with a specific order of power on our shadow.
+
+01:42.230 --> 01:48.500
+No we can't clone all the virtual machine that's worked on inside our ark.
+
+01:48.860 --> 01:53.230
+So if we click on the app we have the option Kalid clone.
+
+01:53.300 --> 02:00.200
+Of course this option will be available only if all the virtual machine part of any virtual machine
+
+02:00.260 --> 02:05.380
+parted on the Cloonan is not available because you will go into more than one virtual machine.
+
+02:05.390 --> 02:11.260
+You'd be five maybe six maybe 10 virtual machine at the same time and that's need more time.
+
+02:11.270 --> 02:16.920
+So the Wii and were decided to not divvy up the top about it on your machine.
+
+02:17.090 --> 02:20.450
+So simply click on the Wii V-Amp we have option.
+
+02:20.630 --> 02:22.590
+So we have Kenaan.
+
+02:22.810 --> 02:26.810
+And here we have it on your Wii up or on an existing.
+
+02:26.830 --> 02:32.350
+The app is the same when you try to create a new Wii up is ask you to create a new one or clone from
+
+02:32.350 --> 02:33.520
+an existing one.
+
+02:33.520 --> 02:37.810
+So automatically select cloning next.
+
+02:37.910 --> 02:40.930
+Then ask you to chose to cluster.
+
+02:40.940 --> 02:44.880
+So of course you can choose any X i.e. host Dreamhouse this.
+
+02:45.100 --> 02:49.900
+The app that's me in the virtual machine will be cloning in a specific host or you simply chose the
+
+02:49.900 --> 02:54.480
+cluster and we'll decide which one can host a virtual machine.
+
+02:54.490 --> 03:03.790
+So next then you give it our name for example clone of the app see then we chose the data center next
+
+03:05.790 --> 03:11.540
+so for example if you have a moderate center that you want to run the same application as I did you
+
+03:11.550 --> 03:15.290
+simply clone this way up through the SIGINT that doesn't.
+
+03:15.540 --> 03:17.160
+But in our tradition we have only one.
+
+03:17.280 --> 03:18.270
+So it's not a problem.
+
+03:18.270 --> 03:20.600
+Next they hear it.
+
+03:20.640 --> 03:26.140
+All the data available in different E6 I host I'll do look at that.
+
+03:26.700 --> 03:33.970
+Because no we chose the destination Haast is the cluster of us that are available.
+
+03:34.170 --> 03:37.320
+So all the available hosts can support this.
+
+03:37.380 --> 03:40.750
+And so added that our store is available if we chose for example.
+
+03:41.080 --> 03:44.260
+Number two I will show only the datastore number two.
+
+03:44.640 --> 03:46.220
+But no he showed them all together.
+
+03:46.230 --> 03:53.100
+Of course he had to chose one or two or any land that you had or you simply leave that store cluster
+
+03:53.430 --> 03:54.200
+chose do.
+
+03:54.250 --> 03:54.800
+Right.
+
+03:54.810 --> 04:04.090
+One day we have next had it show you some information about the Octa configuration of the resource of
+
+04:04.090 --> 04:10.690
+the Wii up for example you want to change this Cronyn from normal to low for example.
+
+04:10.890 --> 04:15.500
+Then make some reservation etc. called off our mission.
+
+04:15.740 --> 04:23.450
+In the resource pool and the up would be for then next then head is it we click Finish and we'll clone
+
+04:23.890 --> 04:25.320
+due to victory machine.
+
+04:25.340 --> 04:31.790
+Of course this process will take a long time because Windows XP have an operating system and the other
+
+04:32.240 --> 04:35.090
+machine also have our systems.
+
+04:35.090 --> 04:42.420
+If we click on this it will show you the device on Windows XP on host it excites you in Morocco true
+
+04:42.820 --> 04:51.560
+in XP for in host E6 I treat so he district which is not virtual machine is exciting and but treat create
+
+04:51.580 --> 04:58.970
+a resource pool clone of the upsy in computer resource cluster in Morrocco so it will take a little
+
+04:58.970 --> 05:02.200
+time to complete the process one to process it.
+
+05:02.580 --> 05:07.490
+So it's a robot that will give you a quick or a view about another option into Qanuni
+
+05:12.110 --> 05:21.120
+when we click on one and chose the Santer then the cluster then we have another option right there.
+
+05:21.130 --> 05:28.360
+Those Kaulitz other than that if we click on it show you some options you chose some of an easier route
+
+05:28.670 --> 05:30.310
+to do in your virtual machine.
+
+05:30.350 --> 05:35.960
+So the new vision machine tool config file will be saved in the last number two and the new virtual
+
+05:35.960 --> 05:40.110
+machine the hard disk also will be Sumeet in large numbers too.
+
+05:40.190 --> 05:45.170
+But if you want for example to make some affinity for example if you have too hard a driver in this
+
+05:45.200 --> 05:51.140
+virtual machine that we Cloonan for example have disk number one with ajuga bytes or disk number two.
+
+05:51.170 --> 05:53.180
+We did eight or 10 gigabytes.
+
+05:53.180 --> 06:00.390
+You can chose to save the disk in number one into London br1 and disk number two in LAN number two for
+
+06:00.530 --> 06:01.940
+your tools browser.
+
+06:02.120 --> 06:09.320
+Then you chose the cluster or the top Astar or click on this one to chose the line number one example.
+
+06:09.410 --> 06:12.910
+It exists in the lump but number two so we change it to number one.
+
+06:13.070 --> 06:16.600
+So like lot we put to the config file a lot number one.
+
+06:16.680 --> 06:22.400
+And the hard disk in that line but all the hard disk numbers talk in London Buttrick and so on and so
+
+06:22.400 --> 06:23.000
+on.
+
+06:23.000 --> 06:26.490
+So this is just a quick idea to get information.
+
+06:26.510 --> 06:32.310
+Of course if you want to change it from take that provision etc and of course help with those without
+
+06:32.360 --> 06:37.880
+any configuration because this is a config file only Abdula a bit of the hard disk you can't chose.
+
+06:37.970 --> 06:39.840
+Thick or thin probably.
+
+06:40.070 --> 06:43.250
+So this is the quick overview about this operator.
+
+06:43.610 --> 06:44.840
+Then you click next.
+
+06:44.870 --> 06:50.660
+And of course you can customize the slide please box with the preview of course to get the detail about
+
+06:50.660 --> 06:57.480
+them because you can't change the setting of the IP address name the license.
+
+06:57.500 --> 07:05.090
+A lot lot of things you can add them by creating our coffee file that we convert it into Preview costs.
+
+07:05.150 --> 07:07.120
+So this is the quick idea about it.
+
+07:07.130 --> 07:12.110
+You see a clone of the app completes successfully for the virtual machine.
+
+07:12.110 --> 07:15.950
+Windows XP number for the second one will be added.
+
+07:15.950 --> 07:17.610
+And so on and so on.
+
+07:17.960 --> 07:21.380
+So see the next section with another future of the VM with.

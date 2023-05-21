@@ -1,0 +1,130 @@
+WEBVTT
+
+00:00.480 --> 00:07.120
+Hello and welcome in this new section that we go into discover another future of the VM where this fit.
+
+00:07.410 --> 00:12.980
+So in this section we're going to talk about do resource pool and do the job.
+
+00:13.200 --> 00:15.790
+So the first question is what is a resource pool.
+
+00:15.870 --> 00:23.430
+And so let's start we do resource pool as we know every host have some additional support our physical
+
+00:23.430 --> 00:31.010
+hosts or our server like HP Dell over Iraq have some resource pool that's me.
+
+00:31.080 --> 00:34.800
+We talk about to do resouce available in the toast.
+
+00:34.860 --> 00:39.870
+It's about the speed the memory and storage.
+
+00:40.170 --> 00:47.430
+So when we talk about the resource pool we talk about those hardware that we used to run an operating
+
+00:47.430 --> 00:49.750
+system or our virtual machine et cetera.
+
+00:49.980 --> 00:51.360
+So we have to see you.
+
+00:51.370 --> 00:59.730
+We know that every machine or every operation system or a virtual machine need to consume the C.P. need
+
+00:59.790 --> 01:02.720
+also to have some memory.
+
+01:02.730 --> 01:08.260
+Also we have a large pool of course when we talk about the storage in our resource pool of the where
+
+01:08.550 --> 01:09.840
+we do not mean to size.
+
+01:09.840 --> 01:14.230
+We talk about the input output the speed of using to store us.
+
+01:14.490 --> 01:22.620
+But of course in Arctic region derogatively where we there is much control the storage because we used
+
+01:22.730 --> 01:29.190
+external storage and external storage work alone with it eat out inputs and outputs.
+
+01:29.870 --> 01:35.340
+So in the real environment are we going to talk about C.P and don't mean more.
+
+01:35.360 --> 01:39.880
+When is V.M. Where is pare down to manage the resource pool.
+
+01:40.010 --> 01:50.570
+We managed to do more so as we know when we have a host that have a superior memory and we start creating
+
+01:50.570 --> 01:54.480
+virtual machine we can create ultimate number of virtual machine.
+
+01:54.590 --> 02:01.230
+For example a horse with the 10 gigabyte of RAM can support up to five virtual machine with two gigabytes
+
+02:01.240 --> 02:01.930
+of room.
+
+02:02.030 --> 02:07.940
+But in the real environment we can create one of those virtual machine and give it 4G got bit of RAM
+
+02:08.090 --> 02:12.710
+or maybe 6 or even we can be a bit of a brain than we have in the physical host.
+
+02:12.710 --> 02:19.380
+For example the top 10 gigabyte of Rob we can create a virtual machine with 16 gigabyte offering.
+
+02:19.520 --> 02:28.910
+So this is idea of the resource pool because we start getting some overcommitment of the resource pool
+
+02:28.910 --> 02:31.170
+available in the host.
+
+02:31.190 --> 02:38.090
+Also we have another situation for example we have five virtual machine in say the host every virtual
+
+02:38.090 --> 02:44.700
+machine have 4G garbage of RAM but it's consume only 2 gigabytes of RAM and the total available in the
+
+02:44.720 --> 02:47.220
+physical host is about changing bytes.
+
+02:47.360 --> 02:50.200
+So does virtual machine work perfectly.
+
+02:50.360 --> 02:57.530
+But in a case one of those virtual machine start consuming more than a gigabyte available to me and
+
+02:57.560 --> 03:03.780
+start consume 4G gobshites but mean it take the rain from another virtual machine.
+
+03:03.980 --> 03:08.050
+If one of those virtual machines consume 4G gobshites that's another machine.
+
+03:08.150 --> 03:11.480
+Can't find any free rein to use it.
+
+03:11.690 --> 03:15.150
+And that will give us a problem in our environment.
+
+03:15.220 --> 03:18.860
+That's mean overloading of resource.
+
+03:18.950 --> 03:24.860
+So for that we have an option that's kind of through was that Paul Willis asked to manage the resource
+
+03:24.950 --> 03:26.140
+in our host.
+
+03:26.220 --> 03:33.590
+Perfect lead to avoid overloading or virtual machine consume the resource of the other virtual machine
+
+03:33.750 --> 03:34.570
+sit down.
+
+03:34.610 --> 03:40.270
+So it will help us to manage do different resource pool we have in the physical host.

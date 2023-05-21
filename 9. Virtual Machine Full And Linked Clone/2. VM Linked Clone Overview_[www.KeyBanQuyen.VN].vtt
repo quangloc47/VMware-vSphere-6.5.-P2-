@@ -1,0 +1,133 @@
+WEBVTT
+
+00:00.250 --> 00:06.830
+What's the new one that's got it get Clooney or the first provision we glue on our virtual machine in
+
+00:06.840 --> 00:07.840
+a small time.
+
+00:07.920 --> 00:10.050
+And it's happened faster.
+
+00:10.380 --> 00:14.380
+How do fast provision or linkit Cronyn work.
+
+00:14.430 --> 00:16.420
+We have the virtual machine.
+
+00:16.560 --> 00:17.940
+This one.
+
+00:18.070 --> 00:23.400
+IBM dequeue file for example is being decie consume three or four terabytes.
+
+00:23.520 --> 00:28.800
+In this situation we can't make up Falconi it will take a lot of time but of course in your situation
+
+00:28.830 --> 00:35.460
+if you need a Falconi you need to do it and give it all the time necessary to complete the process.
+
+00:35.700 --> 00:42.720
+But in a specific situation you need a virtual machine for example a temporary type or simple service
+
+00:42.770 --> 00:43.420
+etc..
+
+00:43.590 --> 00:47.530
+You can do our first provision cloning.
+
+00:47.970 --> 00:51.650
+So what's happened in the provision cloning or linkit cloning.
+
+00:51.780 --> 01:00.660
+So we have to hear a machine a tab on a hard disk or better yet hard disk that used the data on say
+
+01:00.810 --> 01:07.580
+write and read from the disk when we run ah link it.
+
+01:07.580 --> 01:08.990
+Clooney what's happened.
+
+01:09.000 --> 01:14.430
+No the VM what we're going to create our Snapshot to this virtual machine.
+
+01:14.460 --> 01:20.820
+And that's why we didn't cover link it cloning in the preview cost because we didn't cover the snapshots.
+
+01:20.850 --> 01:27.680
+So know when we covered the snapshot when we ran a link it cannot It's create a snapshot virtual machine
+
+01:29.160 --> 01:33.440
+the first snapshot that's created it creates our pipeline if you will.
+
+01:33.540 --> 01:40.310
+But they'll fight the Stigand VM decie that will save ancient Chopan from this military machine.
+
+01:40.490 --> 01:47.160
+But I mean this virtual machine will start using the original disk for read only and the second that
+
+01:47.260 --> 01:48.950
+is for read.
+
+01:49.020 --> 01:49.950
+Right.
+
+01:50.010 --> 02:00.630
+So the virtual machine start using the original disk for read only and use the new disk for read and
+
+02:00.630 --> 02:09.500
+write any updates happened to disabuse because machine will be sorted into desktop and disk then do.
+
+02:09.770 --> 02:11.600
+VM what will Clun do.
+
+02:11.610 --> 02:13.230
+Does this work.
+
+02:13.480 --> 02:15.440
+But of course it will be a numpty.
+
+02:15.480 --> 02:21.950
+They'll see this because when we make Deukalion in Hickory the snapshot for this victory and machine
+
+02:21.950 --> 02:29.450
+that's main phrase this disk and do this for the read only and creates an empty disk and into some tape
+
+02:29.510 --> 02:37.920
+will clone this data disk to a new data disk that would be using for our modern virtual machine.
+
+02:37.920 --> 02:45.520
+So in this situation we have to the disk and one original disk so the disk is similar to this one.
+
+02:45.520 --> 02:53.070
+The same situation in the US does this that virtual machine connect to do this to see if any change
+
+02:53.440 --> 02:56.540
+and connect to the original disk for read only.
+
+02:56.760 --> 03:04.290
+And the new virtual machine let's call it a SIGINT or a comma will connect to the new Delta disk for
+
+03:04.320 --> 03:05.210
+any change.
+
+03:05.250 --> 03:10.800
+As right on the right and connected original disk for read only.
+
+03:10.830 --> 03:17.100
+So in this situation with this but there's lots of only two or five megabytes it would be a first copy
+
+03:17.160 --> 03:24.910
+of this deal that this new discovery that this spawning it will have a new data as quick as possible
+
+03:25.370 --> 03:32.370
+and a virtual machine a and b say couldn't connect to the same origin or disk and sort of to change
+
+03:32.370 --> 03:35.300
+án separates bodies into VM.
+
+03:35.370 --> 03:42.540
+A second will save the chance in this deal to disk and save the change in this deal.
+
+03:42.600 --> 03:42.840
+This.

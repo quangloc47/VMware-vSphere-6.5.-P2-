@@ -1,0 +1,325 @@
+WEBVTT
+
+00:00.510 --> 00:01.330
+Hello again.
+
+00:01.380 --> 00:08.350
+So let's get some rule about two clusters that we can use with DNS.
+
+00:08.580 --> 00:18.040
+So if we back right here try to check for example Isak's I one have to machine do Windows 7 and Windows
+
+00:18.070 --> 00:18.530
+XP.
+
+00:18.550 --> 00:23.040
+Number for the E6 I do have one machine that is x.
+
+00:23.050 --> 00:25.270
+I have two machine.
+
+00:25.390 --> 00:30.400
+So we want to work on this machine and make some affinity route.
+
+00:30.490 --> 00:38.000
+So we're back to that cluster of course not in the respect there is we need to go down and in the configuration
+
+00:38.050 --> 00:42.540
+we have some new configuration that we can use with the dentist.
+
+00:42.640 --> 00:53.120
+So V.M. where EVC VM hosts group and VM host rule and VM override we're going to see them one by one.
+
+00:53.170 --> 00:55.570
+So the VM host group needs some host.
+
+00:55.570 --> 00:59.770
+We're going to see it and we have a VM host rules.
+
+00:59.770 --> 01:03.240
+If you remember we talk about to do this route.
+
+01:03.490 --> 01:09.960
+So in the VM host room we can add to rule that we want to use in our cluster.
+
+01:10.000 --> 01:13.960
+So we click on it and here we give it a name.
+
+01:13.960 --> 01:23.920
+For example we want to create a router Sipah rate DMH when it is on XP.
+
+01:23.930 --> 01:30.180
+Number four jewel when seven like that.
+
+01:30.360 --> 01:37.210
+And then we need to enable this one this enable and disable us I mean when you apply this rule.
+
+01:37.320 --> 01:43.530
+And one day you just take to disable this rule and you want the cluster to ignore this rule you simply
+
+01:43.770 --> 01:45.100
+check this one right.
+
+01:45.240 --> 01:47.960
+And this rule are not going to work into.
+
+01:47.980 --> 01:51.940
+There is then when you want to do it you simply enable it.
+
+01:52.200 --> 01:57.730
+So we have different type of option to trolls drop the VM host route.
+
+01:57.870 --> 02:00.690
+The first one is keep the virtual machine together.
+
+02:00.700 --> 02:02.450
+This is due affinity.
+
+02:02.620 --> 02:10.250
+Lets mean this two bedroom machine should work at the same Haast we have separate virtual machine that's
+
+02:10.270 --> 02:12.780
+made into affinity.
+
+02:12.840 --> 02:19.110
+That's me in the two virtual machine should work in the different Tulse should never be hosted in the
+
+02:19.110 --> 02:21.230
+same Isak's I host.
+
+02:21.330 --> 02:24.850
+Then we have some virtual machine to host but need some group.
+
+02:24.870 --> 02:30.730
+We're going to see it later then virtual machine to virtual machine that need also some group.
+
+02:30.860 --> 02:34.200
+We're going to do different tasks and group in this option.
+
+02:34.210 --> 02:34.950
+Right.
+
+02:35.280 --> 02:41.610
+So we chose for example separate virtual machines and we want to separate two virtual machines to not
+
+02:41.940 --> 02:43.720
+run in the same process.
+
+02:43.830 --> 02:48.930
+So we simply click out and here of course you can use the first Patricias search.
+
+02:48.930 --> 02:55.710
+For example when ex-Beatle gets all the machine that's callet win XP or any machine that you want.
+
+02:55.710 --> 03:01.310
+But in our situation we're going to use the different VM that we have.
+
+03:01.390 --> 03:09.220
+So if we click on this one like that to get the order by E6 I host and we see that E6 I host an android.
+
+03:09.260 --> 03:22.420
+How do we explain that before and when 7 is X i.e. to have Win XP 5 is x 3 1/2 Win XP 6 and we center
+
+03:22.500 --> 03:23.300
+server.
+
+03:23.950 --> 03:30.820
+Of course we're not going to touch these windows because this is the center and we don't want to migrate
+
+03:30.820 --> 03:39.750
+it to any other host because if I want to have only 4G gobshites and only is Atri how about 12 gigabytes.
+
+03:40.420 --> 03:44.360
+So we chose for example this one that exists in the same house.
+
+03:44.410 --> 03:50.390
+So the room that we want to practice the machine should not be at the same house.
+
+03:50.410 --> 03:53.110
+So Windows 7 and Windows XP.
+
+03:53.140 --> 03:54.330
+Number four.
+
+03:54.580 --> 03:55.710
+So we click OK.
+
+03:55.860 --> 03:59.170
+No we have two machine that should not run into same host.
+
+03:59.170 --> 04:00.530
+Of course you can.
+
+04:00.650 --> 04:02.280
+I'm not a machine that's mean.
+
+04:02.440 --> 04:06.930
+It's your machine should not never run in the same house.
+
+04:07.060 --> 04:07.700
+That's me.
+
+04:07.840 --> 04:11.610
+It should be guaranteed to default on toast.
+
+04:11.740 --> 04:18.550
+So now we have a machines and when we click OK of course it will take a little time and we'll start
+
+04:18.550 --> 04:21.520
+migrating one of those virtual machines.
+
+04:21.670 --> 04:28.900
+After doing its own calculation and decided which one can be migrated from the hosts Isak's I wan to
+
+04:29.130 --> 04:31.900
+a specific code that can get this one.
+
+04:32.170 --> 04:40.750
+So Windows XP not before and do Windows 7 should not run in the same E6 I host as you said the migration
+
+04:40.990 --> 04:42.570
+start perfectly.
+
+04:42.580 --> 04:48.630
+If we click on it it will give you a task of beginning to get your machine and begin eating them.
+
+04:48.670 --> 04:53.470
+Windows 7 is I one last one in Morocco to E6.
+
+04:53.470 --> 05:03.070
+I do love want in Morocco with encryption Negrete VM Windows 7 of host is I want in Morocco.
+
+05:03.400 --> 05:05.980
+So its worked perfectly this route.
+
+05:05.980 --> 05:11.500
+Of course you see the statue right hand is enabled if you want to disable it then to call police if
+
+05:11.500 --> 05:13.400
+you have any real conflict.
+
+05:13.400 --> 05:20.610
+Thats me an example you see that this machine should never run at the same host with this machine can
+
+05:20.810 --> 05:26.740
+you you add under the rules that have a conflict with this rule for example you say that this machine
+
+05:26.890 --> 05:29.900
+should run always with this machine in the same way.
+
+05:30.070 --> 05:34.270
+So we have a complete right there and this will give you a massage.
+
+05:34.300 --> 05:37.000
+And this rule will not be going to work.
+
+05:37.000 --> 05:40.670
+So its no do rule its work perfectly.
+
+05:41.170 --> 05:41.740
+So the same.
+
+05:41.740 --> 05:52.040
+Also we have a kind of another rule for example afine t rule like that then we use good virtual machine
+
+05:52.050 --> 05:53.400
+together with click.
+
+05:53.500 --> 05:57.230
+And then you choose the machine that should run together.
+
+05:57.240 --> 06:04.380
+Of course in this case if we chose the Windows 7 and Windows 4 to run in the same host this will be
+
+06:04.470 --> 06:05.500
+a conflict.
+
+06:05.580 --> 06:07.090
+Give it an example.
+
+06:07.370 --> 06:08.430
+OK.
+
+06:08.850 --> 06:13.210
+So the direct route is in conflict with existing irresolute in the cluster.
+
+06:13.220 --> 06:19.310
+It will be desirable the rule can be enabling manually when the conflict are resolved.
+
+06:19.530 --> 06:21.070
+So it's automatically disabled.
+
+06:21.130 --> 06:25.110
+We can click OK and you will see it right there but it's disabled.
+
+06:25.200 --> 06:26.670
+You see it this way.
+
+06:26.760 --> 06:31.180
+And we have this other missiles that we have some conflict between them.
+
+06:31.260 --> 06:37.270
+So we simply delete this one because it's have a conflict with another route.
+
+06:38.040 --> 06:49.140
+So if we check the windows 7 no Windows 7 around is x i house number two also we can try to add some
+
+06:49.320 --> 06:50.160
+other option.
+
+06:50.160 --> 06:56.390
+For example do a Windows XP number five and Windows XP.
+
+06:56.390 --> 06:58.640
+Number four should run into same host.
+
+06:58.640 --> 07:01.870
+So we now number five existing is Isak's I too.
+
+07:01.880 --> 07:05.470
+And number four exist in is X I number one.
+
+07:05.630 --> 07:06.720
+So we click OK.
+
+07:06.830 --> 07:20.030
+Of course here we need to add our feet Niti to the XP 4 and XP 5 like that.
+
+07:20.310 --> 07:24.770
+They keep the virtual machine together with click OK.
+
+07:25.210 --> 07:32.140
+So the rule does not have any conflicts and automatically you will see that the virtual machine five
+
+07:32.350 --> 07:40.260
+or virtual machine four will be migrated to do hosts that will going to work perfectly.
+
+07:40.810 --> 07:42.950
+Of course what it will is the tablet rule.
+
+07:43.120 --> 07:48.420
+So for example the windows force will never run in with Windows 7.
+
+07:48.610 --> 07:51.450
+So that's just the Windows 7.
+
+07:51.460 --> 07:58.180
+We're not going to migrate to this Windows XP for to the halls that have Windows 7.
+
+07:58.180 --> 08:09.020
+So automatically I would chose do win xp 5 to be migrated to one of the other horse would just give
+
+08:09.020 --> 08:12.030
+it a little time and we'll see the rule.
+
+08:12.230 --> 08:15.640
+Also we take enable.
+
+08:15.690 --> 08:19.140
+So this is the different root of unity and happiness.
+
+08:19.480 --> 08:21.500
+And of course we have some other rule.
+
+08:21.590 --> 08:25.050
+We're going to see it in the next video to see on the next video.

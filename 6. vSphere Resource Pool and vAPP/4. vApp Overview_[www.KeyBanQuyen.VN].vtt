@@ -1,0 +1,88 @@
+WEBVTT
+
+00:00.210 --> 00:04.570
+So then we have do the up to the up is a simple truth.
+
+00:05.130 --> 00:09.630
+It's like a resource pool but with some other option.
+
+00:09.660 --> 00:15.630
+So for example when we create our up we put some virtual machine inside this one.
+
+00:15.630 --> 00:23.160
+And did we control those virtual machine as a container as they worked together.
+
+00:23.160 --> 00:28.870
+For example we can create a vision machine with the firewall the CRM the and a database.
+
+00:29.100 --> 00:31.860
+For example we have a week's spurred that is connected.
+
+00:31.860 --> 00:32.800
+We did that.
+
+00:32.880 --> 00:35.190
+So it puts them inside of the app that's me.
+
+00:35.190 --> 00:43.030
+This talk between machine work together and we give it some resource pool for those virtual machine.
+
+00:43.080 --> 00:49.110
+So this virtual machine will be Vaananen sit together and work together and then when we create our
+
+00:49.390 --> 00:57.750
+Wii up we have the ability to power on power of restart et cetera for all the visual motion exist in.
+
+00:57.750 --> 00:59.320
+That's a resource pool.
+
+00:59.730 --> 01:06.660
+We're going to see it in the right environment how we can create the app how we can manage the difference
+
+01:06.660 --> 01:08.370
+between a machine inside this one.
+
+01:08.370 --> 01:14.220
+So for example in a situation that's we have our Websphere connected to that that Tabby's when we need
+
+01:14.370 --> 01:21.690
+to shut down the door that your machine automatically will need to shut down fair first then the data
+
+01:21.710 --> 01:22.180
+base.
+
+01:22.200 --> 01:29.900
+Secondly because it would be connected to the Tabby's if we power off the database Firstly it will have
+
+01:29.900 --> 01:37.450
+a corruption that are between the fair and Davies and this one can't damage our database server.
+
+01:37.500 --> 01:45.920
+So for the safe shutdown we need to shut down do that first then do that Abbes number two.
+
+01:46.080 --> 01:53.850
+Secondly so for that divvy up this option when you configure the app to give it that every time when
+
+01:53.850 --> 02:00.680
+you send a power off or a shutdown of course we need to shut down to make it safe.
+
+02:00.900 --> 02:06.080
+When we give a task to the app to shut down this app.
+
+02:06.260 --> 02:09.750
+He automatically will shutdown this one first then this one.
+
+02:09.750 --> 02:19.120
+Secondly then when we chose power on this up here will power on the database and then do this fair web.
+
+02:19.230 --> 02:26.750
+Secondly to make it work safely of course there are aeration about the firewall to CRM etc..
+
+02:26.760 --> 02:31.830
+You choose the ones that need to power on the power of and so on and so on.
+
+02:31.830 --> 02:37.500
+So let's go to do a real environment and practice the step.
+
+02:37.610 --> 02:38.080
+Next we.

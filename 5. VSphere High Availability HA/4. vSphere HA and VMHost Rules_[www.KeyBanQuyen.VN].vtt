@@ -1,0 +1,112 @@
+WEBVTT
+
+00:01.590 --> 00:02.450
+Hell.
+
+00:02.500 --> 00:08.920
+So no let's start the practical step of this heights of VB.
+
+00:09.020 --> 00:16.040
+So the Visby has as the same as the dress we need to go to the cluster as I told you not fear heights
+
+00:16.070 --> 00:24.990
+of ability are clustered in the cluster and in the config we have this fear of ability to do DNS.
+
+00:25.100 --> 00:31.270
+So the fact is we need to enable that is already part up so we need to turn it on.
+
+00:31.610 --> 00:35.670
+But before we start using this fear hides.
+
+00:35.700 --> 00:38.810
+I really think we need to be careful.
+
+00:38.810 --> 00:41.620
+We do rule of the dearest.
+
+00:42.080 --> 00:43.510
+We need to go right ahead.
+
+00:44.610 --> 00:53.210
+Hosts are rude and we need to take careful about the route of the dress because the action of this fear
+
+00:53.240 --> 00:56.240
+heart of a reality will have a conflict.
+
+00:56.540 --> 00:57.290
+We do.
+
+00:57.290 --> 01:04.340
+There is room for example in our situation we have only the hosts and for example we create a rule that
+
+01:05.000 --> 01:08.160
+virtual machine should never be in the same host.
+
+01:08.200 --> 01:10.380
+That's Auntie affinity in this host.
+
+01:10.380 --> 01:11.110
+That's me.
+
+01:11.240 --> 01:16.970
+But the first Mushin in do is I want to sing the machine into E-6 I do and to turn the machine in do
+
+01:17.100 --> 01:18.970
+is X I number three.
+
+01:18.980 --> 01:27.050
+But in any situation for example the host number one tickets down the height of ability should take
+
+01:27.170 --> 01:33.120
+all the vitrine machine in this host and reboot them in the other two hosts.
+
+01:33.140 --> 01:35.920
+Then we have our conflict with this rule.
+
+01:35.920 --> 01:41.860
+One of the virtual machine that exists in the host what will be with a modern machine that should not
+
+01:41.870 --> 01:42.130
+be.
+
+01:42.140 --> 01:46.450
+We did in the same host and this will give us another.
+
+01:46.640 --> 01:50.160
+So for that we need to disable.
+
+01:50.190 --> 01:54.030
+I go on deservers this one to avoid any problem.
+
+01:54.060 --> 01:55.020
+Dropped to.
+
+01:55.190 --> 02:01.340
+But of course in the right environment you will take your attention for the different route and this
+
+02:01.640 --> 02:05.140
+conflict will be less when you have more Hulst more.
+
+02:05.160 --> 02:08.810
+Yes I have asked for a number of big companies that have thousands.
+
+02:08.960 --> 02:16.850
+So rude even to create some rule for three or five Mushin to not be in the same host the highest operability
+
+02:16.910 --> 02:24.330
+will have more choice of the different physical Haast to to the virtual machine in separate halls.
+
+02:24.350 --> 02:33.960
+Even those that have destry virtual machine have more place to reboot theme inside older is host.
+
+02:34.130 --> 02:37.450
+So for that we deserved this one too of with any problem.
+
+02:37.450 --> 02:41.780
+Krol dictatorial because we have a simple situation.
+
+02:41.830 --> 02:43.760
+Only treat it because I host.
+
+02:43.760 --> 02:49.070
+So we go through this and we click it to turn it on.

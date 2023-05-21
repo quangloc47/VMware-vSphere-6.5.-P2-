@@ -1,0 +1,157 @@
+WEBVTT
+
+00:01.990 --> 00:10.090
+This is the option of the dress and you know what does mean power management of the dress.
+
+00:10.090 --> 00:19.030
+It's ah option from the and what that help you to see the power of your environment and you should know
+
+00:19.030 --> 00:24.130
+that this option is not going to work for a small environment for you.
+
+00:24.130 --> 00:33.320
+Five ten twenty seven this option we're not going to hit you because you have smart power consummation
+
+00:34.130 --> 00:37.220
+and you have a small number of hosts.
+
+00:37.220 --> 00:37.690
+That's me.
+
+00:37.700 --> 00:44.300
+Even if you save one or two holes this is not a big deal to do with in your environment.
+
+00:44.480 --> 00:51.770
+This is going to work perfectly in a huge environment even a media environment will not going to get
+
+00:51.770 --> 00:58.180
+the benefits of the power management for the huge environment that have thousands of thousands of root
+
+00:59.480 --> 01:02.420
+servers consume more power.
+
+01:02.420 --> 01:13.850
+And when you enable the automation level of the power management this option use the DPM distributed
+
+01:13.910 --> 01:22.180
+power management that is do we only use the option of wick or land if you know what does mean recall
+
+01:22.210 --> 01:31.190
+that this option used to network to power on a board of a server Trog our physical adapter physical
+
+01:31.190 --> 01:32.210
+network adapter.
+
+01:32.480 --> 01:38.960
+And of course you showed up a physical network adapter that's supposed to wreak on land like EPM or
+
+01:39.980 --> 01:44.780
+to power on the host all your host should have this option.
+
+01:44.840 --> 01:48.320
+So you would be able to do power management.
+
+01:48.320 --> 01:57.620
+Dennis what this function do put into huge environments that have thousands of thousands of their word
+
+01:57.620 --> 02:03.740
+for example like Claudina service series that's how a lot of clients or for example in those big company
+
+02:04.450 --> 02:08.130
+the employer gets out from the work.
+
+02:08.770 --> 02:17.120
+So our news server will keep powered on even at the midnight and no one is the server.
+
+02:17.360 --> 02:24.620
+And even for example the cloud service you might not want it to do cloud service in the midnight but
+
+02:24.620 --> 02:31.570
+your hosts keep powered on and the electricity consumed in your company.
+
+02:31.580 --> 02:40.140
+So for that to save a lot of electricity you need to power of some host that does not work at the midnight.
+
+02:40.340 --> 02:44.890
+So this is the function of do automation Levin of the DPM.
+
+02:44.970 --> 02:48.320
+This is the function of the depende distributed power management.
+
+02:48.740 --> 02:57.360
+What this function do it Negrete this virtual machine from a specific number of host to the house.
+
+02:57.440 --> 03:01.490
+Let's just make it simple and get our smart idea.
+
+03:01.490 --> 03:11.840
+For example we have five hosts that use your environment and when the employment gets out at evening
+
+03:12.230 --> 03:13.020
+that's mean.
+
+03:13.280 --> 03:19.390
+No one is the virtual server that you have in your physical host What's the difference.
+
+03:19.430 --> 03:25.560
+We're going to do it will migrate the virtual machine from one or two host to the other host.
+
+03:25.730 --> 03:29.900
+And then it will power it off to your house.
+
+03:29.900 --> 03:37.540
+Maybe one maybe two hosts or even maybe three posts if you have more space in the other two hosts.
+
+03:37.730 --> 03:46.580
+So it's part of the two hosts and get only three host pouted on at all the midnights.
+
+03:46.760 --> 03:55.340
+Then in the next day at the morning before the employment start using the server or the service or the
+
+03:55.340 --> 04:03.990
+application in you're in your company do Darrow's when powered on to other server and then start migrating
+
+04:04.010 --> 04:13.160
+the virtual machine from the other for its own host to the new power it on hosts.
+
+04:13.250 --> 04:21.070
+And imagine this scenario into a big company that have a huge server where the address will go into
+
+04:21.090 --> 04:31.310
+power of more than fifteen thousand 2000 3000 servers and you will see how much power electricity will
+
+04:31.310 --> 04:38.070
+be saved when you powered of about 200 server.
+
+04:38.120 --> 04:40.150
+So this is the idea about automation.
+
+04:40.160 --> 04:49.240
+Levin of the DPM is bar management and then you can chose to make it all then automate.
+
+04:49.260 --> 04:55.360
+Do you do it automatically and manually to chose the option.
+
+04:55.370 --> 05:01.670
+Of course we always make it up because it does not have a huge environment just to get the idea about
+
+05:01.670 --> 05:02.630
+it.
+
+05:02.630 --> 05:06.550
+Then the Distributed power management Titos of cost of Mutual's automatic.
+
+05:06.560 --> 05:14.500
+You can chose aggressive or conservative as the same as this but we always get pissed off.
+
+05:14.600 --> 05:16.960
+Then we have some other option.
+
+05:17.170 --> 05:25.460
+Theres some other ones that do add some a method you click the Add parameter and some value.
+
+05:25.490 --> 05:31.140
+So this is the quick idea about to terminate on the DNS in our cluster.
+
+05:31.220 --> 05:32.220
+So in the next we do.

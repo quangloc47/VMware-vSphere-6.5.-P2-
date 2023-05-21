@@ -1,0 +1,214 @@
+WEBVTT
+
+00:00.710 --> 00:01.570
+Hello again.
+
+00:01.770 --> 00:09.330
+So if you remember when we try to migrate a machine that is a local start of a host and want to use
+
+00:09.330 --> 00:15.710
+the emotion only you get an error message and you don't see any other.
+
+00:15.740 --> 00:23.390
+Yes I Haast But no when we use our virtual machine that use an external or a shedid splash and try to
+
+00:23.390 --> 00:26.490
+migrate to our machine right there.
+
+00:26.740 --> 00:27.240
+No.
+
+00:27.270 --> 00:32.730
+If we chose to change the computer resource only that information and click next.
+
+00:32.760 --> 00:39.220
+No you will see all the different Holst's that is available to Magri traits.
+
+00:39.240 --> 00:42.800
+So if we check out number three compatible check successfully.
+
+00:42.960 --> 00:44.610
+Number two is number one.
+
+00:44.670 --> 00:45.560
+That's it.
+
+00:46.160 --> 00:52.230
+Also if you want to migrate a victory machine from a cluster to another cluster we simply click on the
+
+00:52.230 --> 00:54.720
+cluster and we check the different cluster.
+
+00:54.720 --> 00:55.140
+Right.
+
+00:55.150 --> 00:57.960
+Then of course we to see the cluster later.
+
+00:58.290 --> 01:05.110
+But no we work on the House level all day and decem will be for the cluster.
+
+01:05.280 --> 01:11.090
+So if we chose any of those hosts the compatibility is sexy.
+
+01:11.670 --> 01:20.130
+That's mean we can migrate this machine from the resource of Isak's I want to do Tressel's of the E6
+
+01:20.490 --> 01:29.940
+2 and 3 of course all those E6 I should be able to read do shit storage that have this Vertretung machine
+
+01:29.970 --> 01:30.570
+inside it.
+
+01:30.570 --> 01:33.370
+That's mean the last one and this condition is really over.
+
+01:33.600 --> 01:42.420
+So it shows he asks I'm number two we click next then we choose the VM in its work destination.
+
+01:42.450 --> 01:42.830
+That's me.
+
+01:42.840 --> 01:50.080
+This machine connected to a VM network to host one and will be migrated to do them and it will work.
+
+01:50.090 --> 01:51.860
+It's the same name that's me.
+
+01:51.870 --> 01:53.600
+The other has to have the same name.
+
+01:53.700 --> 01:59.630
+If we have any other VM network that's not part group for your machine.
+
+01:59.760 --> 02:04.560
+You will see a list of the different parts going to write and then you pick up a new one and check the
+
+02:04.560 --> 02:07.580
+compatibility with that one.
+
+02:08.760 --> 02:10.610
+So this is another thing.
+
+02:10.770 --> 02:16.560
+We migrate the machine from the minute walk to another theme network.
+
+02:16.560 --> 02:24.490
+So we click next day we have option to schedule when we shine with highest priority on.
+
+02:24.740 --> 02:25.490
+That's me.
+
+02:26.650 --> 02:36.990
+Is the height resouce of the spew of this environment or is that center to do.
+
+02:37.030 --> 02:37.580
+That's me.
+
+02:37.640 --> 02:46.510
+Give priority to this task to migrate this machine from the host Isak's I wan to the host Isak's I talk
+
+02:47.520 --> 02:53.230
+so much in reserve hides spews Gillooly a preference relative to normal priority migration.
+
+02:53.280 --> 02:59.420
+The mission of my complaint more quickly and do skiddoo regular motion.
+
+02:59.580 --> 03:05.140
+Reserves that lower Skibbereen preference relative to hide the migration.
+
+03:05.140 --> 03:11.230
+You can extend the mission duration so as we have a simple log we don't have any problem.
+
+03:11.440 --> 03:18.270
+And of course information about the risk of migration if you have some problem we is X I number but
+
+03:18.280 --> 03:23.830
+what I do want to begin is other other machines other host you need to use the highest priority to do
+
+03:23.830 --> 03:28.090
+the job before any problem happen to do house number one.
+
+03:28.090 --> 03:34.840
+So if we click next to seat option a quick view challenge computer resouce leave him on the original
+
+03:34.930 --> 03:36.070
+storage.
+
+03:36.160 --> 03:37.260
+That's a quick idea.
+
+03:37.270 --> 03:38.060
+That's me.
+
+03:38.070 --> 03:44.260
+We do the motion of the resource of the brain of the virtual machine that can win xp.
+
+03:44.320 --> 03:48.270
+And before then the host destination is Isak's.
+
+03:48.270 --> 03:51.970
+I can but talk network network with a.
+
+03:52.000 --> 03:52.520
+That's me.
+
+03:52.570 --> 03:54.380
+We don't change anything from them.
+
+03:54.390 --> 03:57.520
+It's what an emotion is right.
+
+03:57.640 --> 04:00.310
+So we click Finish Let's see.
+
+04:00.320 --> 04:01.040
+That's me.
+
+04:01.150 --> 04:08.210
+We still have the machine about it on the machine still work better.
+
+04:08.360 --> 04:09.190
+They.
+
+04:11.230 --> 04:14.800
+If we run the machine like that.
+
+04:14.810 --> 04:17.910
+We see that the machine still work without any problem.
+
+04:18.440 --> 04:27.940
+And when you see it will go faster than the storage because the stores move all the data.
+
+04:28.030 --> 04:35.390
+But no it's only more resource so well wait onto the end of it.
+
+04:35.630 --> 04:39.250
+So as you see the virtual machines still work perfectly.
+
+04:39.260 --> 04:39.780
+No.
+
+04:39.800 --> 04:47.760
+As you see we have the same back and do mission accomplished successfully.
+
+04:47.860 --> 04:53.740
+So you back right here you see Windows XP gone from Isak's.
+
+04:53.860 --> 04:59.430
+I wonder if we checked is excite you will see that we have to win xp still.
+
+04:59.470 --> 05:01.630
+Power it on inside is.
+
+05:01.630 --> 05:06.680
+I number two perfectly.
+
+05:06.880 --> 05:08.540
+So next we'll see.
+
+05:08.620 --> 05:14.520
+Another the motion of the stars and the resource.
+
+05:14.540 --> 05:15.220
+So soon the next.

@@ -1,0 +1,259 @@
+WEBVTT
+
+00:00.310 --> 00:07.500
+Blogging so after discovering what the derrieres and the storage areas do and you know that's the details
+
+00:07.580 --> 00:15.360
+and to start a serious work automatically that's mean he is demotion automatically without needing to
+
+00:15.360 --> 00:20.380
+do anything by making it our country to know best.
+
+00:20.490 --> 00:21.820
+Should he do.
+
+00:21.850 --> 00:30.800
+No we have some rules that we need to apply to avoid some problem for our environment or for our cluster.
+
+00:31.470 --> 00:40.110
+But through callid affinity and Antti affinity rule in some cases for example in virtual machine in
+
+00:40.170 --> 00:51.620
+our Santer we create for example by scene in different Tulse but in some condition we need to use two
+
+00:51.860 --> 00:59.360
+server machine to virtual machine for example of the same root in a separate hosts.
+
+00:59.450 --> 01:08.290
+For some reason for example let's start with the VM TVM on the iPhone.
+
+01:08.460 --> 01:11.200
+That's me rant DMD's on different tasks.
+
+01:11.210 --> 01:11.920
+That's me.
+
+01:11.940 --> 01:14.910
+We have a virtual machine a virtual machine.
+
+01:14.920 --> 01:18.000
+B We need to run them in different tasks.
+
+01:18.000 --> 01:22.280
+In any case this virtual machine should not run into same hosts.
+
+01:22.290 --> 01:23.190
+Why.
+
+01:23.190 --> 01:26.340
+For example we have an exchange server.
+
+01:26.610 --> 01:33.840
+When we create in our company an Exchange server for the security reason we need to have atlast to exchange
+
+01:33.840 --> 01:40.530
+server jewel case server that work together for a security reason that's something wrong happened to
+
+01:40.530 --> 01:49.860
+the case number one the Case number two should keep running to avoid losing our work or our server in
+
+01:49.980 --> 01:56.280
+some specific company imagine that the big company that have a server that's do its own job drove the
+
+01:56.280 --> 01:59.690
+Server Exchange and the server exchange tickets.
+
+01:59.690 --> 02:07.530
+Now imagine how many they were lost when the Server Exchange is out of service for at least one hour
+
+02:07.560 --> 02:08.250
+or two.
+
+02:08.250 --> 02:11.050
+How so for security reasons.
+
+02:11.190 --> 02:17.980
+It is always necessary to use atlast to exchange route as a day's work for them.
+
+02:17.990 --> 02:19.360
+Want to try it.
+
+02:19.500 --> 02:26.270
+But let's make it simple and it only two days served to make the idea more clear.
+
+02:26.280 --> 02:35.310
+So for that we need to go to the server or the number or the case server one in a host and another case
+
+02:35.400 --> 02:36.260
+server.
+
+02:36.480 --> 02:43.320
+The second one in a second does for security reason for example the hosts one have some problem.
+
+02:43.320 --> 02:49.060
+For example it's data or it's damaged or it's is of.
+
+02:49.130 --> 02:55.200
+So the company kept using Case number two from the host non-virtual.
+
+02:55.370 --> 02:55.870
+That's me.
+
+02:55.880 --> 02:58.930
+We still have connection to do still work.
+
+02:59.360 --> 03:03.550
+So my server will be always available in that condition.
+
+03:04.370 --> 03:15.030
+Two of we having Duke case 1 and case all in the same host we need to get some afine to run it on afine
+
+03:15.760 --> 03:23.140
+that's mean the affinity it's to make them at the same host the affinity is to make them into separate
+
+03:23.350 --> 03:27.610
+hosts to run due to VMC all different host.
+
+03:27.820 --> 03:32.270
+So we had our affinity group in the Live at MTV.
+
+03:32.600 --> 03:36.010
+That's I mean a virtual machine to have it you see in different house.
+
+03:36.010 --> 03:42.960
+So in any case of course this example I have only to host but just to get the idea in the right environment
+
+03:43.000 --> 03:50.480
+would have 10 20 hosts and there as will keep negotiating virtual machine from host to host for some
+
+03:50.530 --> 03:52.380
+specific reason of the resource.
+
+03:52.380 --> 03:59.660
+Then the next day he needs your machine beat on the host talked on the host 5 and then after a week
+
+03:59.670 --> 04:04.420
+see that the virtual machine should be migrated from housewives to host one.
+
+04:04.470 --> 04:12.420
+And in that case when we created the vitriol machine B that is the case server number two of the exchange
+
+04:12.830 --> 04:20.240
+on the Housewives has one note we have the virtual machine and the virtual machine be in the same host.
+
+04:20.430 --> 04:28.000
+And we have a dungeon situation that's mean if something wrong happened to this host We're going to
+
+04:28.010 --> 04:32.070
+lost our mail server in our company.
+
+04:32.290 --> 04:40.400
+So we're up Oh Auntie up in each room and we tell to do their s configuration please.
+
+04:40.420 --> 04:45.740
+The Virtual Machine Age and virtual machine should never be in the same house.
+
+04:45.910 --> 04:52.660
+So you're automatically keep a rule in his man and every time when he wants to migrate and virtual machine
+
+04:52.730 --> 05:00.040
+AI or the virtual machine he will check that different server available and always migrate the virtual
+
+05:00.040 --> 05:03.990
+machine to our host and the virtual machine.
+
+05:04.090 --> 05:10.030
+To a lot of different hosts and who never use them together in the same host.
+
+05:10.270 --> 05:16.960
+This is the idea of the only affinity and the same idea for affinity that's me around Aranda Wii games
+
+05:16.960 --> 05:18.810
+on the same hostes.
+
+05:18.820 --> 05:25.190
+That's me always around the virtual machine and the virtual machine be in the same Haast.
+
+05:25.210 --> 05:26.230
+How so.
+
+05:26.260 --> 05:30.550
+For example we have our shaded point connected to our database.
+
+05:30.550 --> 05:36.250
+So for example this virtual machine about the shared point and this virtual machine for the database
+
+05:36.340 --> 05:39.700
+that's server shared point.
+
+05:39.830 --> 05:47.870
+For example just an example in our environment we use the one gigabyte file duplex network adapter to
+
+05:47.870 --> 05:49.630
+connect it to different tasks.
+
+05:49.760 --> 05:55.690
+But as we know the vitriol network adapter inside the different tasks.
+
+05:55.790 --> 06:03.200
+How did gigabytes of speed that mean the connection between the difference between the machine inside
+
+06:03.200 --> 06:12.560
+the same host is 10 gigabytes of speed but the connection between virtual machine from the host to another
+
+06:12.560 --> 06:18.550
+virtual machine inside another host is limited by one gigabyte for leaks.
+
+06:19.100 --> 06:27.860
+So this is just an example of why we need to virtual machine in the same hosts for a reason.
+
+06:27.860 --> 06:34.790
+Of course there are lots of situations but I don't have any idea right now about why we need to run
+
+06:34.890 --> 06:36.620
+to video in on the same host.
+
+06:36.620 --> 06:38.540
+But this is just an example.
+
+06:38.780 --> 06:47.810
+So to get to the benefits of using change gigabytes fald a place that's exist inside the vitriol switch
+
+06:47.930 --> 06:49.760
+and the virtual network adapter.
+
+06:49.910 --> 06:55.200
+We need to always run this virtual machine inside the same host.
+
+06:55.250 --> 07:02.930
+So for that we could use a VM to VM opportunity that's me run VM on the same host and we are that does
+
+07:03.020 --> 07:04.910
+the virtual machine.
+
+07:05.210 --> 07:10.700
+That's mean for example for the shedded point and the virtual machine B for the database offered to
+
+07:10.730 --> 07:11.110
+share it.
+
+07:11.120 --> 07:16.980
+One should always run in the same host.
+
+07:17.000 --> 07:25.920
+So in any case data is need to migrate the Vitruvian machine he automatically will agree to vidual machine.
+
+07:26.060 --> 07:31.420
+We did the affinity this virtual machine bit to vitriol machine a.
+
+07:31.670 --> 07:41.000
+It will take them both off this machine and migrating them to another house that can support this virtual
+
+07:41.000 --> 07:42.100
+machine.
+
+07:42.110 --> 07:49.250
+So this is the idea of affinity and affinity it rule out delivery of the fee to VM.
+
+07:49.330 --> 07:51.440
+So the next video for more rules.

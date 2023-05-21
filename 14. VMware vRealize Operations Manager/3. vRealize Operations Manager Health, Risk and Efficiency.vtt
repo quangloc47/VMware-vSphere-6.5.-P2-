@@ -1,0 +1,340 @@
+WEBVTT
+
+00:02.650 --> 00:10.720
+So after deploying your verbs in your environment one of the requirements of using de Vere ups in the
+
+00:10.720 --> 00:20.160
+real environment is to leave the ropes working in that environment at least 13 days more times develop
+
+00:20.200 --> 00:22.650
+work more useful that I will get.
+
+00:22.840 --> 00:29.560
+Of course if you just On-Star developed today and the next day try to check the statute Virata all the
+
+00:29.560 --> 00:30.640
+data that you will get.
+
+00:30.640 --> 00:33.630
+It's not very accurate it Durrett environment.
+
+00:33.640 --> 00:39.340
+It's just our preview information that you get much.
+
+00:39.420 --> 00:46.840
+The most important of course you don't need to take any action from those that are out to begin because
+
+00:47.000 --> 00:50.710
+it is just temporary not a very important data.
+
+00:50.850 --> 00:56.940
+So for that it is always recommended to leave the Viret walk in your environment at least 13 day or
+
+00:57.180 --> 00:59.470
+two more will be more good.
+
+00:59.970 --> 01:08.760
+So when you leave your stops working for at least 13 days or 15 or 16 days after That's when your visit
+
+01:08.950 --> 01:13.390
+overtops you will get useful data about your environment.
+
+01:13.520 --> 01:15.270
+The action that necessity.
+
+01:15.450 --> 01:17.400
+And so on and so on.
+
+01:17.400 --> 01:24.330
+So for that in our home lab we can't do it because our home lab is just for the record.
+
+01:24.510 --> 01:30.990
+Also the difference between machine and the horse not used by anyone it just you do what it them.
+
+01:30.990 --> 01:39.080
+So the statue or the rocks will not be very important for me or for the purpose.
+
+01:39.210 --> 01:44.360
+So for that I get to just some examples from the Internet.
+
+01:45.030 --> 01:55.260
+So when you leave your apps after 13 or 14 days then you check do their ops that you will get a page
+
+01:55.260 --> 01:55.980
+like this one.
+
+01:55.980 --> 01:58.410
+Of course this one is not division of the.
+
+01:58.440 --> 02:00.030
+Don't you want have some change.
+
+02:00.050 --> 02:08.030
+That is what but just to get the idea he gave you the health of your environment like this one right
+
+02:08.030 --> 02:08.480
+here.
+
+02:08.730 --> 02:14.540
+If you get all the squar at greened that's me your environment is very good.
+
+02:14.550 --> 02:16.190
+It's a healthy environment.
+
+02:16.380 --> 02:23.310
+If you get some yellow color that's mean you have some warning or some issues are a small issue in your
+
+02:23.310 --> 02:23.980
+environment.
+
+02:24.060 --> 02:28.950
+Then when you get the Red Square it's a critical odor in your environment.
+
+02:28.950 --> 02:30.500
+You need to take action.
+
+02:30.660 --> 02:38.370
+Then when you put the mouse in any of the square it show you are about the issues or the objects in
+
+02:38.370 --> 02:46.080
+your environment that have a problem or it is working in a good state then you simply click on any of
+
+02:46.080 --> 02:49.210
+those Red Square to get the details about the issue.
+
+02:49.230 --> 02:56.610
+The critical issue or the warning or the immediate etc. then you get some requirement to fix that problem.
+
+02:56.610 --> 03:01.410
+For example if we check this one you right there environment health alert.
+
+03:01.410 --> 03:03.930
+Then we have health alert for dissent.
+
+03:03.930 --> 03:10.380
+Then log on to your client or visit web client and manually reconnected the hosted Center after the
+
+03:10.380 --> 03:13.140
+connection to the host is restored by voice the server.
+
+03:13.290 --> 03:18.180
+The other two were to be cancelled but many did take it that a host is not connected to the center so
+
+03:18.230 --> 03:21.420
+it's give you are critical alert.
+
+03:22.020 --> 03:26.860
+Then we have some other writers storage performance 5.5.
+
+03:26.880 --> 03:30.450
+Environment zero recommendation not accommodation available.
+
+03:30.780 --> 03:37.040
+Then we have a problem with V Center component environment recommendation to resolve the problem depend
+
+03:37.050 --> 03:41.290
+on the specific projects that cause default view etc..
+
+03:41.490 --> 03:47.280
+Then of course you have some on battlement risk then Environment efficiency it'll give you all some
+
+03:48.270 --> 03:50.190
+requirements are going right.
+
+03:50.430 --> 03:58.260
+Virtual Machine has Konik high speed work load loading superstrings 5 objects impacts one recommendation
+
+03:58.380 --> 04:05.910
+add more capacity for this virtual machine then hide spew Mustapa D2 snapshots.
+
+04:06.000 --> 04:06.840
+When you have a problem.
+
+04:06.870 --> 04:13.970
+Our delivery does not stop to reduce the height stop C S DP value and increase virtual machine performance
+
+04:14.250 --> 04:14.890
+console it is.
+
+04:14.900 --> 04:17.160
+It is not dropped into demen vitriol.
+
+04:17.190 --> 04:21.510
+My disk used a client to perform this operation and so on and so on.
+
+04:21.510 --> 04:28.490
+Let me give you a problem that some virtual machines have are a high number order snapshot so it caused
+
+04:28.500 --> 04:30.770
+the slow loading of the virtual machine.
+
+04:30.840 --> 04:34.750
+So the requirement is to consolidate any old snapshots.
+
+04:34.760 --> 04:40.680
+For example you have a better machine that have frequently not shot every one week or every two days
+
+04:41.130 --> 04:44.580
+and the number of the snapshots in your machine is height.
+
+04:44.630 --> 04:46.230
+So why do that.
+
+04:46.290 --> 04:54.960
+Please check this virtual machine and try to consolidate any snapshot of weed consuming space and slow
+
+04:55.410 --> 04:57.050
+loading of the virtual machine.
+
+04:57.120 --> 04:59.490
+So there are a lot lot of other examples.
+
+04:59.490 --> 05:05.160
+Virtual Machine has logic snapshot just what for example if the virtual machine has much of its natural
+
+05:05.160 --> 05:07.090
+delays to all that not a lot.
+
+05:07.350 --> 05:09.510
+Then another to sit down.
+
+05:09.750 --> 05:11.790
+There are some other issues.
+
+05:11.910 --> 05:14.800
+For example let's check this other image right here.
+
+05:15.180 --> 05:20.010
+This is another view from a modern version of drops.
+
+05:20.370 --> 05:23.820
+So you see the lost connectivity to the viewport.
+
+05:23.850 --> 05:30.930
+The distributed port the host has lost the redundant connectivity to the port lets me disconnect from
+
+05:30.930 --> 05:34.110
+one network adapter and have another one that still use it.
+
+05:34.260 --> 05:36.510
+So it need do redundant.
+
+05:36.510 --> 05:40.050
+Virtual Machine does continue his memory is causing stress.
+
+05:40.080 --> 05:42.270
+I mean it's overload overloaded Adami.
+
+05:42.400 --> 05:46.760
+The more memory fault is with your machine and of course drag the process of the drops.
+
+05:46.770 --> 05:52.780
+You can configure developers to do it automatically so it detects a virtual machine have a high loading
+
+05:52.800 --> 05:57.420
+of the memory you automatically try to add memory to this virtual machine.
+
+05:57.420 --> 06:02.640
+Of course you need to have more free memory in your environment to do that and so on and so on.
+
+06:02.640 --> 06:09.360
+Of course there are a lot lot of data useful data from the ropes for example an information about the
+
+06:09.360 --> 06:15.460
+shared information about virtual machine about the hauz about the network.
+
+06:15.690 --> 06:16.750
+About the.
+
+06:16.800 --> 06:18.840
+About the height of ability.
+
+06:19.160 --> 06:23.350
+Look a lot of information that you can get from drops.
+
+06:23.370 --> 06:26.000
+So you see this fire hose of review.
+
+06:26.090 --> 06:33.030
+This fear V.M. memory this fear VAMC Piru that when you take one of them and you get to say about virtual
+
+06:33.030 --> 06:38.270
+machine C.P. disk and network and so on and so on.
+
+06:38.490 --> 06:46.980
+So there are a lot of examples you can check in from Google or you can install drops in your environment
+
+06:47.070 --> 06:48.600
+and start using it.
+
+06:48.600 --> 06:56.000
+Also we have the virtual sign etc. Ald. information about the virtual sun and so on and so on.
+
+06:56.460 --> 06:58.680
+So this is a quick overview about it.
+
+06:58.710 --> 07:08.030
+Of course you need to give it a lot of time to get more data unfortunately the course is not about overtops
+
+07:08.070 --> 07:10.130
+it will need a fart in your calls.
+
+07:11.010 --> 07:15.330
+I will try to planning to carry it another course about props.
+
+07:15.570 --> 07:18.190
+But for now this is the end of the school.
+
+07:18.480 --> 07:23.790
+And if you want to know more about drops by your seat of course at the and of course you will be able
+
+07:23.790 --> 07:30.750
+to do the jobs without any problem you already have to sit and knowledge about how VM will work.
+
+07:30.760 --> 07:38.170
+You know any bank for example if you see about Demi Moore you didn't know how to do a memory of your
+
+07:38.220 --> 07:38.820
+machine.
+
+07:38.880 --> 07:45.450
+If you get a message about redundancy you know that it's information about the physical network adapter
+
+07:45.510 --> 07:46.850
+and the connectivity.
+
+07:46.980 --> 07:47.760
+We don't talk.
+
+07:47.760 --> 07:52.530
+So you are ready to use develops without needing any video.
+
+07:52.540 --> 07:59.530
+Tony Nichol's but in case you want to know more about it you can simply use the Web site of the web.
+
+07:59.610 --> 08:00.090
+What is up.
+
+08:00.090 --> 08:07.810
+Go right here you see some details about it how to get installed how its configuration how is it that
+
+08:07.960 --> 08:08.990
+store etc..
+
+08:09.000 --> 08:19.450
+There are some Isbel video right hand to get information about how to use the OPs a chicken in a small
+
+08:19.450 --> 08:20.430
+VDU right here
+
+08:27.800 --> 08:35.060
+to give you a demonstration with the dashboard so you click on this one.
+
+08:35.200 --> 08:36.320
+That's it.
+
+08:36.750 --> 08:43.350
+So next we see a quick overview about this video content in an online lock.
+
+08:43.420 --> 08:44.410
+So soon the next big.

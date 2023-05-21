@@ -1,0 +1,223 @@
+WEBVTT
+
+00:01.410 --> 00:02.080
+Blogging.
+
+00:02.250 --> 00:11.110
+So let's try to attach our busline to the data center to check compliance and what will happen.
+
+00:11.250 --> 00:15.080
+So we are back to the home horse and cluster.
+
+00:15.350 --> 00:23.130
+And we can attach it to the bus line for the different location for example in the Santer we have data
+
+00:23.200 --> 00:30.200
+manager at delivery of the class that are so we can attach it to the hosts baseline and a delivery of
+
+00:30.220 --> 00:32.880
+do is X Y is the same.
+
+00:32.990 --> 00:36.460
+So let's DeWitt's from delivery of do data center.
+
+00:36.500 --> 00:40.130
+So we get updates from delivery of the data center.
+
+00:40.310 --> 00:47.510
+So we certainly in the data center Morakot we got to update it and we click Attash busline.
+
+00:47.600 --> 00:53.000
+So here we see the difference because line available in our environment we check the ones that we want.
+
+00:53.000 --> 00:57.900
+For example no baseline that we created order noncritical Hall's order category.
+
+00:58.100 --> 01:03.970
+Then we have a delivery of the virtual machine the hardware and Devane which are for example is being
+
+01:04.010 --> 01:05.640
+worked well for your information.
+
+01:05.670 --> 01:12.910
+VM where to upgrade is only available and can be a delivery of or something you can't attach should
+
+01:13.160 --> 01:15.440
+the bus line all the way through.
+
+01:15.520 --> 01:19.340
+A delivery of it is if I host or adalah of it of the cluster.
+
+01:19.340 --> 01:23.110
+You could do it only for all do that doesn't.
+
+01:23.840 --> 01:26.850
+So we click OK betrothals do what we want.
+
+01:26.880 --> 01:27.500
+That is it.
+
+01:27.680 --> 01:35.290
+So then we have the upgrade and Horst busline your attache to do that Astar.
+
+01:35.340 --> 01:42.210
+So if we click on any of them like that you see that we have an empty list of complaint that's me.
+
+01:42.270 --> 01:48.750
+It does not know if there's a difference between a machine and the host is compliant or not compliant
+
+01:48.810 --> 01:50.210
+or incompatible.
+
+01:50.270 --> 01:53.520
+It didn't or like what we did with the hosts profile.
+
+01:53.520 --> 01:54.870
+We have three Isak's.
+
+01:54.900 --> 01:56.260
+I have a state.
+
+01:56.300 --> 02:04.410
+And you know you don't know if the updates in this one have compliance with the I host it in Inconnu
+
+02:04.660 --> 02:11.800
+Also in with us we have the difference between a machine and we have the state Inconnu.
+
+02:11.850 --> 02:16.760
+So let's start we do know busline Abdula of the hosts.
+
+02:16.830 --> 02:24.630
+So you see we have three yes I host interested in Keino didn't have new button available skein the selected
+
+02:24.630 --> 02:27.910
+inventory object for pait and or upgrade.
+
+02:28.080 --> 02:28.700
+That's me.
+
+02:28.710 --> 02:34.450
+It will check those I host and do updates available on the view.
+
+02:34.450 --> 02:37.090
+What are they are compliant or no.
+
+02:37.290 --> 02:45.930
+Do you have state page and remediate go to admin it's real let us back to the updates manager then remediate.
+
+02:45.930 --> 02:53.370
+It's like in starlet's mean start the remediate resort to refine patch or upgrade to apply to do it
+
+02:53.430 --> 02:54.770
+involuntarily object.
+
+02:54.810 --> 03:01.470
+That's really what will check the different updates available for those E-6 I host it will download
+
+03:01.590 --> 03:07.870
+the updates and start installation of the updates for the difference is a host if necessary some hosts
+
+03:07.890 --> 03:10.680
+will put in montanum smart and reboot.
+
+03:10.680 --> 03:19.740
+If not it will only add updates of it even then we have stage beat State beat is to download the specific
+
+03:19.850 --> 03:23.520
+page to host you selected which are.
+
+03:23.640 --> 03:25.400
+Remediate is faster.
+
+03:25.410 --> 03:28.300
+You see remediate is faster.
+
+03:28.860 --> 03:33.100
+Why when did you use state page in case that remedied.
+
+03:33.180 --> 03:37.140
+Also download the update then unstored update.
+
+03:37.620 --> 03:46.550
+If we chose to remediate directly it will put the horse into maintenance mode then it start downloading
+
+03:46.560 --> 03:51.360
+do updates and installed updates the one by one.
+
+03:51.390 --> 03:58.700
+In this case your host will be in dimension for a long time and of course in the raid environment it's
+
+03:58.710 --> 04:04.800
+not necessary to have an X in meant and a smart or out of service for a long time.
+
+04:04.980 --> 04:08.200
+You should make two updates as quick as possible.
+
+04:08.220 --> 04:11.140
+So for that you need to use stage paid.
+
+04:11.220 --> 04:20.850
+It will download all the available update for your E6 I host and put them inside a store out of the
+
+04:20.860 --> 04:26.950
+resentence server and when you chose remediate it will automatically start the installation from the
+
+04:27.030 --> 04:31.290
+available updates available in your central server.
+
+04:31.290 --> 04:36.090
+Of course we need to start with discomfort update to see any updates available.
+
+04:36.140 --> 04:37.660
+The difference is it's a host.
+
+04:37.860 --> 04:44.780
+So we click scan and it will ask you to scan the page and extension or upgrade.
+
+04:44.850 --> 04:48.590
+Of course where it will check to upgrade fine.
+
+04:48.600 --> 04:56.370
+Of course in our situation we don't need to wait for one or two how to check any upgrade available so
+
+04:56.370 --> 04:57.860
+we can check this one.
+
+04:57.930 --> 05:02.460
+Then I would check the virtual appliance because we don't need the virtual applies right.
+
+05:02.560 --> 05:09.360
+No we all keep doing what you or the VM where hardware and the page and the extension.
+
+05:09.540 --> 05:12.110
+Of course in the right environment you need to check this one.
+
+05:12.240 --> 05:16.140
+This one if you need to get updates about the vitriol appliance you do it.
+
+05:16.140 --> 05:22.160
+If not you don't care about it but upgrade is necessary to make the upgrade.
+
+05:22.190 --> 05:25.910
+For the difference E-6 I host.
+
+05:25.950 --> 05:33.300
+So we click OK and upgrade we'll start and discarnate will start a bit of the data center.
+
+05:33.480 --> 05:46.060
+So odd I host and cluster but in this one will scan it by the updates Monell so you can do diffidence
+
+05:46.100 --> 05:54.350
+Isak's I host Isak's I want to three.
+
+05:54.360 --> 06:02.540
+The difference between a machine.
+
+06:02.860 --> 06:12.210
+So how does it know it shows you that we have internal state we need to refresh to get your updates
+
+06:12.220 --> 06:17.830
+so you see no increase or become zero and noncompliance become free.
+
+06:17.860 --> 06:22.270
+That's mean we have three host not complied with the latest update.

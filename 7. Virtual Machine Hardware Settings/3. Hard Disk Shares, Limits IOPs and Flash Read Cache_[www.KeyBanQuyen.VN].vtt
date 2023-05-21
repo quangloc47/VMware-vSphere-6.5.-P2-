@@ -1,0 +1,220 @@
+WEBVTT
+
+00:00.930 --> 00:01.700
+Blogging.
+
+00:01.900 --> 00:08.830
+So the next option we have in a virtual machine is do a hard disk.
+
+00:08.850 --> 00:15.120
+Also we cover a little about the hard disk into preview cards so no we're going to discover this new
+
+00:15.240 --> 00:21.960
+option that we have right here that we didn't call her in the preview quotes so as to say we have a
+
+00:22.200 --> 00:24.930
+number of jigaboo of the hard disk.
+
+00:24.930 --> 00:29.520
+This one take about 20 or 40 gobshites the maximum size.
+
+00:29.520 --> 00:33.070
+It is information about the size available in the host.
+
+00:33.120 --> 00:35.360
+So the hosts have about 50 years ago right.
+
+00:35.370 --> 00:41.540
+It's costing them about one on the hard Jacobites sword available is forty eight gigabytes.
+
+00:41.700 --> 00:47.550
+So we can get space to just hard disk to maximum size to eight.
+
+00:47.690 --> 00:51.010
+GIGOT When do you see it is in a bottle.
+
+00:51.130 --> 00:57.270
+Do you see the Wii ball Narok wife and vison default storage will you see this is integration about
+
+00:57.690 --> 01:04.220
+kind of the datastore use in either a house or in external storage shed its trust.
+
+01:04.290 --> 01:12.480
+How for example can ease of DIVOLA harddrive or our recent storage then do the occupation that mean
+
+01:12.480 --> 01:18.600
+you would encrypt the storage of this virtual machine then do default that are store.
+
+01:18.830 --> 01:20.630
+Well then we have the time.
+
+01:20.780 --> 01:28.110
+And of course you can't do that and take provision about it on Victorien machine or even when you create
+
+01:28.170 --> 01:35.730
+our harddrive if you want to know what does mean thin and thick BroadVision you back to preview calls.
+
+01:35.780 --> 01:41.430
+Then we have the shielding dishing is not the same as share.
+
+01:41.430 --> 01:48.810
+If you remember we talked into Preview Domani and you are about to share and no we have shinning you
+
+01:48.810 --> 01:53.600
+see ahead we have no shitting because this hard disk is use it right.
+
+01:53.600 --> 01:57.710
+No we need your power of to be able to use this option.
+
+01:57.870 --> 02:04.650
+So we discovered the shed as the same as the Scipion did we have the shed as normal high and low.
+
+02:04.650 --> 02:16.500
+So for example the low How about 5000 The high is about 2000 and about the one Townsends shit.
+
+02:16.540 --> 02:24.880
+This is addition about inputs outputs IOPS speed of read and write in how driver you give is the Pre-OT
+
+02:24.880 --> 02:29.590
+for some virtual machine then other virtual machine of the data base.
+
+02:29.680 --> 02:34.510
+You should give it's about height share that's me in this database.
+
+02:34.570 --> 02:37.470
+Need to write and read more about that.
+
+02:37.540 --> 02:44.990
+So you give it height check to give it a priority to do a virtual machine of the database.
+
+02:45.090 --> 02:50.190
+Then we have to limit input output operation.
+
+02:50.190 --> 02:56.570
+That's me IOPS as we see in CPR on him and we also heard we have some limits.
+
+02:56.640 --> 03:02.500
+Of course you can give it some specific limits for example 200 etc. but of course if you try to give
+
+03:02.570 --> 03:13.520
+his number is not supported limits like you see her limits IOPS must be between 16 and this number.
+
+03:13.520 --> 03:16.010
+The amount is too small.
+
+03:16.030 --> 03:21.300
+I mean if you give it six this machine would not want it to work because it is a lot of work.
+
+03:21.310 --> 03:27.120
+We did a speed of six operation bar savant or six IOPS Sue-Linn.
+
+03:27.540 --> 03:34.100
+That's me IOPS eats me input output but so I can read and write part signon.
+
+03:34.230 --> 03:35.730
+So you give it a six.
+
+03:35.730 --> 03:36.880
+This is illogical.
+
+03:36.930 --> 03:44.520
+So you need to be with a specific number and this one you let me do I'm put all of this how driver by
+
+03:44.820 --> 03:46.180
+six thousands.
+
+03:46.290 --> 03:54.430
+And this is something very dangerous that you should take care of all this one and always wait to a
+
+03:54.510 --> 04:01.100
+specific inputs output number right there into our application Wardo or an operating system hornbook
+
+04:01.410 --> 04:08.590
+request you to put a specific number right here because this one can damage to a harddrive that has
+
+04:08.700 --> 04:15.870
+this Vitry disk example the shaded storage or the local splosh.
+
+04:16.380 --> 04:20.980
+Then we have the virtual flash read cache do flash cache.
+
+04:21.240 --> 04:24.210
+You can specific do flash read.
+
+04:24.220 --> 04:24.680
+Gosh.
+
+04:24.840 --> 04:27.450
+So what does mean to flush with cash.
+
+04:27.840 --> 04:28.520
+That's me.
+
+04:28.560 --> 04:34.270
+We use our specific size from the harddrive to use it as our memory.
+
+04:34.320 --> 04:42.840
+Rain for example in this one I have for example in my laptop I have about 16 gigabyte of RAM but the
+
+04:43.310 --> 04:51.810
+operating system is about 1 gigabyte offering from the cache of the harddrive and so it is one before
+
+04:52.170 --> 04:55.070
+five minutes before it was number two right there.
+
+04:55.090 --> 04:57.930
+And it was 18.
+
+04:57.930 --> 05:05.930
+So when I consume about 18 gigabytes of the frame with the physical frame and the vitriol cache that
+
+05:06.000 --> 05:12.690
+uses as r.m of another one gigabyte from the harddrive and that's make to computer a little slow when
+
+05:12.690 --> 05:19.440
+we are on over loading on the frame you start started some data out from the rain into a hard drive
+
+05:19.620 --> 05:21.080
+and use it as a room.
+
+05:21.210 --> 05:28.770
+So it look its change and start becoming low automatically of course when I have some free rein in the
+
+05:28.770 --> 05:35.240
+physical memore room he start uploading that hard over to memory.
+
+05:35.620 --> 05:42.490
+So some part of the harddrive as our memory RAM in this.
+
+05:42.540 --> 05:45.810
+So this is the idea about the veggie or flush with cash.
+
+05:45.930 --> 05:52.440
+You can chose how much space you want to use from these hard disk to be used as a flash with recast
+
+05:52.810 --> 05:54.290
+as of its.
+
+05:54.660 --> 06:01.590
+And of course you can chose this one but you can leave it like that to use it automatically by the operating
+
+06:01.590 --> 06:02.260
+system.
+
+06:02.310 --> 06:09.900
+And as we know we use the monster as the driver of this virtual machine store it in our external storage
+
+06:10.270 --> 06:17.820
+the extent masalas other we have are flush with cash J.B. use it so you don't need to change this value
+
+06:17.930 --> 06:18.510
+into.
+
+06:18.570 --> 06:27.920
+You really need it then to discommode this option right now is not unbeatable because this driver is
+
+06:27.920 --> 06:35.170
+use it in a pot on your machine but lets try to get another one to see this option right.
+
+06:35.270 --> 06:38.190
+So in the next video we'll talk about this more.

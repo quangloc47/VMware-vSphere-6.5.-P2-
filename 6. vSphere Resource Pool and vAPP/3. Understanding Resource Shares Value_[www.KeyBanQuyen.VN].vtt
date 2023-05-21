@@ -1,0 +1,307 @@
+WEBVTT
+
+00:02.090 --> 00:03.120
+Help again.
+
+00:03.140 --> 00:06.490
+So how do researchers share work.
+
+00:06.530 --> 00:14.150
+Of course when you know that to give a portion of the research the producers share is not what we do
+
+00:14.310 --> 00:15.630
+percentage a young.
+
+00:15.720 --> 00:23.150
+Just use the percentile to understand what does mean a resource pool and how we separated the resources
+
+00:23.150 --> 00:23.790
+available.
+
+00:23.960 --> 00:31.010
+But in a rich environment we use research shared by our number.
+
+00:31.480 --> 00:40.380
+So the research center is like upwind for example we have a host that hosts have about for example in
+
+00:40.380 --> 00:45.670
+this situation eight thousand plus 4000 plus two thousand.
+
+00:45.870 --> 00:46.560
+That's me.
+
+00:46.710 --> 00:49.270
+It's about 14 thousands.
+
+00:49.590 --> 00:56.420
+So when we take our resource pool that we have available in the physical host that's when we separated
+
+00:56.430 --> 01:04.500
+that resource pool to fourteen thousand point or fourteen thousand shares.
+
+01:04.520 --> 01:11.310
+It's a method to use available resource by share point.
+
+01:11.310 --> 01:23.880
+So when we create our business pool we give it our value or determinate it by the amount of sheer obstinate
+
+01:23.970 --> 01:24.340
+to do.
+
+01:24.350 --> 01:33.210
+Paul divided by the number of victory in mushing into full so we have three option choose to do resource
+
+01:33.450 --> 01:37.620
+for physical resources for different resource pool.
+
+01:37.620 --> 01:41.130
+We have the low the normal and height.
+
+01:41.220 --> 01:50.500
+So when we chose low resource pool we get about 2000 or 2000 share.
+
+01:50.520 --> 01:59.580
+So as you see here for example low 2000 cheer they when we create a normal it's give it about four thousand
+
+01:59.680 --> 02:00.920
+share.
+
+02:00.990 --> 02:04.330
+Then the high is about eight thousand shit.
+
+02:04.470 --> 02:12.180
+But I mean the resource pool of normal is bubble of do low resource pool of heights is double of the
+
+02:12.300 --> 02:13.320
+normal.
+
+02:13.320 --> 02:20.490
+So when we separate our resource pool we chose normal to give it double of the low and high to give
+
+02:20.530 --> 02:22.630
+to the dubber resource of the normal.
+
+02:22.860 --> 02:24.880
+And so on and so on.
+
+02:24.930 --> 02:26.010
+So far so good.
+
+02:26.010 --> 02:31.120
+V.M. share value are in nice 4 to 1 right across the board.
+
+02:31.170 --> 02:36.330
+So that's mean when we create additional support and of our virtual machine inside that church was for
+
+02:36.330 --> 02:40.790
+example the last one we separated to do number how we called koodoo resource.
+
+02:40.790 --> 02:41.410
+I've seen it before.
+
+02:41.400 --> 02:42.550
+That's it machine.
+
+02:42.600 --> 02:46.560
+We see the number of shared by the number of virtual machine.
+
+02:46.560 --> 02:53.830
+So this virtual machine will take about 2000 share then we choose another visual machine into normal
+
+02:54.080 --> 02:58.560
+this virtual machine take about four thousands share.
+
+02:58.730 --> 03:03.880
+Mean this virtual machine have the double rissoles of this machine.
+
+03:04.060 --> 03:13.300
+I mean if this one take about 20 percent of the super to this one take about 40 percent of the CPI and
+
+03:13.370 --> 03:15.470
+a simple dream.
+
+03:15.470 --> 03:21.000
+Then when we create a virtual machine into height should it take about 800 chip.
+
+03:21.020 --> 03:21.620
+That's me.
+
+03:21.620 --> 03:26.910
+This one will take the double missile's of this one and so on and so on.
+
+03:27.110 --> 03:30.980
+But the question is what's the situation.
+
+03:31.010 --> 03:34.940
+If we create a virtual machine in a normal or in a low.
+
+03:35.180 --> 03:42.290
+So for that we have another diagram like this one as D.M. gets added to the normal pool and unbuttons
+
+03:42.310 --> 03:43.990
+start to our career.
+
+03:44.030 --> 03:44.500
+That's mean.
+
+03:44.510 --> 03:51.840
+If we create a virtual machine in allow resouce that's mean but true in Washington about 2000 shares.
+
+03:51.970 --> 03:56.120
+Then we create for victory and machine inside the normal shit.
+
+03:56.270 --> 04:02.820
+And if you remember we surprised and put that shit up the number that a virtual machine lets me Vitry
+
+04:02.870 --> 04:07.740
+and machine will take about one thousand share.
+
+04:07.810 --> 04:13.720
+So this virtual machine took 1000 this one 1000 at this one and this one.
+
+04:13.720 --> 04:18.530
+So the virtual machine in the low shed gets about 2000.
+
+04:18.570 --> 04:22.120
+Shit that's mean it's cost room to double resource.
+
+04:22.140 --> 04:28.870
+That virtual machine exists in the normal shit because we have four virtual machine separates the powerful
+
+04:29.150 --> 04:31.500
+or the restorers exist in the normal.
+
+04:31.570 --> 04:35.550
+So it's consume only one thousand share.
+
+04:36.710 --> 04:39.200
+Then of course the highs also have one virtual machine.
+
+04:39.200 --> 04:43.350
+If we give it to virtual machine everyone will take about 4000.
+
+04:43.470 --> 04:44.120
+Shit.
+
+04:44.360 --> 04:47.120
+So it still is more powerful.
+
+04:47.240 --> 04:52.340
+But of course more virtual machines that mean less resource for a virtual machine.
+
+04:52.670 --> 04:58.030
+So another situation that we have right there to fix the imbalance.
+
+04:58.070 --> 04:59.990
+Shared values should be adjusted.
+
+05:00.020 --> 05:02.650
+Rs not GM are added to the pool.
+
+05:02.810 --> 05:09.030
+Multiply the dessert bar of virtual machines share value by the amount of virtual machine in the pool
+
+05:09.050 --> 05:12.170
+to get an appropriate pool share value.
+
+05:12.170 --> 05:20.720
+For example 4000 chip packaging and machine multiply by four yams into pool Ikhwan 16000 share for the
+
+05:20.720 --> 05:21.420
+pool.
+
+05:21.440 --> 05:28.530
+That's me to get do right shared between two different virtual machines that we want to teach in our
+
+05:28.530 --> 05:31.150
+specific share value.
+
+05:31.150 --> 05:39.010
+We need to change the sheer number for normal by Michy plain by the number of vigin machine.
+
+05:39.010 --> 05:46.720
+So for example we have four virtual machine the four thousand share need to be multiplied by four virtual
+
+05:46.720 --> 05:51.340
+machine to give Isherwood's your machine about 4000 a share.
+
+05:51.580 --> 05:54.540
+So this is the solution to fix the problem.
+
+05:54.550 --> 06:00.070
+So when we put our virtual machine into a lull we know that we give is about 2000 share.
+
+06:00.210 --> 06:06.580
+When uproots a virtual machine in a normal by adjusting the number of the share for the Marma we know
+
+06:06.580 --> 06:10.420
+that virtual machine will take about 4000 share.
+
+06:10.510 --> 06:16.860
+Then when we create a virtual machine in the hides we know that we give is about eight hundred a share.
+
+06:16.870 --> 06:19.880
+Of course in a situation we want to add another virtual machine in this.
+
+06:19.900 --> 06:27.790
+We need to change due share height and it will automatically recalculates all number by 10.
+
+06:27.970 --> 06:34.810
+So when we say that we give it's about 600 chair that does not mean the virtual machine right here will
+
+06:34.810 --> 06:36.760
+have more resources than this one.
+
+06:36.760 --> 06:39.680
+It will make its own calculation by the percentage.
+
+06:39.850 --> 06:48.010
+And of course when this one gets two gigabytes when we change this one to six thousand share this one
+
+06:48.040 --> 06:49.860
+will not have to go buy it.
+
+06:49.870 --> 06:54.080
+It will be have about 1 1 8 gigabytes.
+
+06:54.310 --> 06:59.740
+And then the virtual machine that was taking four gigabyte or this one.
+
+06:59.770 --> 07:07.570
+No it will take the move of this one but it was one point eight that's mean keep 1 6 gigabytes of RAM
+
+07:07.600 --> 07:10.540
+and not forging up to have one and do same.
+
+07:10.540 --> 07:17.990
+This one will be recalculated and take a double of this one right there or for a time of this one.
+
+07:18.040 --> 07:22.630
+That's mean about 3.6 million people by true.
+
+07:22.690 --> 07:31.290
+It's about 7 1 2 gigabyte overnight and not 8 gigabyte Ansorge so don't share.
+
+07:31.320 --> 07:37.320
+Make It's on calculation to give the separate resource between different machine.
+
+07:37.420 --> 07:44.170
+When we change share head we change all the value of the other virtual machine.
+
+07:44.170 --> 07:49.940
+It was separated by a number of variable in the different share we have.
+
+07:50.530 --> 07:57.170
+So this is the idea of the share you just know that your machine or don't normally get to the double
+
+07:57.170 --> 07:58.830
+of the virtual machine of the load.
+
+07:59.060 --> 08:05.060
+The virtual machine of the high gets Doubler's of the virtual machine or the normal You just need to
+
+08:05.060 --> 08:10.750
+put the number right and he will make its own calculation to get to do value that is double it.
+
+08:10.790 --> 08:15.580
+Of this one and this one gets to the value that he is doublet of this one.

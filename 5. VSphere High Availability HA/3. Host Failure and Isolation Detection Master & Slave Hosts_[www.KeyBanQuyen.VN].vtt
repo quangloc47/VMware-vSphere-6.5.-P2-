@@ -1,0 +1,439 @@
+WEBVTT
+
+00:00.710 --> 00:01.420
+Again.
+
+00:01.480 --> 00:08.290
+So one of the question that comes to you meant ease in the situation that we use the center server as
+
+00:08.380 --> 00:17.790
+a virtual machine in a host and we manage the toaster Traub the center server.
+
+00:18.110 --> 00:25.990
+What's happened if that host is out of service how to censor server we know that the horrors that have
+
+00:26.010 --> 00:28.470
+to be Center service is out of service.
+
+00:28.720 --> 00:38.620
+And what's happened for the DNS and head of ability how will the environment take action to reboot to
+
+00:38.620 --> 00:43.170
+do vitriol machine of the reasons are sort of an inside another Haast.
+
+00:43.210 --> 00:51.280
+So for that you should know that when we use the central server as a virtual machine in our homes or
+
+00:51.310 --> 00:58.890
+even in our separate host that is not managed by the sentence server itself.
+
+00:59.470 --> 01:05.890
+That's when we create an environment and we make the configuration of the has the ability to visit on
+
+01:05.910 --> 01:06.550
+a server.
+
+01:06.700 --> 01:16.730
+We pick our hosts as our muster and other Haast in the cluster as a slave as you know we need always
+
+01:17.180 --> 01:23.050
+always we need our cluster and put this different server inside that cluster that we want to configure
+
+01:23.100 --> 01:25.580
+it for the height of ability.
+
+01:25.670 --> 01:34.280
+So when we put our height of ability configuration to be sent to a server center server will pick up
+
+01:34.520 --> 01:38.370
+our host and give it to the portal as a master.
+
+01:38.510 --> 01:40.100
+They differ on toast.
+
+01:40.160 --> 01:42.580
+We'll use it as a slave.
+
+01:43.310 --> 01:49.090
+So integration for example this Haast have to be central server.
+
+01:49.290 --> 01:57.030
+Then the Vicent of server will give the power to this host to be the master of this environment or this
+
+01:57.030 --> 02:00.500
+cluster to manage the height of a.
+
+02:00.540 --> 02:08.610
+So he tells to this host Hey you are the master and responsible for the height of ability to do this
+
+02:08.610 --> 02:09.210
+task.
+
+02:09.210 --> 02:15.920
+So we gave it to us struction to this horse to run the task for the different height of ability route.
+
+02:15.930 --> 02:24.270
+So if something wrong happened to this host the muster will take action and put out a virtual machine
+
+02:24.330 --> 02:26.130
+that's run it in this host.
+
+02:26.190 --> 02:31.410
+One of them is the view sensor inside this host or this host or any other of a liberal host.
+
+02:31.410 --> 02:38.840
+But another question that's come to your mind what's happened this must date the muster that have Hovda
+
+02:39.420 --> 02:48.740
+veteran machine or even this master who have the center server the saying that this muster how powerful
+
+02:48.810 --> 02:58.050
+to manage the host when this muster is out of service all the slave have an instruction to make a vote
+
+02:58.140 --> 03:02.700
+or to make an election to chose another Mustang.
+
+03:02.850 --> 03:09.240
+So if this muster is this live and does live where to make a decision to chose one of them to be a master
+
+03:09.280 --> 03:10.660
+this one will be our master.
+
+03:10.670 --> 03:18.530
+Or for example this one will be a muster and then when this one become a must take action that they
+
+03:18.590 --> 03:22.330
+must or shall do then who will migrate or move.
+
+03:22.350 --> 03:28.240
+All the vitriol that exists in this one and running it in another sort of.
+
+03:28.350 --> 03:35.200
+So this is the idea how the muster and slave work even the Vicent that is out of service the center
+
+03:35.240 --> 03:40.400
+server have only the option to add or delete.
+
+03:40.450 --> 03:42.340
+Also some rule.
+
+03:42.450 --> 03:49.680
+But when we can feel the heights of ability and the terrorists do this sort of serve those not do any
+
+03:49.680 --> 03:52.250
+task only give us direction to those.
+
+03:52.270 --> 03:57.530
+So rude and do still work along with the rules that did it from the center.
+
+03:57.780 --> 04:02.640
+But when the Vicent instead of is out of service we can't create any tank.
+
+04:02.640 --> 04:07.630
+We can't change a tank we can't delete or of any tank or charge in a room.
+
+04:07.710 --> 04:15.690
+All right we'll keep working we do rules that we give it before we sense instead of out of service.
+
+04:15.690 --> 04:19.230
+So this is how the different server works.
+
+04:19.230 --> 04:22.560
+Even the Vicenzo server is out of service.
+
+04:22.790 --> 04:30.150
+And so the idea that you should know is how these hosts have communication between them as we know this
+
+04:30.220 --> 04:35.490
+Hatchell be connected through August which we have an internet connection between them and this is one
+
+04:35.490 --> 04:42.390
+of the rules we have our network and the same hosts connected to created Stosh.
+
+04:42.460 --> 04:50.710
+So when the defendant tossed about it on and work with the root of the height of ability.
+
+04:50.780 --> 04:58.370
+How denote that this host is out of service how the muster know that he should power on or rebooted
+
+04:58.380 --> 05:00.360
+the vitriol machine in this posting.
+
+05:00.370 --> 05:02.600
+I'm not a horse for that.
+
+05:02.890 --> 05:07.450
+Every sort of sent on a heartbeat different server.
+
+05:07.530 --> 05:08.190
+I heard it.
+
+05:08.200 --> 05:15.010
+It's like a ping if you know we don't we want to check on and the house is worth but be we send link
+
+05:15.130 --> 05:16.100
+to that post.
+
+05:16.180 --> 05:17.760
+So the Post will respond.
+
+05:17.880 --> 05:19.010
+That's OK.
+
+05:19.120 --> 05:22.040
+Then we know that host is work perfectly.
+
+05:22.150 --> 05:27.530
+So the muster sent are hard to beat drubbed attorney and it's work.
+
+05:27.640 --> 05:29.450
+Then send it to display.
+
+05:29.550 --> 05:30.060
+Hello.
+
+05:30.100 --> 05:31.660
+Are you still alive.
+
+05:31.660 --> 05:32.420
+The slaves.
+
+05:32.500 --> 05:32.850
+Yes.
+
+05:32.860 --> 05:33.610
+I'm alive.
+
+05:33.820 --> 05:36.530
+Then sent another hello to the other slave.
+
+05:36.640 --> 05:37.030
+Hey.
+
+05:37.050 --> 05:37.680
+Hello slave.
+
+05:37.720 --> 05:40.360
+Are you alive and slave.
+
+05:40.450 --> 05:40.860
+Answer.
+
+05:40.900 --> 05:42.610
+Yes I'm alive.
+
+05:42.610 --> 05:43.250
+That's it.
+
+05:43.330 --> 05:45.620
+Then the slaves sent are you.
+
+05:45.890 --> 05:47.750
+Laved muster the muster.
+
+05:47.770 --> 05:49.010
+Yes I'm alive.
+
+05:49.140 --> 05:50.170
+That's it.
+
+05:50.190 --> 06:00.610
+So the communication between them and the server work and particularly so in a case this horse is out
+
+06:00.610 --> 06:01.870
+of service.
+
+06:01.930 --> 06:02.870
+Mr. STERN.
+
+06:02.990 --> 06:03.660
+Hello.
+
+06:03.760 --> 06:06.620
+I heard Bates dropping the display.
+
+06:06.640 --> 06:07.650
+Are you all right.
+
+06:07.680 --> 06:10.720
+Do Slade those not get any answer.
+
+06:10.780 --> 06:16.580
+Then give it another chance for two or three times they have some specific time to do it.
+
+06:16.690 --> 06:22.330
+Then when he takes that this slave is out of service he will automatically take action and that it would
+
+06:22.360 --> 06:27.010
+all the virtual machine inside of the slave or in the master itself.
+
+06:28.240 --> 06:33.520
+But in some cases we for example we have a file in the network.
+
+06:33.520 --> 06:35.620
+This cable is cut it down.
+
+06:35.920 --> 06:41.710
+They started text also that does not answer a lot of time.
+
+06:41.740 --> 06:48.310
+For example if you remember when we config our lab we create two physical network adapter for the virtual
+
+06:48.310 --> 06:54.540
+machine and two physical to work other for the management the management of the server and the most
+
+06:54.730 --> 06:57.750
+when its current a pain to do management.
+
+06:57.760 --> 07:01.030
+Hey asked him Are you still alive.
+
+07:01.030 --> 07:06.540
+For example we have the problem a physical network adapter of the management that's me.
+
+07:06.700 --> 07:14.620
+The host is I host does not have any connection with the network but due to other network adapter of
+
+07:14.620 --> 07:17.550
+the virtual machine still work perfectly.
+
+07:17.650 --> 07:25.180
+And on the virtual machine and do still exist in this has worked perfectly there is a must that need
+
+07:25.360 --> 07:27.790
+to reboot to switch a machine and not the host.
+
+07:27.820 --> 07:34.180
+Of course not we know that the virtual machine still.
+
+07:34.240 --> 07:41.620
+Of course we have a modern other the tool spews application that we send a pink or a headbutt to the
+
+07:41.620 --> 07:47.170
+defendant's virtual machine to detect our dispatching machine work but this is more complicated and
+
+07:47.350 --> 07:58.120
+need a high performance of the network etc. but the normal situation the muster will send another how
+
+07:58.120 --> 08:05.320
+to beat another pink not trough the Internet but Drog the cable connected to do shit in storage.
+
+08:05.590 --> 08:13.550
+This is the intelligence of the day and were used shared storage has our network between two different
+
+08:13.550 --> 08:15.230
+tasks.
+
+08:15.310 --> 08:21.460
+So the Master will send are being held to the shared storage.
+
+08:21.590 --> 08:27.230
+Ask please do is the hardest number one still work.
+
+08:27.480 --> 08:34.570
+Its trust with takes out a virtual machine running into slave number one work at least here will tend
+
+08:34.570 --> 08:35.210
+to the mustard.
+
+08:35.230 --> 08:38.380
+Yes the host number one worked perfectly.
+
+08:38.380 --> 08:39.800
+So the muster no.
+
+08:39.830 --> 08:44.310
+Thus the last number one work perfectly even.
+
+08:44.350 --> 08:48.240
+There are no connection between the host and network.
+
+08:48.560 --> 08:53.320
+So we know that there's something wrong only about management or the cable out of management.
+
+08:53.530 --> 08:59.420
+But the difference between a machine that the company need worked perfectly.
+
+08:59.800 --> 09:07.600
+So it will not take any action and wait until the administrators of the network fix the problem for
+
+09:07.600 --> 09:14.660
+example gets to the cable back to work or fix the port management or network adapter etc..
+
+09:14.920 --> 09:23.120
+So he sent a word be be the internet cable and also drug do shared storage.
+
+09:23.230 --> 09:28.390
+Of course as I told you all the virtual machines will be in the shut its doors so you automatically
+
+09:28.390 --> 09:33.890
+detect that this virtual machine is still running perfectly Droguet the House number one.
+
+09:33.930 --> 09:41.800
+So note that this is work perfectly but when hate detects that this is our service then give it another
+
+09:41.800 --> 09:42.720
+chance drug.
+
+09:42.790 --> 09:46.490
+Shit its taught us at different that this hose is out of service.
+
+09:46.570 --> 09:55.030
+Then he will take action and reboot of the virtual machine in the host but in another situation that's
+
+09:55.350 --> 09:55.960
+to do that.
+
+09:55.970 --> 10:03.730
+He used another and said how to debate me the management or the cable responsible for the management
+
+10:03.730 --> 10:05.690
+of this host is out of service.
+
+10:05.710 --> 10:12.550
+All the virtual machines still work perfectly and they must not have a problem to connect to this shit
+
+10:12.580 --> 10:13.260
+it's.
+
+10:13.420 --> 10:18.410
+So all the connection between the master slave is not available.
+
+10:18.550 --> 10:22.600
+In this case there are are hard to beat that sundeck to do.
+
+10:22.600 --> 10:29.900
+Virtual Machine is a madrassa one that is some application and some of them were true etc..
+
+10:29.920 --> 10:35.460
+But this it will be more powerful and more danger.
+
+10:35.530 --> 10:42.800
+For example some situation will make a note etc and it will complicate your environment a lot so this
+
+10:42.790 --> 10:47.440
+when we use it to being to send a link to the difference between a machine in a heartbeat.
+
+10:47.560 --> 10:50.020
+To not Alda's your machine work perfectly.
+
+10:50.020 --> 10:52.810
+If yes then he keep using slave hours.
+
+10:52.810 --> 10:54.970
+It still work.
+
+10:55.070 --> 11:01.660
+If not he will take action and chose another server to run to different virtual machine.
+
+11:01.700 --> 11:03.750
+So this is the idea of the master and slave.
+
+11:03.920 --> 11:08.900
+And of course we the muster take is down he will chose another one to be the master.
+
+11:09.110 --> 11:14.350
+So in the next week you will start the practical step to see a real example of ADO.
+
+11:14.380 --> 11:16.200
+Hide Amoebe too soon to be.

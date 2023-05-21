@@ -1,0 +1,202 @@
+WEBVTT
+
+00:02.090 --> 00:03.070
+Hello again.
+
+00:03.420 --> 00:10.540
+So let's just get our quick overview about Rops the latest vission other apps available from the Wii
+
+00:10.550 --> 00:13.400
+and we're in our hands on love.
+
+00:13.500 --> 00:19.140
+If you remember the hand on love is do all line a lot of it have from the VM where that leads you to
+
+00:19.620 --> 00:23.550
+test the different software of the VM work.
+
+00:23.580 --> 00:32.310
+So when you log into the ropes as it drops that carpet to lock on in our example will be any name that
+
+00:32.310 --> 00:38.560
+you give it other very obstinate to the attention that they don't end up when you log in it's asking
+
+00:38.580 --> 00:40.480
+for the user and the password.
+
+00:40.710 --> 00:48.810
+And when you get inside the ropes after a time of letting the OPs track the data on in that environment
+
+00:49.200 --> 00:50.820
+it will give you this overview.
+
+00:50.940 --> 00:55.380
+It's not like the ones that we see in the picture but it's almost the same idea.
+
+00:55.680 --> 00:56.500
+So it's true.
+
+00:56.580 --> 01:01.380
+Complete resource a system that's I mean how much host we have in this.
+
+01:01.390 --> 01:06.220
+Now it's three in our example also we use three is my house.
+
+01:06.260 --> 01:07.810
+How much virtual machine we have.
+
+01:07.830 --> 01:08.490
+It's seven.
+
+01:08.490 --> 01:09.610
+How much of that are stored.
+
+01:09.630 --> 01:10.250
+It's one.
+
+01:10.260 --> 01:11.500
+And so on and so on.
+
+01:11.790 --> 01:14.080
+So it shows you the Harolds statue.
+
+01:14.220 --> 01:15.950
+It show your art is great.
+
+01:15.960 --> 01:16.360
+That's me.
+
+01:16.360 --> 01:22.080
+Everything is OK if you have some critical you see the number right there and you will get that suggestion
+
+01:22.210 --> 01:22.980
+right.
+
+01:23.400 --> 01:28.830
+So does it need to use it in the right environment to start getting it right here.
+
+01:28.830 --> 01:33.430
+But as this is just our home lab so everything is work perfectly.
+
+01:33.430 --> 01:36.440
+So those not to get any water yet.
+
+01:36.460 --> 01:43.630
+So to help state it sure you can tell the water table if you have any problem you see them right there.
+
+01:43.740 --> 01:48.530
+They the budget store and give you some reason right there.
+
+01:48.540 --> 01:52.730
+Of course you can check the difference halls detected by the ropes.
+
+01:55.780 --> 01:56.990
+Then imagery machine.
+
+01:56.990 --> 02:02.600
+The State of the difference between what you see right here some information had as it's going to call
+
+02:02.600 --> 02:12.020
+this one immediate and this one has warning so up on your virtual hard disk or expand the existing disk
+
+02:12.020 --> 02:13.340
+of the virtual machine.
+
+02:14.840 --> 02:22.880
+You must first remove Osma before expending an existing disk after completing after completing.
+
+02:22.880 --> 02:30.350
+This is our guest OS specific produ to expand the file system on the new or expanded disk.
+
+02:30.500 --> 02:37.700
+So it's give you an me that some virtual machine need to expand do a hard disk of the local disk or
+
+02:37.700 --> 02:38.650
+dismiss your machine.
+
+02:38.660 --> 02:42.020
+So it is his DNA or the virtual machine Webbs 0 1 8.
+
+02:42.130 --> 02:46.750
+I'll let one or more virtual machine just my system are running out of disk.
+
+02:46.790 --> 02:52.590
+If you remember this example from that picture right there between machine the division and spews.
+
+02:52.790 --> 02:55.160
+This one is about disk.
+
+02:55.340 --> 03:02.940
+Then the other type virtualization a hybrid is allowed this is a that of the hybrid revisited our super
+
+03:02.950 --> 03:03.650
+title.
+
+03:03.710 --> 03:10.380
+It's about the capacity and the time then on the hard disk or extent the same one for this one but this
+
+03:10.380 --> 03:12.310
+is a bit of warning.
+
+03:12.530 --> 03:14.240
+Not at the level of immediate.
+
+03:14.240 --> 03:16.000
+This one is overloading.
+
+03:16.040 --> 03:23.490
+This one is a little overloading and so on and so on and so of course you get all the details about
+
+03:23.520 --> 03:24.260
+her.
+
+03:24.270 --> 03:29.110
+For example the store you can store is work perfectly and so on and so on.
+
+03:30.900 --> 03:39.010
+We have some overview about the environment how much that we have cluster host virtual machine running
+
+03:39.020 --> 03:44.220
+virtual machine and other virtual machine is bolted on part of the Bastar et cetera.
+
+03:44.390 --> 03:52.340
+And does it show you all the time or does virtual machine running and our data volume some top 15 virtual
+
+03:52.340 --> 03:56.100
+machine experiencing superior concentration.
+
+03:56.150 --> 04:02.370
+I mean the virtual machine that's consumed to CPM wants to do with zero to 8 is the one that consume
+
+04:02.850 --> 04:05.150
+C.P more than the other one.
+
+04:05.150 --> 04:13.450
+The photonics consume less spew then about the virtual machine the database 0 1 8 consume more memory.
+
+04:13.460 --> 04:18.400
+Of course the data is always consumed your memory then for the disk.
+
+04:18.470 --> 04:26.990
+The DMZ Rwanda web application default on web with Windows then Windows Windows not consume any space
+
+04:27.080 --> 04:30.950
+so it is at the lowest of the list.
+
+04:30.950 --> 04:39.250
+Some are lower volume Joiada critical to wardman etc. so you need to check those information or read
+
+04:39.250 --> 04:44.530
+the content and you will start in distending do different and different option.
+
+04:44.940 --> 04:47.010
+So the same about the environment.
+
+04:47.270 --> 04:51.030
+The use of the virtual etc..
+
+04:52.410 --> 04:54.240
+So there are a lot lot of information.
+
+04:54.240 --> 04:59.160
+Of course you can check the other tools for example for the virtual Sandt.

@@ -1,0 +1,178 @@
+WEBVTT
+
+00:02.310 --> 00:03.280
+Hello again.
+
+00:03.380 --> 00:09.950
+So if you go back to the State of the heights of ability if you remember this state right.
+
+00:09.980 --> 00:12.520
+No we have a house connected to the master.
+
+00:12.560 --> 00:13.790
+We have only one.
+
+00:13.820 --> 00:20.730
+This one that still work and is not connected to muster is one the one that's have our Freiler.
+
+00:20.780 --> 00:26.780
+So the situation right here is a host by luck and not on network is or isn't if we have only a network
+
+00:26.780 --> 00:30.860
+installation from that one we'll get information right there.
+
+00:31.070 --> 00:38.440
+But as we have hosts file or the hoses out of service totally because we part of the house.
+
+00:38.450 --> 00:40.210
+So you see the situation right.
+
+00:40.730 --> 00:42.390
+Then some other information.
+
+00:42.400 --> 00:48.080
+Either that or the situation of eats in the right environment and you see that we have seven virtual
+
+00:48.080 --> 00:49.470
+machines still protected.
+
+00:49.460 --> 00:52.290
+That's I mean our our virtual machine worked perfectly.
+
+00:52.340 --> 00:53.940
+Even we have a host.
+
+00:54.260 --> 00:55.370
+Out of service.
+
+00:55.670 --> 00:58.770
+So no I will try to put one on the six.
+
+00:58.800 --> 01:01.900
+I Halston but it took me two.
+
+01:02.060 --> 01:07.970
+It will detect that the host is Boxford a lot and all operatically know that the press will take action
+
+01:07.970 --> 01:16.810
+to get our balance restored between the different hosts and we'll see some real emotion right had happened.
+
+01:16.910 --> 01:21.950
+So let's back return and try to see what would happen.
+
+01:22.000 --> 01:25.360
+When do I do box to do work.
+
+01:27.020 --> 01:30.540
+You have here not responding because it's still out of service.
+
+01:30.710 --> 01:31.280
+No.
+
+01:31.460 --> 01:39.080
+I asked him to power on he start the process of power and he will take a little time and we'll be back
+
+01:39.080 --> 01:40.620
+to the live.
+
+01:40.820 --> 01:43.900
+Of course how do you see that the memory is for you.
+
+01:44.070 --> 01:44.950
+That's mean.
+
+01:45.090 --> 01:49.940
+He denied the memory of the one uses by this is because I host.
+
+01:50.060 --> 01:58.610
+So we have this one here 11 and this one have four gigabytes so it is fourteen point sixty seven.
+
+01:58.940 --> 02:05.270
+So no it's work perfectly and we'll wait a little time until the Vicent of service detects that the
+
+02:05.270 --> 02:15.020
+host is excited to box with a light bite send it in her debate and see if the host responded.
+
+02:15.030 --> 02:23.520
+So as you see the I host back to the live a little time this newscast we are gone automatically and
+
+02:23.820 --> 02:27.550
+from the motion will be start automatically.
+
+02:27.600 --> 02:29.690
+Let's see what will happen.
+
+02:29.790 --> 02:32.400
+So it does give you a little time in to do.
+
+02:32.480 --> 02:38.520
+Test and the cluster Niek is on calculation to take the necessary action.
+
+02:38.560 --> 02:38.900
+Quite
+
+02:49.870 --> 02:56.580
+so as you see after refreshing the person he takes it to a new one and capacity to take up a positive
+
+02:56.790 --> 02:58.630
+Richard 18 gigabytes.
+
+02:58.750 --> 03:02.890
+It's set up to spew out and other things.
+
+03:02.980 --> 03:08.720
+If we Boxter the monitoring and you get dressed you see that Haast connected is to.
+
+03:08.840 --> 03:11.540
+And we have zero file option.
+
+03:11.650 --> 03:17.320
+So the number two back to life if we check the hostile battle anti-veteran mushy.
+
+03:17.490 --> 03:19.120
+It's still a..
+
+03:19.120 --> 03:21.880
+Defn Not use any virtual machine.
+
+03:21.880 --> 03:27.190
+No it's time for the rest to control and check the information.
+
+03:27.340 --> 03:33.630
+If we go right ahead and let's make the DNS run know to get the decision.
+
+03:33.630 --> 03:43.450
+So the details are refresh the cluster to get new information and we'll see what will be happen after
+
+03:44.350 --> 03:47.520
+a moment.
+
+03:47.590 --> 03:55.840
+So the house number two did not have any between machine Isak's I one have all the to get your machine
+
+03:56.620 --> 04:01.750
+do you six i3 the muster want host Ald. other virtual machine.
+
+04:05.940 --> 04:08.580
+Of course we have a nice suit right.
+
+04:09.430 --> 04:15.210
+Of do is X einen Vertrag have a powerful see you but it is x.
+
+04:15.220 --> 04:21.820
+I want to have an old version of the Sibiu when a virtual machine used this one.
+
+04:21.880 --> 04:26.640
+He can't migrate it and use an old version of the virtual machine.
+
+04:26.740 --> 04:35.920
+And that's really an issue for our center and that's why we need to do EVC configuration in this situation
+
+04:36.110 --> 04:42.190
+to LIT's the cluster use the similar C-p between the different virtual machine.
+
+04:42.190 --> 04:49.090
+So we'll talk about this point later but in our situation those machines will be integrated to this
+
+04:49.090 --> 04:52.240
+one soon to next be.

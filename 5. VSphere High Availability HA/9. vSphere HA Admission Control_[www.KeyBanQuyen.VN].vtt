@@ -1,0 +1,130 @@
+WEBVTT
+
+00:00.840 --> 00:01.640
+Help again.
+
+00:01.860 --> 00:08.540
+So the next option that we have in the fist bit height of ability is to add the mission control.
+
+00:08.550 --> 00:15.560
+So the admission control is up what you see usually the by the spirit of ability to ensure final overcapacity
+
+00:15.580 --> 00:16.680
+within our cluster.
+
+00:16.920 --> 00:19.990
+So it's increasing the value of the host by.
+
+00:20.250 --> 00:25.800
+Tolerate with increase of ability constant and capacity reserve reserved.
+
+00:26.190 --> 00:32.500
+So if you remember when is the pro active file and response right there.
+
+00:32.700 --> 00:40.740
+We make some decision to go to the horse in the current mode or in dimensional mode set up so the admission
+
+00:41.280 --> 00:42.700
+how it's walk.
+
+00:43.080 --> 00:50.470
+If we're about to dig into my tent and when we talk about the height of ability we talk about do three
+
+00:50.470 --> 00:53.840
+issues in our cluster or in our environment.
+
+00:54.090 --> 01:02.040
+So I think meaning you should have some free resource in your environment if you have 0 percent of the
+
+01:02.040 --> 01:02.590
+roosters.
+
+01:02.730 --> 01:05.990
+So you don't have any height of ability in your environment.
+
+01:06.330 --> 01:13.310
+So how do other mission control work or what's at mission control.
+
+01:13.860 --> 01:20.520
+When we config the hides reality in our cluster like this one for example just example we have three
+
+01:20.740 --> 01:27.960
+servers in our environment and we enabled the height of ability and we configured at the Mission Control
+
+01:29.410 --> 01:36.410
+puts me in a situation that when Haast take it down the height of ability will make great.
+
+01:36.430 --> 01:40.120
+All we're rebooted the virtual machine inside this house.
+
+01:40.150 --> 01:42.160
+In other Haast we have.
+
+01:42.400 --> 01:49.930
+So that's me in a situation for example we have three hosts every hosts consume about 60 percent of
+
+01:49.930 --> 01:51.180
+the resource.
+
+01:51.200 --> 01:54.890
+But to me it just has we have 14 percent or 3 resouce.
+
+01:55.120 --> 01:58.530
+This has also we have 14 percent of every resource.
+
+01:58.720 --> 02:05.920
+And this host again also have 14 percent of priesthoods that's mean it consume 16 percent of the resource
+
+02:06.450 --> 02:08.890
+when we have a problem in one of these hoes.
+
+02:08.890 --> 02:12.630
+For example this host have a filer what's happened.
+
+02:12.640 --> 02:14.700
+Did it when separate.
+
+02:14.800 --> 02:23.440
+Do virtual machine in this host end to host but it will make calculation to use this free resource that
+
+02:23.440 --> 02:24.160
+we have right here.
+
+02:24.160 --> 02:30.110
+We have 14 percent of users but we have had 16 percent of the resource.
+
+02:30.310 --> 02:37.350
+So it really was separate to 18 percent rating and 13 percent of the research was 10.
+
+02:37.600 --> 02:44.140
+So to make it more clear for example we have four virtual machine Aldus for a machine consume the same
+
+02:44.280 --> 02:44.990
+results.
+
+02:45.010 --> 02:51.970
+That's mean to part of this reason is about 16 bottoms and of course we have similar hosts this hosts
+
+02:52.030 --> 02:55.340
+are as the same as power and resource.
+
+02:55.770 --> 03:01.150
+That's mean I would support a virtual machine to run in this host and the other to have a virtual machine
+
+03:01.150 --> 03:02.980
+to run in this host.
+
+03:03.130 --> 03:10.450
+So we have the equality of the resource but in that situation we have consumed 98 percent of the resource
+
+03:10.480 --> 03:14.070
+in this host 98 percent of the resource of this world.
+
+03:14.110 --> 03:19.800
+So we only have 10 percent of resouce when this has to get done.
+
+03:19.910 --> 03:27.850
+Do ability can't reboot this virtual machine in all the holes because it is not spent any real resource.
+
+03:27.940 --> 03:31.010
+So we do not have any height of ability in this region.

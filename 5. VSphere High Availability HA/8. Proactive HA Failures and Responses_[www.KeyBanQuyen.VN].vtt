@@ -1,0 +1,442 @@
+WEBVTT
+
+00:00.900 --> 00:10.020
+Blogging so I'm not the option of these fear heights of ability is do aktiv filer and respon So of course
+
+00:10.020 --> 00:16.230
+we need to enable the provocative heights of abilities before be able to make any change.
+
+00:16.440 --> 00:22.550
+So David spear heads of ability know also detect the hard work condition of the ears.
+
+00:22.560 --> 00:28.660
+I Haas this is due to the height of BTD wrist band and Fila.
+
+00:28.950 --> 00:31.860
+So no it's work out have it on the hardware.
+
+00:32.210 --> 00:39.620
+It allows you to evacuees the virtual machine before the hardware issue cause an entourage vitrine machine
+
+00:39.630 --> 00:47.490
+with the help of proxy hides so proxy hides ability works in conjunction with hardware Bon-Bon monotone
+
+00:47.500 --> 00:54.540
+installation to receive the health you of the hardware component such as the memory the fans the power
+
+00:54.540 --> 00:56.090
+supply etc..
+
+00:56.370 --> 01:03.580
+So you can configure the for height and ability to respond according to filer of hardware components.
+
+01:03.630 --> 01:11.250
+This future proactively await the virtual machine down times by detecting the hardware files and blast
+
+01:11.250 --> 01:15.230
+that E-6 I host into cantin mode.
+
+01:15.330 --> 01:22.650
+So this future activity of the virtual machine downtimes by detecting hardware firewall and blast that
+
+01:22.680 --> 01:30.960
+E6 I host in the current mode or in the maintenance mode based on configuration option this option right.
+
+01:31.290 --> 01:38.010
+You need to have the dear S in public on the cluster to make use of proactive of course you need to
+
+01:38.010 --> 01:41.240
+have this for the rest of the.
+
+01:41.460 --> 01:48.150
+If you don't have the DNS enabled in this cluster the proxy height of ability will not be available
+
+01:48.600 --> 01:50.570
+in your cluster.
+
+01:50.640 --> 01:57.720
+So if any hardware component is firelit and it is markets as in healthy by buy hardware monitoring this
+
+01:57.730 --> 02:06.010
+spear will classify the afflicted a host as either a moderately degraded or severely degraded.
+
+02:06.170 --> 02:10.600
+Was it on the component of Filer dispirit plus that's a fixed it is x.
+
+02:10.620 --> 02:14.570
+I hauled into new states call it current in mold.
+
+02:14.730 --> 02:21.250
+So in the current mode there is when not used E6 I host derrieres will eliminate that.
+
+02:21.500 --> 02:24.980
+I have a file and put it into current mode.
+
+02:26.160 --> 02:33.270
+And I've read using it in your virtual machine plus mint and also is will attempt to invoke the host
+
+02:33.360 --> 02:37.150
+as long as it will not cause performance issues.
+
+02:37.170 --> 02:44.860
+You can also configure proxy of heights to place to degraded E6 I was into maintenance mode.
+
+02:45.060 --> 02:51.900
+We performed a valuation of virtual machine to other healthy Isak's I housed in the cluster so proxy
+
+02:52.150 --> 02:55.320
+hides we can respond to a different type of Filer.
+
+02:55.350 --> 03:00.470
+Currently there are five fire event that are supported.
+
+03:00.630 --> 03:08.570
+We have the power supply the memory the fund the storage and the network if the proxy of height ability
+
+03:08.570 --> 03:15.390
+to detect any is true in those five hardware the power supply or the money to fund Tostado network it
+
+03:15.540 --> 03:17.190
+will take action.
+
+03:17.310 --> 03:21.100
+This has ease in a filer situation.
+
+03:21.240 --> 03:25.420
+So how to configure the proxy hides.
+
+03:25.560 --> 03:32.640
+Of course after enabling the proxy hides from this place highlighted we're back to proactive hides and
+
+03:32.640 --> 03:35.010
+we have the option to chose automation.
+
+03:35.010 --> 03:37.880
+LEVIN We have manually and automated.
+
+03:38.280 --> 03:44.910
+So if we click on the device it's very simple manually recentre set of rules to just migration accommodation
+
+03:44.990 --> 03:46.140
+on your machine.
+
+03:46.230 --> 03:51.000
+When he did text up filer at the level of the hardware that's me.
+
+03:51.090 --> 03:56.980
+The hostilely work bots have a finer detection of the hardware that's mean up performance deterioration
+
+03:56.990 --> 03:58.110
+in the hardware.
+
+03:58.110 --> 04:04.020
+We have some performance determination as to look at the hardware but the holes still work without any
+
+04:04.020 --> 04:04.860
+problem.
+
+04:04.890 --> 04:11.760
+So when we chose manually the proxy of hide well do just migration for the virtual machine.
+
+04:11.910 --> 04:14.400
+It will give you on that occasion to do the migration.
+
+04:14.670 --> 04:18.570
+Then we have automated that's me but let's do a proxy fight.
+
+04:18.590 --> 04:20.840
+IBT to work alone automatically.
+
+04:20.880 --> 04:29.000
+So the video machine will be migrated to a whole host and degraded host will be intruded into content
+
+04:29.250 --> 04:34.530
+or mental and more dependent on the configuration proxy of hides the automation levade.
+
+04:34.640 --> 04:37.980
+It's about a little bit of a file.
+
+04:38.580 --> 04:50.560
+So we have the remediation that's mean that shows actually might take when he gets an order or our performance
+
+04:50.600 --> 04:52.110
+duration in the hardware.
+
+04:52.420 --> 04:58.140
+So we have three option the current mode mix mode and the maintenance mode.
+
+04:58.330 --> 05:05.180
+So the first one the current and mode for our fighter this option balance performance and availability
+
+05:05.410 --> 05:09.010
+but we didn't do use out of Persily degraded host.
+
+05:09.040 --> 05:15.820
+As long as virtual machine performance is in effect in simple they're not in your virtual machine edition
+
+05:15.880 --> 05:18.680
+on the passio degraded Haast.
+
+05:18.790 --> 05:28.000
+So we only have our Marcial degraded host so we have a situation Marcial degree Ditto's and cival degraded
+
+05:28.010 --> 05:28.590
+Haast.
+
+05:28.650 --> 05:31.650
+What is it severely filed Haast.
+
+05:31.900 --> 05:40.100
+So in our partially degraded host the height of ability will put this horse in the current mode.
+
+05:40.270 --> 05:46.960
+That's me here when Rockwell is trying to the desk to not migrate any virtual machine to this host.
+
+05:47.260 --> 05:53.050
+That's me dislodges will be in the current Lamott not virtual machine will be added or migrated to this
+
+05:53.140 --> 05:53.550
+house.
+
+05:53.570 --> 05:58.610
+That's have the problem that of the Marcial degraded host.
+
+05:58.750 --> 06:04.530
+So it will keep it through the machine performance enough except that it would keep it to or your machine
+
+06:04.600 --> 06:05.890
+work in that house.
+
+06:05.920 --> 06:11.060
+That's have a problem but not Nuvigil much would be migrated to this first.
+
+06:11.170 --> 06:17.790
+Then we have the current mode for moderate and maintenance mode for severe filer that Skype didn't mix
+
+06:17.800 --> 06:21.570
+it MMOG mixes between current and maintenance mode.
+
+06:22.120 --> 06:29.350
+So it will keep the virtual machine running on the host for a moderated file but it will the video machine
+
+06:29.350 --> 06:31.370
+for severe filers.
+
+06:31.570 --> 06:37.810
+This option balance performance and availability but we didn't do users of moderately degraded holes
+
+06:37.930 --> 06:41.620
+as long as virtual machine performance is you know exceed this.
+
+06:41.620 --> 06:49.960
+Ensure that your machine does not run on severely filer Haast the situation will balance between the
+
+06:49.960 --> 06:52.030
+performance and of ability.
+
+06:52.200 --> 06:58.990
+It will give you the best performance in your environment in due cluster and also we'll try to give
+
+06:58.990 --> 07:03.090
+you the most ability that you can have in this vigin machine.
+
+07:03.100 --> 07:05.730
+So we is moderated.
+
+07:05.750 --> 07:06.800
+Degraded host.
+
+07:06.850 --> 07:15.370
+As long as virtual machine performance is fixed Did that mean if the performance of the cluster is infected
+
+07:15.370 --> 07:18.660
+they will migrate to those virtual machine to another host.
+
+07:18.700 --> 07:26.060
+But if he felt that win him it creates a virtual machine that has the top of the problem to another
+
+07:26.060 --> 07:29.190
+host it will have a problem in the performance.
+
+07:29.210 --> 07:31.720
+So it will take the decision to leave.
+
+07:31.720 --> 07:34.700
+Does your machine work and running.
+
+07:34.790 --> 07:43.850
+That's a moderated degraded host but in a situation when you find that the hosts have a severely Fylde
+
+07:43.910 --> 07:50.570
+problem here in McGlade are the virtual machine inside that host and use it in another host.
+
+07:50.570 --> 07:51.140
+That's me.
+
+07:51.200 --> 07:57.840
+Hey we'll give you the ability but the performance will be down in this situation even if there are
+
+07:57.940 --> 08:05.330
+are overloading in other hosts they will migrate to the spiritual machine to other holes in a situation
+
+08:05.330 --> 08:07.740
+we have a severely fide host.
+
+08:07.760 --> 08:14.300
+So you will have the availability of a virtual machine but the performance will be a little lower than
+
+08:14.630 --> 08:15.650
+the first one.
+
+08:15.650 --> 08:22.970
+This one concentrates on the performance lets me give the vitriol machine inside file it hosts.
+
+08:23.000 --> 08:28.370
+But in this situation it will migrate to the video machine to give you the ability.
+
+08:28.820 --> 08:34.970
+Then we have the option to maintenance mode for Filer's will migrate all the virtual machine from the
+
+08:34.970 --> 08:36.450
+host and place.
+
+08:36.500 --> 08:43.490
+E6 I host in maintenance mode this option will ensure virtual machine do not run on partially sighted
+
+08:43.490 --> 08:44.150
+Haast.
+
+08:44.300 --> 08:52.140
+In this situation even we have a partially sighted host that mean small problem in the host when McGees
+
+08:52.200 --> 08:58.610
+on the virtual machine to other host no matter the situation of the hostile Carcetti or severely it
+
+08:58.660 --> 09:01.200
+will degrade the virtual machine to the other host.
+
+09:01.370 --> 09:04.070
+And we put this horse in the maintenance mode.
+
+09:04.340 --> 09:09.800
+You know do a this model when you put a horse in a moment in this mode this pulse is out of service
+
+09:10.190 --> 09:16.460
+and gets an interrogation to the administrator that this host is in the maintenance mode to make the
+
+09:16.910 --> 09:19.660
+solution or the fixation to this house.
+
+09:19.670 --> 09:23.680
+So this is the option that we have simply the current mode.
+
+09:23.870 --> 09:27.680
+Meant not new virtual machine additions on the host.
+
+09:27.780 --> 09:32.560
+It will keep only division machines that exist inside this without adding any new virtual machine.
+
+09:32.570 --> 09:38.960
+So the DNS will eliminate this horse for the balance when he makes its own calculation for the balance
+
+09:38.960 --> 09:39.830
+of the cluster.
+
+09:39.860 --> 09:42.780
+It would eliminate this horse from the calculation.
+
+09:42.880 --> 09:50.480
+They it most give virtual machine running on the horse for moderated filer but it will migrate virtual
+
+09:50.480 --> 09:55.530
+machine for server file and then we have the maintenance mode.
+
+09:55.750 --> 10:03.070
+This will McGinty's all the virtual machine from the host and blast a host into the maintenance mob.
+
+10:03.590 --> 10:05.620
+So this is a different option that we have.
+
+10:05.810 --> 10:10.280
+We chose automatically if we want to use the proxy file or we chose this one.
+
+10:10.310 --> 10:16.550
+Then we decide which one we have if we have more hosts available we always choose Menton a small because
+
+10:16.550 --> 10:24.200
+we have a lot of holes for example that huge environments if we have our media environment we chose
+
+10:24.200 --> 10:30.730
+this one because we try to keep using the Holst's until we have a severely virus.
+
+10:30.740 --> 10:36.920
+Then we migrate the host if we have a smal environment that's mean we know that if we McGeary to the
+
+10:36.920 --> 10:42.430
+virtual machine from that house to another host we'll have an overloading in the cluster.
+
+10:42.560 --> 10:44.370
+Then when we have a problem.
+
+10:44.390 --> 10:49.320
+So for that we chose to put only the current in mode and keep our work.
+
+10:49.430 --> 10:52.640
+So it's information about the situation of your one.
+
+10:52.960 --> 10:57.690
+Then we have another option rated do proxy of heights availability provider.
+
+10:57.950 --> 11:03.970
+This is the plugin that is monitoring the health of the server.
+
+11:04.280 --> 11:04.760
+This one.
+
+11:04.760 --> 11:12.020
+You get it from the sales support that's mean if you buy our server from HP you can contact each beat
+
+11:12.020 --> 11:13.070
+to give you the plugin.
+
+11:13.100 --> 11:19.740
+Then you added to the server and you'll see a list of plugging great hair that exist in this data center.
+
+11:19.820 --> 11:22.560
+For example the first one is HP.
+
+11:22.710 --> 11:26.160
+Reversal we see a plugging of HP didn't we have another set.
+
+11:26.190 --> 11:29.740
+But then we see the plugging of then etc..
+
+11:29.900 --> 11:36.590
+So we see the difference plugging right here and the filer condition block it some action.
+
+11:36.590 --> 11:37.900
+This is Applegate's.
+
+11:37.940 --> 11:41.950
+You can get it for almost free for from two different vonder.
+
+11:42.050 --> 11:48.350
+I don't know if there are some vonder whole ask you to pay for it but I think I'll want to give this
+
+11:48.500 --> 11:49.580
+plugging for free.
+
+11:49.790 --> 11:55.270
+You added to the different cost then you enable it to track any filer.
+
+11:55.280 --> 12:01.360
+Of course the striation we're not going to work if you don't have our blocking for monitoring to healthy
+
+12:01.490 --> 12:03.200
+of the host.
+
+12:03.260 --> 12:07.620
+So this is the proxy of hides filers and the response.
+
+12:07.640 --> 12:10.070
+So next we'll discover more future.

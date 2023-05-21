@@ -1,0 +1,268 @@
+WEBVTT
+
+00:00.630 --> 00:01.430
+Help again.
+
+00:01.620 --> 00:07.170
+So no as you see the Windows 7 migrated from.
+
+00:07.240 --> 00:12.540
+I want to Isak's I too know it exist in E6 I do.
+
+00:12.670 --> 00:16.720
+And the other part is on mission machines did in E6.
+
+00:16.810 --> 00:18.130
+I won.
+
+00:18.130 --> 00:25.840
+So for example we want to get an overload in four to six i.e. too with going to power a modern machine.
+
+00:25.890 --> 00:27.360
+That's yes I do.
+
+00:27.520 --> 00:34.180
+And in that case the defense will start migrating up between the machine from this host to another host
+
+00:34.600 --> 00:38.070
+to get our good balance in in a cluster.
+
+00:38.080 --> 00:39.880
+So we parted on this virtual machine
+
+00:42.700 --> 00:45.170
+will take all little time just show up
+
+00:49.810 --> 00:51.000
+of console.
+
+00:51.500 --> 00:53.420
+We see it in the console point.
+
+00:53.450 --> 00:55.950
+It would be following up on.
+
+00:55.970 --> 00:59.930
+So how does it do windows thought about it on the e6.
+
+00:59.930 --> 01:03.290
+I number one start getting overloading
+
+01:07.360 --> 01:13.390
+so its stock onstream memory is excite you also keep consuming the memory.
+
+01:13.430 --> 01:15.950
+The Windows 7 exist in Isak's.
+
+01:15.980 --> 01:19.660
+I threw the Windows XP into it.
+
+01:19.700 --> 01:26.520
+I want and also do Windows XP exist in is x.
+
+01:26.530 --> 01:33.300
+I want to have two machine Isak's one and one machine.
+
+01:33.370 --> 01:34.930
+Yes I do.
+
+01:35.230 --> 01:43.960
+So we should see an over loading in one of those that your machine and do the rest should start migrating
+
+01:44.290 --> 01:48.300
+one of those virtual machines to another host.
+
+01:48.310 --> 01:53.130
+So for example lets power off do Windows 7 exist in is x.
+
+01:53.160 --> 01:53.730
+I host.
+
+01:53.770 --> 01:58.050
+So will have zero machine potted on it is x.
+
+01:58.060 --> 02:02.760
+I Harsin them Perdo But I mean we have free space inside.
+
+02:02.950 --> 02:07.420
+And then we shall take one of those spotted machine from E6.
+
+02:07.440 --> 02:11.840
+I host number one and migrate you to do is X I hold them virtual.
+
+02:12.070 --> 02:14.760
+So let's get inside this one.
+
+02:14.820 --> 02:18.910
+We try to power off this machine.
+
+02:21.520 --> 02:34.760
+So like dots we click shut down.
+
+02:34.880 --> 02:36.470
+The other wants to bring it on
+
+02:42.020 --> 02:48.810
+OK the machine stockpot it off while our own virtual machine.
+
+02:48.900 --> 02:50.680
+And this one would be pulling it off
+
+02:53.610 --> 03:00.120
+and we shall see a migration to one of those top machine from Isak's.
+
+03:00.120 --> 03:04.450
+I want to excite you or is excite me.
+
+03:04.530 --> 03:05.850
+He chose the best one.
+
+03:06.090 --> 03:17.280
+But in this situation we had to do what is three we check the resource of this is exciting.
+
+03:21.650 --> 03:23.920
+So it's still constituted a memoir.
+
+03:23.990 --> 03:34.330
+For the ethics I operate in system so the virtual machine number four and number five still run in is
+
+03:34.480 --> 03:38.020
+I want and do Windows 7.
+
+03:38.050 --> 03:40.030
+You just bought it on E6.
+
+03:40.080 --> 03:40.670
+I do.
+
+03:40.860 --> 03:43.630
+So it's consumes Zettel.
+
+03:43.820 --> 03:56.750
+This one costing about 100 gigabytes of rain is excite to also assume about 300 of megabytes or 400
+
+03:56.870 --> 04:00.090
+megabytes offering.
+
+04:00.100 --> 04:02.400
+So this one is part of the oath let's close it.
+
+04:02.460 --> 04:07.070
+This wants to on it on and we shall see.
+
+04:07.100 --> 04:08.950
+Our hot nigger nation.
+
+04:09.070 --> 04:11.070
+So let's give it a little time.
+
+04:14.730 --> 04:17.460
+So the Windows 7 is bolted on.
+
+04:17.460 --> 04:27.220
+If we try to run some task right there for example we try to open Internet browser and we make some
+
+04:27.760 --> 04:34.330
+overloading of do resource like that.
+
+04:34.410 --> 04:40.620
+So the press will detect any consumption of the results from the host.
+
+04:40.620 --> 04:47.000
+Number one it acts like one and will start doing the migration
+
+05:07.090 --> 05:07.550
+OK.
+
+05:07.590 --> 05:12.260
+As you say you had no do as of migrating to Windows XP.
+
+05:12.270 --> 05:26.570
+Number 5 fall is I want to see at the same time 5 to 8 task migrate virtual machine a hot migration.
+
+05:26.590 --> 05:36.580
+Win XP number 5 is X I want lunch one in Morocco to E-6 to land one in Morocco with encryption migrating
+
+05:37.000 --> 05:42.780
+VM X beat 5 of Haast IX I want in Morrocco.
+
+05:42.880 --> 05:44.620
+So its worked perfectly.
+
+05:44.640 --> 05:49.510
+No denigrations start automatically from Isak's.
+
+05:49.510 --> 05:54.920
+I want to use X I too have more resource.
+
+05:55.420 --> 05:56.800
+So it will take a little time.
+
+05:56.800 --> 06:01.200
+And of course the virtual machine number five still about it.
+
+06:01.290 --> 06:08.800
+Of course you need just to refresh the console because the console need to refresh to get contact with
+
+06:08.800 --> 06:09.250
+the machine.
+
+06:09.250 --> 06:14.420
+But if the VM Walkstation the machine will still work without any problem.
+
+06:14.590 --> 06:16.760
+So you see it's work perfectly.
+
+06:16.780 --> 06:20.130
+The new machine migrated from Essex.
+
+06:20.140 --> 06:23.340
+I took it because I want it.
+
+06:23.350 --> 06:27.100
+We check like that.
+
+06:27.230 --> 06:27.920
+I won.
+
+06:27.940 --> 06:30.580
+It was in E6 I wonder what it's become.
+
+06:30.640 --> 06:32.300
+Yes I do.
+
+06:32.790 --> 06:33.280
+That's me.
+
+06:33.280 --> 06:34.950
+This machine migrated Fronde.
+
+06:35.000 --> 06:38.230
+If I want to I to succeed really.
+
+06:38.250 --> 06:45.010
+If we check this one as you see here the result of the migration depress migrated to Windows XP number
+
+06:45.010 --> 06:46.240
+five or 6.
+
+06:46.330 --> 06:50.310
+I want to in cluster it cluster.
+
+06:50.320 --> 06:56.070
+The name of this one is cluster in Morocco so it's work perfectly.
+
+06:56.080 --> 07:00.790
+So to say if we found any machine from one of.
+
+07:00.900 --> 07:09.020
+I can't get overloaded Automattic leaders will migrate this machine from a host to another host.
+
+07:09.220 --> 07:11.020
+So this is the difference.
+
+07:11.050 --> 07:11.820
+Example.
+
+07:12.860 --> 07:23.580
+Do a man function of the press in any cluster so to have seat more option of the DNS to see the next.

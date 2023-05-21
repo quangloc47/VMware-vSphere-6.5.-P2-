@@ -1,0 +1,118 @@
+WEBVTT
+
+00:01.940 --> 00:02.580
+Blogging.
+
+00:02.790 --> 00:11.770
+So to see this option about a discommode and Duchaine we need to try to add a new hard disk to get about
+
+00:11.770 --> 00:12.240
+it.
+
+00:14.810 --> 00:16.070
+That's why I like that.
+
+00:16.340 --> 00:20.310
+Then give it the option number.
+
+00:20.630 --> 00:29.650
+No we can chose to start with the virtual machine or Prowse to put it in a specific spot like this one.
+
+00:30.050 --> 00:31.970
+But of course leave it by default.
+
+00:31.970 --> 00:36.830
+Then we have to take provision and then we choose then then do shitting.
+
+00:36.920 --> 00:41.400
+If you remember the shooting and Disk Mode No it is available.
+
+00:41.600 --> 00:42.990
+Let's talk about the shooting.
+
+00:43.010 --> 00:45.370
+So the shooting is not shit.
+
+00:45.650 --> 00:46.690
+The shooting.
+
+00:46.700 --> 00:57.240
+We have no shooting or muchi writer the shooting of a hard disk meaning that one how this can be used
+
+00:57.240 --> 01:00.150
+is by different virtual machine.
+
+01:00.470 --> 01:06.450
+If we chose specific that's mean only this virtual machine we use this hard disk.
+
+01:06.700 --> 01:09.150
+Look up us.
+
+01:09.310 --> 01:12.420
+But when we chose not sharing that's mean.
+
+01:12.430 --> 01:20.860
+We did the sharing in this hard disk does mean no other machine can detect this hard disk and to write
+
+01:20.980 --> 01:25.990
+and read from this disk then we have the military writer.
+
+01:26.220 --> 01:31.740
+Of course if you are familiar with a pension system when you try to share our folder from an operating
+
+01:31.740 --> 01:39.030
+system you have the option to click on any folder and share that folder we network.
+
+01:39.180 --> 01:45.620
+But when you try to share a hard driver you do not have the option to do that because the driver do
+
+01:45.700 --> 01:47.840
+with our Asadullah that's mean.
+
+01:47.940 --> 01:55.140
+This is do not eliminate this hard disk from shitting in our network.
+
+01:55.140 --> 01:58.730
+So this is the option that we have in our virtual machine.
+
+01:58.920 --> 02:02.790
+We have not sharing or in specific that's mean related.
+
+02:02.790 --> 02:08.080
+Later on our patients tend to chose to share or not then Meucci right or multi.
+
+02:08.160 --> 02:09.240
+Right so that's me.
+
+02:09.290 --> 02:17.210
+This hard disk will be available to use by different virtual machine for example we have some applications
+
+02:17.220 --> 02:26.250
+that need to read and write from a specific hard disk and another application that use the same hard
+
+02:26.250 --> 02:26.700
+disk.
+
+02:26.700 --> 02:36.760
+For example in A Reason For example the nickel soft cluster is a Microsoft cluster or our Oracle cluster.
+
+02:36.780 --> 02:44.430
+They use different machines but they use the same locale that store the same hard disk the sharing the
+
+02:44.430 --> 02:53.270
+same hard disk and saving the data for the same hard disk even we have two or three operating system.
+
+02:53.480 --> 02:59.030
+That the Microsoft cluster connected to want a shared local hard disk.
+
+02:59.040 --> 03:02.720
+So this is the idea of the sheening if you chose not.
+
+03:02.730 --> 03:04.460
+Shane you deserved this option.
+
+03:04.500 --> 03:05.430
+M.T. right.
+
+03:05.470 --> 03:11.120
+That's mean multiple virtual machine can use this one to save the data.

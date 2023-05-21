@@ -1,0 +1,229 @@
+WEBVTT
+
+00:01.520 --> 00:02.270
+Hello again.
+
+00:02.330 --> 00:11.650
+So no we have some Haast busy line and we can connect to E6 I host one of those baseliner and then check
+
+00:11.650 --> 00:16.640
+the compatibility or compliance with those hostages life.
+
+00:16.670 --> 00:22.130
+It's like what we did with the host profiled we connect to host provider and check if they are compliant
+
+00:22.220 --> 00:23.230
+or not.
+
+00:23.450 --> 00:24.860
+So the same we can't do it.
+
+00:24.860 --> 00:27.960
+We do have a baseline of updates.
+
+00:28.070 --> 00:34.130
+Then we have some baseline group if we want to create some specification group etc. to do same as the
+
+00:34.250 --> 00:43.260
+host line just use it by them troll a group then we have V.M. baseline that is information about virtual
+
+00:43.260 --> 00:51.700
+machine you see virtual machine updates to latticed then VM Where had the war upgrade the end of VM
+
+00:51.700 --> 00:58.740
+were to upgrade too much to host this one about the vitriol appliance upgrade it's about individual
+
+00:58.790 --> 01:01.510
+planes the individual machine hardware upgrade.
+
+01:01.610 --> 01:05.310
+That's mean you upgrade the driver of the hardware.
+
+01:05.430 --> 01:10.040
+There were two holes to upgrade to much of the house.
+
+01:10.090 --> 01:15.890
+This is information about the VM were true that's unstarted into different virtual machine you can upgrade
+
+01:15.890 --> 01:22.310
+to them where to do this information of course you can get details about them.
+
+01:22.480 --> 01:31.720
+Then the same we have busline group then have a do E6 I would imagine this is a very useful tool that's
+
+01:31.760 --> 01:40.480
+mean if you want to upgrade from five point five to six or to 6.5 you don't need to do it manually you
+
+01:40.570 --> 01:45.150
+simply import the ISO image of Isak's light you see right there.
+
+01:45.160 --> 01:52.760
+You can upgrade multiple hosts of different pension simultaneously by using an image upload only.
+
+01:52.820 --> 01:57.330
+I image that you will use is the browser button below to select.
+
+01:57.370 --> 02:04.100
+I imagine which you want is not some important are large and might take several months.
+
+02:04.330 --> 02:08.100
+Then of course your browser to upload is a moderator.
+
+02:08.320 --> 02:15.900
+Then he would automatically evacuates the vitriol machine from that host and update the effects I host.
+
+02:15.900 --> 02:18.580
+They actually from the master of the house.
+
+02:18.760 --> 02:23.060
+Then we'll reboot it is x I host we do new version.
+
+02:23.110 --> 02:28.330
+So this is on this tool you can use it to upgrade your dependence is it create a host.
+
+02:28.420 --> 02:36.010
+But of course you should be careful when you will migrate your virtual machine etc. then we box it sitting
+
+02:36.010 --> 02:42.370
+right where we have network connectivity that's mean the connectivity between this fear updates manager
+
+02:42.460 --> 02:44.320
+and the center server.
+
+02:44.440 --> 02:52.000
+It is already configured because from the vision 5:06 it's configured to connect between the center
+
+02:52.000 --> 02:53.880
+server and the update manager.
+
+02:54.010 --> 02:58.140
+So we don't need to change any time right here because it is allowed to exist.
+
+02:58.140 --> 03:04.780
+How does it that is all the hostname for the parts store and store the update into recentre server then
+
+03:04.870 --> 03:10.220
+the server port and port for client communication with updates manager server.
+
+03:10.480 --> 03:13.870
+Then we have done a lot sitting down long sitting.
+
+03:13.990 --> 03:18.670
+Hey check it connectivity to get information from this link.
+
+03:18.700 --> 03:20.030
+Here we have a difference.
+
+03:20.050 --> 03:28.390
+You're about to do updates available that download the page of the updates you see download so download
+
+03:28.390 --> 03:35.350
+new page and visit appliance upgrade either at intervals PCF it in download skiddoo or immediate by
+
+03:35.390 --> 03:37.520
+clicking download now button.
+
+03:37.660 --> 03:44.690
+That's when you click download button now and you will download different and I'll be able to get do
+
+03:44.780 --> 03:52.010
+a different bait update how do you check the difference you are l the Haast updates from the VM where
+
+03:52.020 --> 03:54.980
+the dot.com software et cetera.
+
+03:55.050 --> 03:57.460
+We have the app update et cetera.
+
+03:57.660 --> 04:04.710
+And then of course you can it it does you harm by clicking it there then you can for example challenge
+
+04:04.710 --> 04:06.800
+any of them by default.
+
+04:06.930 --> 04:08.510
+You can't delete them.
+
+04:08.580 --> 04:15.570
+You can't just disable it then you can add for example if you have the HP Service you can get our updated
+
+04:15.570 --> 04:24.120
+driver from the HP by searching in Google about your end the update manager of HP on them or you can
+
+04:24.140 --> 04:25.620
+establish contacts.
+
+04:25.750 --> 04:29.540
+Wonder service to give you the different you had for.
+
+04:29.670 --> 04:32.610
+Do hardware updates and the software update.
+
+04:32.620 --> 04:40.680
+If for example the plugging for hardware monitor etc. you can get to them right here and attempt to
+
+04:40.680 --> 04:41.400
+do list.
+
+04:41.410 --> 04:50.470
+For example if you have a core hardware you can get updates from Cisco Dell of course a shared repository
+
+04:50.710 --> 04:54.160
+of our shared repository for a of the central server.
+
+04:54.160 --> 05:00.060
+You can write right then then we have the proxy.
+
+05:00.070 --> 05:05.320
+If you use a proxy in your environment you need to add the proxy writer used a proxy.
+
+05:05.320 --> 05:10.800
+For example a proxy for the update for connection to the network etc..
+
+05:11.170 --> 05:18.950
+But of course when you are the deuce your end of the search space you need to enable those in your firewall.
+
+05:18.970 --> 05:26.010
+If you have firewall security that disable any connection and only allow some specific it yourself you
+
+05:26.090 --> 05:34.420
+need to up to list in firewall to allow the center server the upgrade manager to be able to connect
+
+05:34.420 --> 05:37.660
+to the network and specifically traduce you are l.
+
+05:37.930 --> 05:44.800
+Then we have to download schedule to get specification time to download enables you to download Yes
+
+05:45.280 --> 05:52.450
+task named VM where respire update manager update download task description frequently daily blast around
+
+05:52.450 --> 05:53.120
+Inconel.
+
+05:53.140 --> 05:58.510
+Next around will be the next day in the morning so we can see this option.
+
+05:58.540 --> 06:05.290
+We can disable reschedule download and we back to the download setting and do it manually or we enable
+
+06:05.290 --> 06:11.540
+it to use it like that next day and give it our task name.
+
+06:11.560 --> 06:16.980
+So when you all check your log file you'll find that you have VM were updates manager.
+
+06:17.170 --> 06:24.460
+Then you can chance the specification time by doing daily or weekly or monthly or how specific each
+
+06:24.700 --> 06:29.350
+time or in this specific time or around no.
+
+06:29.560 --> 06:32.450
+So you can't it's Aldo's information.
+
+06:32.530 --> 06:41.290
+Next day when you're finished editing didn't have that notification check skittle to get an education.
+
+06:41.800 --> 06:45.530
+So next we'll completes the other posting we have soon the next.

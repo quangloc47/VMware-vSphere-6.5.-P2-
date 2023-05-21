@@ -1,0 +1,103 @@
+WEBVTT
+
+00:00.390 --> 00:05.470
+So then you have Lust's one option right here is about look what you see.
+
+00:05.670 --> 00:10.260
+This one is the same as the cluster resources department that's right here about 10 years.
+
+00:10.260 --> 00:13.140
+Do you see this list that you define it.
+
+00:13.150 --> 00:14.740
+Ozdemir and stupid.
+
+00:14.780 --> 00:20.090
+Does that satisfy the reservation requirements for any powerit on that machine in the cluster.
+
+00:20.640 --> 00:30.610
+So the idea right here is that he will take the big vitrine machine that cost you do most resouce.
+
+00:30.630 --> 00:38.780
+So for example if you have a hosts that have a gigabyte or fine 10 we have different virtual machine
+
+00:38.780 --> 00:45.560
+inside that host the one that's consumed the big resouce for example of a machine that can stream for
+
+00:45.690 --> 00:46.830
+gigabytes offering.
+
+00:46.970 --> 00:50.910
+So the slot calculated will be for bytes over time.
+
+00:50.990 --> 00:57.610
+Then the you the most that concern to hide Sibiu will be our slot number.
+
+00:57.740 --> 00:59.990
+So they will make its own calculation.
+
+01:00.090 --> 01:08.360
+Do number of slots for the most big virtual machine thats me.
+
+01:08.500 --> 01:17.530
+When he found that Hulst number one example just has to have for virtual machine and one of the virtual
+
+01:17.530 --> 01:24.890
+machine thats consumed for about offering the other three Mushin can only do it over.
+
+01:25.030 --> 01:33.010
+So do Sloat will be 4G gobshites of frame as you said MMRDA slot size is 1 megabytes and it will be
+
+01:33.040 --> 01:40.870
+4 gigabytes of reme so it will make its own question about the slot he would reserve for example to
+
+01:40.900 --> 01:48.490
+slot in a host thats me in his situation happened wrong in this host that have the virtual machine thats
+
+01:48.510 --> 01:55.280
+consumed parting advice offering it will automatically have a free slot in another host.
+
+01:55.300 --> 01:56.140
+Thats me.
+
+01:56.140 --> 02:00.610
+Our free resource that's required for you got bytes of RAM.
+
+02:00.670 --> 02:12.020
+Minimum in just region he raises our resource that can support the most big virtual machine in the environment.
+
+02:12.130 --> 02:14.000
+I mean it is the creation Hoppen rank.
+
+02:14.040 --> 02:16.840
+We have the big virtual machine.
+
+02:17.050 --> 02:21.500
+We have our space that's counterpart this virtual machine in another horse.
+
+02:21.520 --> 02:27.270
+It's Meeke do a calculation about the slot to the cemetery you see the difference that we have.
+
+02:27.490 --> 02:32.860
+How much memory you can't customize this one for example 20 etc..
+
+02:33.010 --> 02:37.990
+So when you make a calculation he will show you that this machine can't support this lot.
+
+02:37.990 --> 02:42.500
+Does one need two slots in what is right here is one it talks a lot.
+
+02:42.610 --> 02:48.130
+So it's a little complex in the Star How does slot work you can make a quick search for Google about
+
+02:48.220 --> 02:51.660
+two slots and you will get a lot of examples.
+
+02:51.730 --> 02:58.910
+You have two types of lots of calculation and you will get our explanation about how the slots be calculated.
+
+02:59.140 --> 03:04.630
+But the idea here is about the big virtual machine you know resource use it.
+
+03:04.750 --> 03:09.930
+So next we see do performance degradation Virtual Machine Tools see in the next expect.

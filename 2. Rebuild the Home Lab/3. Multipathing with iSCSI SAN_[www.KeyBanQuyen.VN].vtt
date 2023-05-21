@@ -1,0 +1,232 @@
+WEBVTT
+
+00:02.160 --> 00:03.120
+Hello again.
+
+00:03.150 --> 00:10.260
+So let's try to add an external stars for the different toasts and let's do this example for the host
+
+00:10.260 --> 00:15.360
+Number two if you remember from the preview calls we see the step 2.
+
+00:15.380 --> 00:22.520
+Up next and on Stardust but let's get a quick refresh to do it again for your love.
+
+00:22.890 --> 00:27.330
+So if you remember we got to do HOUSE CALL.
+
+00:27.390 --> 00:34.470
+And in the storage which shows that the first step that we need to connect an external storage we need
+
+00:34.740 --> 00:45.680
+to have be a network adapter or if we don't have an HP network or physical other we just use do software
+
+00:45.870 --> 00:51.990
+scuzzy adapter so we enable the software as an adapter in this host.
+
+00:52.000 --> 00:53.050
+OK.
+
+00:53.520 --> 00:58.230
+Then we'll charge the to our eyes cause the adapter opened fire with both.
+
+00:58.410 --> 01:05.160
+So you see here have to ask cause what are the adapter just added a quick overview about it.
+
+01:05.160 --> 01:12.690
+The device this place that we should see the different storage available with the ice Kaze adapter the
+
+01:12.690 --> 01:19.830
+interface of those We're going to use it to get to the direct beat for the storage the target and the
+
+01:19.830 --> 01:23.370
+network bandwidth and some other option.
+
+01:23.490 --> 01:31.150
+And if you remember we need to band in our network adapter to do ice Kazee software.
+
+01:31.170 --> 01:37.270
+If you remember that I mean this is a software that will convert a physical adapter to our eyes cause
+
+01:37.280 --> 01:41.460
+the adapter that will detect the ice cores is gone.
+
+01:42.330 --> 01:48.930
+And of course as this is what we need to connect connected to our physical network adapter an Ethernet
+
+01:49.410 --> 01:56.140
+adapter to work with it as our eyes Kaze or an HP adapter.
+
+01:56.430 --> 02:05.010
+So we click right there to a network portal and into our board you will see that we have to be kept
+
+02:05.000 --> 02:06.330
+now available.
+
+02:06.350 --> 02:10.220
+Do we use it as an ice Kazee for the group.
+
+02:10.260 --> 02:19.250
+So we click on any of them you see compliant that's mean this network adapter the tabbed VM can to is
+
+02:19.250 --> 02:22.260
+compliant to be use it as eyes Karzi.
+
+02:22.330 --> 02:28.640
+But then the second one the same if we chose for example a VM network tree it's not compliant that's
+
+02:28.640 --> 02:31.090
+mean you can't use this physical adapter.
+
+02:31.140 --> 02:36.280
+Ours are nice KEZI port to connect to do scuzzy us.
+
+02:36.500 --> 02:43.520
+So we chose one off them check them together or we just try we do one of them to send the example.
+
+02:43.520 --> 02:51.260
+So we click OK and then you will see all the data in the recent conflict.
+
+02:51.300 --> 02:53.740
+It is kind of distorted about the Oracle on it.
+
+02:53.780 --> 03:01.910
+So you see do I see Kaze the VM Carolan a Jew that is compliant is connected to the usage for this ice
+
+03:01.910 --> 03:06.660
+Kazee software adapter as our port and its work.
+
+03:06.930 --> 03:10.290
+So weve been doing this network a number six.
+
+03:10.300 --> 03:12.940
+We do ice the software.
+
+03:13.010 --> 03:15.340
+So we think we do it again.
+
+03:15.350 --> 03:23.690
+You would see that we only have one VM can have available to be bent to the eyes Kaze adapter click
+
+03:23.860 --> 03:24.480
+OK.
+
+03:26.050 --> 03:32.070
+So now we have two physical adapter bendin to do ice Kaze software.
+
+03:32.320 --> 03:37.140
+So as we do this congressional we need to rescan.
+
+03:37.290 --> 03:39.610
+So we click iscan like that.
+
+03:39.690 --> 03:40.300
+OK.
+
+03:41.190 --> 03:44.220
+So you see ahead rescan all it should be.
+
+03:44.440 --> 03:52.110
+And Alda DMF is available if we box a device of course we are not going to see anything because we do
+
+03:52.150 --> 03:54.150
+not have any targets yet.
+
+03:54.230 --> 04:02.270
+So this ice Kaze no work but actually we are bonding your network adapter and to VM government this
+
+04:02.450 --> 04:06.650
+is Kaze and then the next step is added the device.
+
+04:06.650 --> 04:09.020
+We didn't not have any device yet.
+
+04:09.230 --> 04:12.940
+So we got to the targets are the same as we did in the previews.
+
+04:13.250 --> 04:20.320
+We click on it and we chose the IP address or do I the storage or extend our storage.
+
+04:20.330 --> 04:24.310
+In my situation I use a software splodge start.
+
+04:24.350 --> 04:32.090
+And of course you can use for instance or open file or any software for Create your luck of course from
+
+04:32.090 --> 04:33.860
+the preview course we used.
+
+04:34.060 --> 04:41.590
+And it's our simple truth that we help you to create an external externals for practicing what you will
+
+04:41.600 --> 04:43.580
+going to learn from this.
+
+04:43.850 --> 04:47.410
+So I give you the address of the storage.
+
+04:47.570 --> 04:49.090
+This is the test.
+
+04:49.230 --> 04:49.970
+OK.
+
+04:51.370 --> 04:55.100
+So do two reasons conflict change arest kind of distortion that is all.
+
+04:55.210 --> 05:08.490
+So we click Riskin OK and then we shall see are your devices that light.
+
+05:08.570 --> 05:15.900
+As we say here we have two storage available to start with and ice Kazee disk.
+
+05:15.910 --> 05:18.500
+Number one that's have 14 gigabytes.
+
+05:18.560 --> 05:24.030
+They do i scuzzy disk number two that have forty five gigabytes.
+
+05:24.040 --> 05:26.100
+So it's work perfectly.
+
+05:26.140 --> 05:35.860
+So no we have to do was dictated by the software Drobo do part of the physical adapter number 6 and
+
+05:35.860 --> 05:39.410
+7 by using the VM kernel 2 and 3.
+
+05:39.460 --> 05:41.270
+So this is the idea how to do that.
+
+05:41.290 --> 05:46.290
+So if we chiggers a different bait as you said we have to device.
+
+05:46.480 --> 05:49.220
+But when we check the page we have four.
+
+05:49.720 --> 05:51.210
+That's me.
+
+05:51.270 --> 05:56.900
+This is the disk number one if you Racan itat you get some idea of how to do this.
+
+05:59.140 --> 06:08.210
+You see this I mean the one L 0 and this is D1 and did all that understeer and the one ha 0 and 0 0
+
+06:08.420 --> 06:18.890
+0 0 this is meaning that this is the same spot on I-10 but why we have two of them because we have two
+
+06:19.270 --> 06:29.570
+board bent into this ice Kaze So that's mean the them can end them but to have direct bait to the storage
+
+06:29.690 --> 06:38.090
+number one and do them come in and B-tree that's made the Stigand network have a connection with the
+
+06:38.090 --> 06:47.570
+same first storage bin number take 1 0 then do the second story was seen by two physical adapter and
+
+06:47.630 --> 06:49.010
+two V.M. come in.
+
+06:49.010 --> 06:54.680
+That's why we see midship of two stories available in our external storage.

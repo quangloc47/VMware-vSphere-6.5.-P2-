@@ -1,0 +1,247 @@
+WEBVTT
+
+00:01.260 --> 00:01.950
+Blogging.
+
+00:02.110 --> 00:04.290
+So let's try to accomplish.
+
+00:04.290 --> 00:06.110
+Do snapshot that's mean.
+
+00:06.370 --> 00:13.600
+We get our a good configuration and as a virtual machine then we want to delete all the available snapshot.
+
+00:13.630 --> 00:15.450
+So of course we got to do snapshots.
+
+00:15.700 --> 00:19.570
+So this option management snapshot tools take us to this tape right.
+
+00:19.590 --> 00:20.660
+It is the same.
+
+00:21.130 --> 00:22.760
+No we are in the snapshot.
+
+00:22.770 --> 00:26.000
+Number three that's mean editing that exists right.
+
+00:26.000 --> 00:27.980
+No we want to finish it.
+
+00:28.040 --> 00:33.210
+Naturally we want to keep the file number one and number two the application number one and number two
+
+00:33.220 --> 00:35.270
+all work perfectly without any problem.
+
+00:35.740 --> 00:40.760
+So we simply click on the virtual machine snapshot.
+
+00:40.970 --> 00:47.470
+And in this time we're not going to chose revert to the latest snapshot or we can create.
+
+00:47.470 --> 00:48.960
+Click on this display right here.
+
+00:48.970 --> 00:51.710
+That's munity exist in this one.
+
+00:51.770 --> 00:56.120
+Of course we have option to delete the snapshot or this one.
+
+00:56.120 --> 00:57.310
+Let's do it.
+
+00:57.320 --> 01:02.740
+Firstly what is on that snapshot you can edit it if you want to change the name of it.
+
+01:02.780 --> 01:04.070
+It's not part.
+
+01:04.080 --> 01:08.690
+No but you can't delete a specific snapshot for any reason.
+
+01:08.690 --> 01:15.470
+For example you have to not show that work particularly for you and this snapshot already exists or
+
+01:15.500 --> 01:19.040
+you don't need it you simply click on the X right there.
+
+01:19.160 --> 01:20.770
+Are you sure you want to delete snapshot.
+
+01:20.840 --> 01:22.640
+That's called snapshot talk.
+
+01:22.680 --> 01:24.420
+There are two glitches.
+
+01:24.560 --> 01:29.190
+So the fight of this one will be deleted without any problem.
+
+01:29.210 --> 01:36.880
+The MoVida snapshot that's Galut not trot zero to from the disk so head as it's deleted without any
+
+01:36.880 --> 01:37.560
+problem.
+
+01:37.810 --> 01:44.860
+Then of course we are writing out the option right here is integration about this one.
+
+01:44.950 --> 01:51.280
+If we click action revert it did not route or delete Aldo's natural when we chose dilates others not
+
+01:51.340 --> 01:52.610
+to will delete snapchat.
+
+01:52.620 --> 01:58.800
+Number three the snapshot number to the snapshot number one Adwan keep the data that exists when you're
+
+01:58.890 --> 01:59.520
+out here.
+
+01:59.530 --> 02:05.940
+That's mean in it it's happened after taking the truck number three will be still available and service
+
+02:06.030 --> 02:07.850
+for the machine.
+
+02:08.040 --> 02:14.510
+So for example head we click on your line of
+
+02:18.390 --> 02:23.360
+config Saudi like that's
+
+02:26.410 --> 02:30.420
+me mean we make the final configuration on this machine and it works perfectly.
+
+02:30.630 --> 02:37.260
+So if we're back to this one and click on this machine snapshot the late Aldo's not shook.
+
+02:37.410 --> 02:46.380
+No we are going to use the original disk as our men disk for read and write.
+
+02:46.500 --> 02:54.340
+So when we are right that doesn't mean we stay right where we work all to the level of the disk delta-V
+
+02:54.490 --> 02:57.000
+in a tree when we delete.
+
+02:57.030 --> 03:04.740
+How does NOT produce it will delete all the Delta disk after consolidates all do change from the disk
+
+03:04.800 --> 03:07.480
+in the original disk.
+
+03:07.500 --> 03:16.340
+So let's try it not Schult the lets us not build this will consolidate and remove as much load for this
+
+03:16.340 --> 03:20.800
+virtual machine does not will be consolidated to a single disk.
+
+03:20.820 --> 03:21.980
+Do you want to continue.
+
+03:22.200 --> 03:23.660
+Yes.
+
+03:23.670 --> 03:27.880
+Does it take a little time more than taking us.
+
+03:28.020 --> 03:33.530
+Because it is information about how much is natural to you have more a snapshot you have more faith
+
+03:33.690 --> 03:41.310
+in text because the latest one would have big size of the snapshot because it will take a chance on
+
+03:41.310 --> 03:41.880
+this one.
+
+03:41.950 --> 03:44.010
+And civets on this one.
+
+03:44.160 --> 03:47.210
+Then all the change in this they'll that this.
+
+03:47.250 --> 03:52.470
+Copy them and consolidate this one and so on and so injured original ideas.
+
+03:52.470 --> 03:55.500
+So you are here without having any data.
+
+03:55.770 --> 04:05.910
+If we were back to the store and in the virtual machine Windows XP we found that Delta decie delete
+
+04:05.910 --> 04:09.640
+it and all the information was not deleted.
+
+04:10.290 --> 04:15.330
+And of course it's click on do this one we can get loaded.
+
+04:15.600 --> 04:20.160
+If we back to this one the file still available without any problem.
+
+04:20.220 --> 04:27.320
+The virtual machine is not disconnected because the change up on Abdula of the hard disk and other data
+
+04:27.330 --> 04:34.670
+that loaded into RAM didn't touch it with the snapshot.
+
+04:35.100 --> 04:37.110
+So the file still available.
+
+04:37.320 --> 04:46.930
+And no we can't box to any snapshot because we decided to delete all the fight off the snapshot.
+
+04:47.150 --> 04:50.190
+So how does it if we check any games available.
+
+04:50.210 --> 04:57.320
+We have the original VM the top pages of right and we do not have any information about another Dickey
+
+04:57.500 --> 05:01.490
+or about our Snapchat fight.
+
+05:01.540 --> 05:04.030
+So this is the idea of deleting the snapshot.
+
+05:04.090 --> 05:12.850
+This one still have the snapshot had has it is why it is part of and you are here in this one.
+
+05:12.850 --> 05:19.420
+You see the disk usage is about 1 megabytes because this one has zero megabytes Indurain it's only have
+
+05:19.420 --> 05:25.620
+the information about the new disk and the data or the snapshot it's it out.
+
+05:25.660 --> 05:31.930
+So that's we have only one gigabyte of the disk but this one is not of any snapshot yet.
+
+05:33.120 --> 05:35.620
+So this is the defendant's option or the snapshot.
+
+05:35.620 --> 05:41.170
+Please try to make some it's not what you seek or revert to latest snapshot is not readable.
+
+05:41.190 --> 05:44.170
+No because we have Xerox snapshots available.
+
+05:44.580 --> 05:48.330
+So I request you to make some snapshot.
+
+05:48.390 --> 05:49.910
+Some situations are just not true.
+
+05:50.220 --> 05:56.970
+You can create as much as you want others not try to revert back to one of them try to revert to up
+
+05:56.970 --> 05:59.040
+to do you want and so on and so on.
+
+05:59.160 --> 06:06.960
+And please share some screen capture of your practice with us so we can discover some striation so see
+
+06:07.010 --> 06:12.470
+in the next section that we'll going to discover a moderate future of the VM we see in the next review.

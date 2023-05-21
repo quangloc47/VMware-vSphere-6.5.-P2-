@@ -1,0 +1,169 @@
+WEBVTT
+
+00:01.110 --> 00:02.520
+Hello and welcome again.
+
+00:02.760 --> 00:06.710
+So let's start creating the first sport.
+
+00:06.740 --> 00:11.830
+So of course as I look the resource pool is available only at the level of the cluster.
+
+00:12.000 --> 00:17.820
+If we try to get any resource pool from the data center we can't fund anything about the resource pool.
+
+00:17.820 --> 00:19.440
+Of course we are only of the up.
+
+00:19.650 --> 00:25.430
+But if we want to do this we need to go to the cluster and we have new resource pool.
+
+00:25.890 --> 00:35.310
+So information or a requirement for the resource pool is to have enough blood to depress if you're disabled.
+
+00:35.360 --> 00:38.120
+There is this option is not available.
+
+00:38.130 --> 00:40.130
+This one it will be disabled.
+
+00:40.350 --> 00:46.690
+You need to enable the teachers in this cluster to be able to create our resource pool.
+
+00:46.890 --> 00:52.150
+So we click and cluster we chose new resource pool.
+
+00:52.410 --> 01:02.100
+And as always we give it a name for example resource pool a like about.
+
+01:02.190 --> 01:07.250
+So we have some option in this resource pool to chose it.
+
+01:07.260 --> 01:09.010
+So let's start with this.
+
+01:09.150 --> 01:12.010
+So of course it would be like that you.
+
+01:12.110 --> 01:15.730
+To get to do so let's concentrate on the speech.
+
+01:15.930 --> 01:23.620
+So if you remember the shares we have normal that's have four thousand point or 4000 share.
+
+01:23.850 --> 01:28.600
+Then we have the low it's about two thousand shares.
+
+01:28.740 --> 01:32.360
+Then the high is about 8000 share.
+
+01:32.370 --> 01:37.750
+So where did you get this number to make it easy to chose to share.
+
+01:37.780 --> 01:40.870
+And it will make its own calculation to get to.
+
+01:40.920 --> 01:41.450
+Right.
+
+01:41.460 --> 01:47.460
+Value didn't have cost costume to make any number that you want but of course you need to understand
+
+01:47.460 --> 01:48.680
+how those numbers work.
+
+01:48.720 --> 01:50.440
+You know how about it.
+
+01:50.520 --> 01:57.160
+Example if you give it a big number that's when you consume about 80 percent or 90 percent on that resource.
+
+01:57.210 --> 02:01.270
+So if we chose for more money let's just look at the moment.
+
+02:01.530 --> 02:07.570
+Then we have another option called a reservation reservation of do c.p.
+
+02:07.680 --> 02:11.510
+So it wasn't nigger herds of course that controls gigahertz.
+
+02:11.670 --> 02:17.110
+Then of course you see the Muggsy reservation available it's five gigahertz.
+
+02:17.350 --> 02:19.200
+So what does it mean.
+
+02:19.260 --> 02:28.170
+The reservation reservation of the resource pool that's me will get our part of the pew for this resource
+
+02:28.200 --> 02:37.080
+pool and not other artist pool can use it for if we give is about four you got hurt of the Sibiu then
+
+02:37.080 --> 02:44.820
+when we try to create another resource pool Do available spew for that the resource pool is the total
+
+02:45.060 --> 02:50.840
+minus for ziggurats that's when we keep the part of the CPA only fuel.
+
+02:50.850 --> 02:52.060
+That's a resource pool.
+
+02:52.230 --> 03:00.390
+Even the virtual machine will be powered off or consume less than four Ziggo heads of the Sibiu do resource
+
+03:00.390 --> 03:04.540
+pool we'll keep this for the heads of the Super you for it.
+
+03:04.740 --> 03:11.020
+So the idea here for example we have some virtual machine that need to be run all the time.
+
+03:11.190 --> 03:17.050
+So this machine needs about 4G gobshites or we give it for you gobshites.
+
+03:17.070 --> 03:24.100
+Off to sleep you end and if we don't chose our reservation for it for example it was 0 like that.
+
+03:24.290 --> 03:31.020
+Then in a situation this virtual machine have a problem and need to reboot when we reboot this virtual
+
+03:31.020 --> 03:32.040
+machine.
+
+03:32.040 --> 03:39.750
+And when this virtual machine start bolted on maybe another machine will take do three CPR available
+
+03:39.930 --> 03:41.880
+in that cluster.
+
+03:42.090 --> 03:45.710
+And this Turing machine when we start bolted on.
+
+03:45.750 --> 03:49.650
+Can't find any available uses for that.
+
+03:49.650 --> 03:57.280
+We use reservation that's mean we keep always this for regardless of the Sibiu only for that resource
+
+03:57.280 --> 04:01.700
+pool that's have this virtual machine no matter what's happened to this virtual machine.
+
+04:01.830 --> 04:07.810
+Even this virtual machine will be powered of for some problem or even taught with how.
+
+04:07.830 --> 04:08.970
+Or maybe one day.
+
+04:09.220 --> 04:16.680
+Always before she grabs on the CPI it will be available for this video machine any time when this virtual
+
+04:16.680 --> 04:18.480
+machine will be powered on.
+
+04:18.480 --> 04:20.500
+So this is the meaning of reservation.
+
+04:20.500 --> 04:25.720
+Of course we have the muxing is about five Jugheads because we have three Isak's I host.
+
+04:25.980 --> 04:32.240
+So the total about to do CPR available in this cluster is about five gigabytes.

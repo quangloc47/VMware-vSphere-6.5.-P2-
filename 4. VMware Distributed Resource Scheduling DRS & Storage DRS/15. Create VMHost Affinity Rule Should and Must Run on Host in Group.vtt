@@ -1,0 +1,412 @@
+WEBVTT
+
+00:01.180 --> 00:02.470
+But how do you see that we have.
+
+00:02.490 --> 00:05.550
+Sure multi-brand all should run.
+
+00:05.580 --> 00:06.320
+That's me.
+
+00:06.540 --> 00:09.630
+When we are should not right that's me.
+
+00:09.650 --> 00:13.600
+This case will not run in rock number one.
+
+00:13.830 --> 00:15.260
+We can also.
+
+00:15.400 --> 00:22.890
+Charles rot in the host group then we created a group called Rock number two.
+
+00:22.950 --> 00:25.190
+Then we took this case.
+
+00:25.260 --> 00:32.880
+Shawled always ran into a rock number two and the same food kids want the children in rock.
+
+00:32.880 --> 00:38.880
+Number one of course you need to get an idea about the different rules that we're going to use and know
+
+00:39.410 --> 00:46.080
+which one should be the perfect and two small configuration that will work perfectly.
+
+00:46.080 --> 00:55.820
+So also we have Schrute and musts so virtual machine intergroup what should or must.
+
+00:56.010 --> 01:01.660
+What's the difference between truly and musts virtual machine that that's a member of the VM group.
+
+01:01.710 --> 01:03.960
+Should that run on the host Group.
+
+01:04.170 --> 01:06.580
+That's college group 1 and then we have.
+
+01:06.600 --> 01:09.700
+Must mean must run.
+
+01:09.780 --> 01:19.470
+The difference between truly and must is that when we say that case number one should run into Group
+
+01:19.860 --> 01:20.240
+1.
+
+01:20.250 --> 01:25.250
+The top 2 E6 I want and E-6 I 2 and 6 I treat that's me.
+
+01:25.380 --> 01:35.360
+If something wrong happened to do Haast it's like that for example is X I won tickets done.
+
+01:35.400 --> 01:43.430
+This machine will be migrated to a house number two or number three.
+
+01:43.430 --> 01:50.370
+Also if something wrong happen to do E-6 i.e. number 3 it will be idea to do Holst's and virtual and
+
+01:50.370 --> 01:51.530
+so on and so on.
+
+01:51.690 --> 02:02.830
+But in case stats do fall rock tickets don't like that this rock tickets are dumb and out of cities
+
+02:02.870 --> 02:05.570
+all those years I was out of service.
+
+02:05.720 --> 02:09.420
+In this case when we chose shawled that's mean.
+
+02:09.530 --> 02:17.810
+It is recommended to run this virtual machine in the rack number one group of the hostages br1 But in
+
+02:17.810 --> 02:26.300
+this situation you can McGinty's this virtual machine from the rack number 1 to rack number 2 or any
+
+02:26.360 --> 02:27.150
+rack available.
+
+02:27.170 --> 02:31.760
+If you have for example track number 3 it will go to do it in a bit rich of way.
+
+02:31.970 --> 02:36.840
+Having them in the same group but as we chose.
+
+02:36.870 --> 02:44.650
+She told me we still are able to run this virtual machine in the rack number.
+
+02:45.320 --> 02:52.550
+So we will keep our machine working perfectly without any problem when we chose short but in any case
+
+02:52.640 --> 03:03.860
+when we choose must when we chose must mean this machine must run into rack number one and if something
+
+03:03.860 --> 03:11.310
+wrong happened to rack number one that's mean all the server in rack number 1 out of service don't McGary
+
+03:11.360 --> 03:12.080
+this machine.
+
+03:12.080 --> 03:16.320
+This virtual machine will be out of service.
+
+03:16.610 --> 03:22.080
+It will be out of service into this Iraq gets voted on.
+
+03:22.100 --> 03:24.030
+Or get back to the life.
+
+03:24.200 --> 03:25.790
+So this machine will be date.
+
+03:25.790 --> 03:33.590
+When do rock or a group of the hosts date the machine will be out of service and the company will keep
+
+03:33.590 --> 03:37.300
+using two other cases.
+
+03:37.340 --> 03:38.790
+Number two it's Intel.
+
+03:39.230 --> 03:45.700
+So this is the difference between must and choose to say must run and must not run.
+
+03:45.710 --> 03:46.410
+That's me.
+
+03:46.580 --> 03:50.370
+If we chose must not run the group in a better one.
+
+03:50.660 --> 03:58.580
+So for example this machine that ran into rock number one and something wrong happened to this rock.
+
+03:58.580 --> 04:05.570
+It will migrated to another host that does not exist in the group number one.
+
+04:05.640 --> 04:14.450
+If then the other hosts like that the other hosts have something wrong again.
+
+04:16.460 --> 04:19.580
+Like that this ARAC I can take it down.
+
+04:19.680 --> 04:24.270
+Then he try to migrate this machine to another host.
+
+04:24.470 --> 04:32.730
+But when he can't find unavailable Haast only does one that exist in the group one that must not run
+
+04:32.750 --> 04:33.440
+in it.
+
+04:33.470 --> 04:39.460
+Then this machine will be out of service until one of the different hosts.
+
+04:39.500 --> 04:41.450
+That does not exist in the group.
+
+04:41.450 --> 04:43.290
+One will be available.
+
+04:43.360 --> 04:48.070
+Then he will migrate this machine traits and I it on again.
+
+04:48.470 --> 04:54.800
+So this is the idea of should and must and will rant and should not read.
+
+04:55.370 --> 05:03.760
+So in my situation we choose VM group one that top the tree or machine number one end to Hulst group
+
+05:05.010 --> 05:06.890
+the top E-6 I.
+
+05:07.170 --> 05:14.780
+That's mean we want to run this virtual machine to show the rat or the trolls.
+
+05:14.810 --> 05:20.980
+Mustard and Mc Do a cluster action quickly so we give it this idea Itek.
+
+05:21.320 --> 05:29.450
+If we back itat and try to remember we should rule for example the House is E-6 I want the virtual machine
+
+05:29.660 --> 05:40.970
+is Windows XP and Windows 7 should run Windows 7 exist in D6 I joked and we want this virtual machine
+
+05:40.970 --> 05:44.320
+to run into Group 1.
+
+05:44.370 --> 05:49.650
+The top Isak's I one lets me distort Vitry machine will be migrated from.
+
+05:49.850 --> 05:53.310
+I too and expatriate to ESX one.
+
+05:53.440 --> 06:06.280
+So if we back to our route then we chose DMH to use x y one like that that's mean to virtual machine
+
+06:06.850 --> 06:09.720
+will be migrated to do you.
+
+06:09.910 --> 06:12.580
+I want virtual machine to host them.
+
+06:12.580 --> 06:15.710
+Group 1 to host Group month must run.
+
+06:15.910 --> 06:17.150
+So we click OK.
+
+06:17.410 --> 06:20.170
+No you will see a new road.
+
+06:22.570 --> 06:29.780
+Or is it that it will take time to start migrating the virtual machine from different difference is
+
+06:29.930 --> 06:33.050
+I do I one of the group number one
+
+06:38.270 --> 06:42.230
+does it no it start migrating to Windows 7.
+
+06:42.440 --> 06:51.360
+If you click on Nate the task migrate between machine migrating them seven virtual machine Windows 7
+
+06:51.700 --> 06:53.520
+from 6 2.
+
+06:53.570 --> 06:57.190
+I want and the resource pool cluster in Morocco.
+
+07:02.490 --> 07:11.040
+So hard migrating Windows 7 from E-6 I taught land one in Morocco six I want land one in Morocco.
+
+07:17.670 --> 07:23.300
+So after finishing this migration it will start the second one.
+
+07:23.340 --> 07:25.140
+Windows XP.
+
+07:25.170 --> 07:28.280
+So let's give us a little time and see what would happen.
+
+07:30.640 --> 07:37.680
+So of course when you create your route you need to make a logical road try to avoid any conflict.
+
+07:37.680 --> 07:43.160
+Of course when you do a conflict you would see a missile or a tear but you have a conflict between Rule
+
+07:43.650 --> 07:46.970
+for example shows that this machine must run in it.
+
+07:47.030 --> 07:52.530
+I want then you create another rule and shows that this machine must run into it.
+
+07:52.580 --> 07:53.360
+I do.
+
+07:53.670 --> 07:55.120
+Then you have a conflict.
+
+07:55.140 --> 08:01.030
+This machine must run into it what I want and then must run it is x number two.
+
+08:01.050 --> 08:10.490
+So you have a conflict between two different route to always make a logic when you try to add some route.
+
+08:10.730 --> 08:11.810
+So all dysfunction.
+
+08:11.900 --> 08:16.910
+How do virtual machine keep voted on without any problem.
+
+08:16.920 --> 08:19.470
+So Windows 7 x Keep on its own.
+
+08:19.560 --> 08:27.210
+And of course after the end of this group we'll have three virtual machine Vanney and E6 I one that's
+
+08:27.210 --> 08:28.070
+me dearest.
+
+08:28.290 --> 08:35.130
+Will recalculate the balance of the cluster and we'll McGlade any virtual machine that there is not
+
+08:35.130 --> 08:35.680
+conflict.
+
+08:35.700 --> 08:44.730
+We do run to another ESX I in my situation we have for example two virtual machine already exists in
+
+08:44.730 --> 08:45.870
+the Isak's I want.
+
+08:45.880 --> 08:53.730
+So we have four and five other that exists in E6 I want you remember when we deleted that rule to put
+
+08:53.730 --> 08:54.990
+this to machine six.
+
+08:55.020 --> 09:01.740
+I want him to get it to Windows 7 where they start again as you see he starts migrating to Windows.
+
+09:01.800 --> 09:07.030
+Number five how to migrate Windows XP from if I want.
+
+09:07.110 --> 09:10.060
+One is to land one.
+
+09:10.200 --> 09:13.220
+Of course here you see that the preview task is finished.
+
+09:13.220 --> 09:15.840
+It's deeply émigrés.
+
+09:15.850 --> 09:22.040
+This machine does great virtual machines 17:6 I tell you is X I want it cluster Morocco.
+
+09:22.240 --> 09:25.360
+Then if we refresh this one you'll see that is x.
+
+09:25.360 --> 09:29.490
+I wanna know how the machine another machine is come in.
+
+09:29.520 --> 09:37.280
+So we have an overloading in is X Y and automatically there is try to balance the loading for the different
+
+09:37.280 --> 09:38.180
+hosts.
+
+09:38.260 --> 09:44.810
+And of course they will await to touch the Windows 7 and do Windows XP number five.
+
+09:44.960 --> 09:50.820
+So it can be when migrate one of those to a machine or maybe both of them will migrated to different
+
+09:50.830 --> 09:53.380
+tasks in the cluster.
+
+09:54.130 --> 10:02.480
+So this is the idea of the root of unity at the level of the host to the virtual machine.
+
+10:02.480 --> 10:10.270
+So the same if we get some other virtual machine to host you can chose must not et cetera.
+
+10:10.550 --> 10:13.660
+Then we have do virtual machine to virtual machine.
+
+10:13.760 --> 10:18.600
+Of course we need to add our mother group over to your machine.
+
+10:18.740 --> 10:20.510
+So lets do it.
+
+10:20.540 --> 10:22.740
+So for that we back to the host group.
+
+10:22.940 --> 10:32.400
+We try to add a moderate group of the virtual machine VM group then group number two like that we chose
+
+10:32.470 --> 10:40.020
+and then we when we chose before chose number 5 and 7.
+
+10:40.150 --> 10:45.530
+So for example we chose number four for example like that.
+
+10:45.550 --> 10:49.620
+OK of course we can add as much as virtual machine
+
+10:55.930 --> 11:02.220
+and we chose virtual machine to virtual machine and we chose group one to group do which a machine in
+
+11:02.220 --> 11:10.120
+the VM group work will be restarted the first virtual machine in the group then group 2 will be started
+
+11:10.150 --> 11:10.860
+after 1.
+
+11:10.990 --> 11:14.830
+When the cluster the poncey restart condition has been made.
+
+11:14.950 --> 11:20.260
+So this option when needed if you have some virtual machines that have connection with some other virtual
+
+11:20.260 --> 11:20.740
+machine.
+
+11:20.890 --> 11:26.170
+For example the group member when you add the virtual machine that's responsible for for example the
+
+11:26.170 --> 11:34.180
+active directory DNS the they are C.P. then you'll start the second group of virtual machines that connect
+
+11:34.180 --> 11:43.380
+to the active directory or to the DNS to get a name for the different or do the ACP et cetera.
+
+11:43.390 --> 11:48.050
+So you chose the one that should restart first thing to save and one that should restart.
+
+11:48.060 --> 11:48.640
+SIGURD.
+
+11:48.900 --> 11:50.050
+So the next video.

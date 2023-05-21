@@ -1,0 +1,382 @@
+WEBVTT
+
+00:00.390 --> 00:04.020
+So in Naples this one in our Windows 7.
+
+00:04.020 --> 00:08.280
+So if we click on this one like that it is sitting.
+
+00:08.670 --> 00:11.900
+This machine is powered on like you see right there.
+
+00:13.870 --> 00:20.870
+It's up in a little browser like that's.
+
+00:21.090 --> 00:31.790
+Then we try to do it it's sitting of this battery and machine.
+
+00:31.830 --> 00:39.960
+So no we already check the Enable sipping hot plugging and memory hot plugging.
+
+00:40.100 --> 00:41.730
+I LRAD enable them.
+
+00:41.730 --> 00:50.640
+So in this case I have the ability to change the number of Sibiu for this virtual machine but the situation
+
+00:50.640 --> 00:58.290
+right that we have is that this machine have spewed but only one core and other information that we
+
+00:58.290 --> 01:07.080
+can't change the core sockets because this is illogical to give our machine another caught parsel kids
+
+01:07.110 --> 01:10.840
+because they already have the sockets available.
+
+01:10.950 --> 01:14.080
+And it is used by the video machine.
+
+01:14.220 --> 01:19.980
+So here we have only one socket but we have the option to choose to spew.
+
+01:20.160 --> 01:23.720
+But we do not have the option to choose one.
+
+01:24.100 --> 01:25.940
+Another rule that we have right.
+
+01:26.280 --> 01:36.430
+That's when we want to change to see piu we only have one direction for adding more supply.
+
+01:36.450 --> 01:37.660
+We can't.
+
+01:37.810 --> 01:44.060
+Mine is Sibiu or resource for our virtual machine that is bolted on it is a virtual machine have once
+
+01:44.060 --> 01:45.890
+said we can't tell you to do.
+
+01:46.080 --> 01:51.390
+But we can't go to the opposite direction changes from 2 to 1.
+
+01:51.720 --> 01:58.000
+So we only have one detection to upgrade to spew and not minimize it.
+
+01:58.020 --> 02:04.460
+So is it a virtual machine but a virtual machine depend on a number of lessons that see beyond the house
+
+02:04.740 --> 02:08.650
+and the number of people supported by the guest operating system.
+
+02:08.690 --> 02:14.410
+And when we chose an operation system right here that's support only to spew.
+
+02:14.670 --> 02:23.580
+We now have the only option to chose to spew if another operating system can support at 16.
+
+02:23.880 --> 02:30.510
+We have the option right here about 16 speed so all of our mission right it is integration about this
+
+02:30.600 --> 02:31.670
+one right here.
+
+02:34.050 --> 02:35.870
+Then we have the capacity.
+
+02:35.900 --> 02:43.020
+Of course the option is not available in it's really part of the virtual machine then we have a reservation.
+
+02:43.160 --> 02:50.050
+If you remember into a resource pool we talk about do a reservation for click on this one we have.
+
+02:50.240 --> 02:51.400
+Current value is zero.
+
+02:51.410 --> 03:00.080
+Maximum is five Jugheads for this virtual machine so we can reserve any value we want for example two
+
+03:00.300 --> 03:01.830
+gigahertz lega.
+
+03:02.200 --> 03:06.330
+That's mean no we reserve two gigabytes for this virtual machine.
+
+03:06.470 --> 03:13.510
+And this you should take careful when you do it because when there's virtual machine power it off it's
+
+03:13.520 --> 03:18.110
+still reserved to ziggurats of the Sibiu for this virtual machine.
+
+03:18.320 --> 03:22.690
+And that will give you a limited resource for the other virtual machine.
+
+03:22.880 --> 03:26.090
+So all of recommend it to give it a zero.
+
+03:26.230 --> 03:34.520
+Intill do one or offer an application require you to reserve a specific number of spew and run for the
+
+03:34.610 --> 03:38.450
+operating system and for the obligation then you can change it.
+
+03:38.540 --> 03:46.130
+Then you have the limits as the same as the resource limits from zero or from intimate that's mean there's
+
+03:46.160 --> 03:49.970
+not have any limits for this imaging machine.
+
+03:49.970 --> 03:57.650
+But if you want to limit this one to a specific value you can add it right there by example for
+
+04:00.250 --> 04:00.990
+Gerhard's
+
+04:04.270 --> 04:13.270
+like that so it will be limited to four figureheads for this machine can't use in fall overloading then
+
+04:13.270 --> 04:17.080
+the share as the share that we did in the resource pool.
+
+04:17.200 --> 04:19.840
+We give it normal low heights.
+
+04:19.900 --> 04:29.800
+So the same prize is 4000 normal etc. so the should work as the same as we did in the pool.
+
+04:29.920 --> 04:32.530
+But up to a bit of a virtual machine.
+
+04:32.680 --> 04:40.630
+That means the host will separate resouce across this share configuration between two different virtual
+
+04:40.630 --> 04:41.660
+machine and do shit.
+
+04:41.680 --> 04:42.910
+That's good.
+
+04:42.910 --> 04:48.670
+So for example Charles hides and all the other machine have no sharing this virtual machine.
+
+04:48.670 --> 04:54.940
+We get to high performance of the resource of the host.
+
+04:55.000 --> 04:59.140
+Another option that we have right there to keep this as normal.
+
+05:00.620 --> 05:01.280
+This will be
+
+05:05.390 --> 05:05.980
+zero.
+
+05:06.010 --> 05:12.480
+And this would be to me like that's the NAACP idea.
+
+05:12.510 --> 05:22.330
+Musk this option is a little complex but it's something that's you connected to between machine to do.
+
+05:22.980 --> 05:29.120
+That actually that's I mean you connect this virtual machine to the idea of these C.P because we have
+
+05:29.120 --> 05:36.770
+some application or some license of application or operating system license that is connected we do
+
+05:37.130 --> 05:45.600
+id of the CPA or the ideal of the modern world but not Orac lessons have a connection we do see.
+
+05:45.920 --> 05:56.540
+I mean this Oracle application you can install it in our machine that have our ID and do what I could
+
+05:56.540 --> 06:03.440
+will work perfectly but if you try to install is inside another machine that have a different ID or
+
+06:03.440 --> 06:10.430
+do you this Oracle Application we're not going to work until you buy a license for that application.
+
+06:10.550 --> 06:17.420
+And if you remember when we create some rule about a is for example we want to make our virtual machine
+
+06:17.840 --> 06:24.140
+to always run in a specific cost because we have our license only connected what the speed of the host
+
+06:24.410 --> 06:25.530
+we are.
+
+06:25.760 --> 06:34.340
+There is a rule that please this virtual machine always should or must must always run in the host number
+
+06:34.340 --> 06:38.720
+one because we have our license connected with that horse.
+
+06:38.750 --> 06:41.200
+So this is the idea of ID.
+
+06:41.330 --> 06:45.470
+Of course this will be available only when your power on your machine.
+
+06:45.570 --> 06:47.630
+Then we have hardware virtualization.
+
+06:47.650 --> 06:51.120
+Those aren't all the new power of the vision machine.
+
+06:51.200 --> 06:59.650
+So the hardware virtualization thats me expose hardware virtualization to the guest.
+
+06:59.720 --> 07:09.270
+So if you remember when we enable the virtualization in our bios of each of those ESX I host that mean
+
+07:09.410 --> 07:19.430
+we make the step to be virtually the did by a software call it is x I host and do same we did when we
+
+07:19.640 --> 07:27.100
+created our virtual machine like this one when we create a virtual machine inside of workstation we
+
+07:27.140 --> 07:34.080
+already enable speed in the BIOS to be use it as a victory speech.
+
+07:34.250 --> 07:41.260
+So this is the same if we want for example to install a virtualization program inside this virtual machine
+
+07:41.780 --> 07:49.310
+we need to enable the hardware between Zeeshan that's mean a nested vitriol or a nested virtual machine
+
+07:49.340 --> 07:50.950
+inside your machine.
+
+07:51.060 --> 07:57.050
+But in a virtual machine inside and your machine the virtual machine inside this one and so on Ansal
+
+07:57.290 --> 08:01.610
+It's called nested virtual machine.
+
+08:01.610 --> 08:07.970
+This option when you're enabled this one you would be able to install any highborn user software inside
+
+08:08.050 --> 08:08.650
+this.
+
+08:08.700 --> 08:10.350
+Windows 7 for example.
+
+08:10.370 --> 08:18.240
+The Walkstation Hyper-V or the virtual box and create a virtual machine inside this virtual machine.
+
+08:18.270 --> 08:21.790
+This is the option that we have performance control also.
+
+08:21.940 --> 08:25.040
+It is illusion about victory or speed performance.
+
+08:25.100 --> 08:31.680
+Then we have to sit you in situation that's mean the relation is to.
+
+08:31.750 --> 08:37.460
+And and you for this virtual machine we have the option automatic.
+
+08:37.880 --> 08:43.480
+So you see that right has some detail about its needs.
+
+08:43.920 --> 08:52.110
+You will use the physical stick you and end you of the host are very good.
+
+08:52.500 --> 09:00.060
+So you see software Scipion and you use software for awestricken States and individualization all you
+
+09:00.060 --> 09:06.390
+will is the hardware that actually does mean you're connected to spew that lead to the machine as this
+
+09:06.390 --> 09:15.930
+one is until I m d for action suits the virtualization and swapper and situation or you make them all
+
+09:15.930 --> 09:16.150
+up.
+
+09:16.200 --> 09:21.660
+How do the words mean you're connected to a lot of the stupid end to the virtual machine.
+
+09:21.690 --> 09:22.360
+They actually.
+
+09:22.440 --> 09:33.150
+So we have options software or hardware and software and and hardware and the so of course we always
+
+09:33.150 --> 09:42.330
+leave this option Automattic into our obligation of lot of us to our question is do you and you as a
+
+09:42.330 --> 09:47.000
+software or hardware but always Nick the much really.
+
+09:47.190 --> 09:56.160
+So this is a quick idea about the speed and the same for the Memali it's work as the same as the hot
+
+09:56.340 --> 09:56.840
+plug.
+
+09:57.030 --> 10:02.540
+And we have the option to change the virtual machine configuration so you stay right here.
+
+10:02.910 --> 10:05.320
+Minimum is 500 megabytes.
+
+10:06.170 --> 10:13.760
+And the default for Windows 7 is totally goodbye's and does Windows 7 Professional 64 bits can support
+
+10:13.760 --> 10:19.180
+up to 1 2 8 gigabytes of frame for the best performance.
+
+10:19.190 --> 10:25.370
+You give it three gigabytes he give you that best performs for this but your machine is 3G gobshites
+
+10:25.430 --> 10:32.320
+the minimum is how do you know why the default is do and the maximum is 100 gigabyte.
+
+10:32.360 --> 10:38.780
+Also if we back to this option right here and change the Windows 7 to our windows server of course this
+
+10:38.780 --> 10:45.830
+value will be changed from maximum 1 2 8 to another number that's called supported by the operation
+
+10:45.950 --> 10:47.250
+system.
+
+10:47.300 --> 10:52.220
+So also we have a reservation if you remember the reservation for this virtual machine we control.
+
+10:52.220 --> 10:57.310
+For example gigabytes for this between machine will always reserve it to this one
+
+11:00.580 --> 11:07.310
+chicken right here that these reservation is not available for this machine because the maximum is 1
+
+11:08.090 --> 11:15.660
+gigabytes which is up for no then reserve Arcas memory on lock.
+
+11:15.690 --> 11:20.070
+This option will be available when your power of the virtual machine.
+
+11:20.080 --> 11:20.730
+So that's.
+
+11:20.920 --> 11:27.650
+If we give to this virtual machine three gigabytes will reserve reserved for this much machine.
+
+11:28.600 --> 11:34.060
+Then if we give it 4 bytes for example for this virtual machine it will reserve for advice.
+
+11:34.180 --> 11:42.640
+Then the limits are the same as the resource pool limit limits etc. then do share the normal the low
+
+11:42.760 --> 11:44.320
+and the heights.
+
+11:44.440 --> 11:47.710
+So it's the same as the CPI.
+
+11:47.720 --> 11:52.860
+So next we'll discover do hard drive this and about it.
+
+11:52.890 --> 11:53.710
+So soon the next big.

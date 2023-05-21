@@ -1,0 +1,145 @@
+WEBVTT
+
+00:00.360 --> 00:02.560
+Then we have and justification check Skidder.
+
+00:02.700 --> 00:08.400
+It's a configuration for mitigation of update.
+
+00:08.490 --> 00:17.360
+Mynydd send your mitigation in a specific time in about what's do you see a writer enable then we have
+
+00:17.910 --> 00:25.080
+the name of the notification every hour and six minutes after letter that's mean when he completes updates
+
+00:25.440 --> 00:32.490
+one hour later and six minutes we'll send you on that occasion did you come in to get on that indication
+
+00:32.760 --> 00:35.630
+in your email inbox.
+
+00:35.770 --> 00:37.210
+Then we have the VM sitting.
+
+00:37.230 --> 00:39.520
+It's about a virtual machine.
+
+00:39.520 --> 00:45.080
+This one is interation about the VM where you're when you make an updated VM well-drawn.
+
+00:45.220 --> 00:47.850
+What do you think that you'll do.
+
+00:47.860 --> 00:52.310
+It's take a snapshot of the Diom before remediate to enable rollback.
+
+00:52.450 --> 00:55.650
+That's mean when you want to make an update to the true.
+
+00:55.960 --> 01:02.950
+It is necessary to take a snapshot to avoid any problem happen drove the VM up to updates because VM
+
+01:02.950 --> 01:06.320
+Where is our software when you make an update to that software.
+
+01:06.400 --> 01:15.300
+It can crash your operating system or disable the network or anything can happen in your virtual machine.
+
+01:15.340 --> 01:19.900
+So it is necessary to take a snapshot for this virtual machine.
+
+01:19.900 --> 01:27.640
+If the updates go successfully then you can back and delete those natural or we can config delete the
+
+01:27.680 --> 01:29.530
+snapshot after a moment to click.
+
+01:29.580 --> 01:37.310
+It did it's true you take a snapshot of the virtual machine before you mediate to enable Rohrbach DeMoss
+
+01:37.370 --> 01:37.800
+delayed.
+
+01:37.810 --> 01:45.280
+It does not mean after taking a snapshot he will keep this snapshot forever but then you can't change
+
+01:45.280 --> 01:52.400
+it to keep it for one note or for example a 6 hour or maybe after 24 hour that's when you are sure that
+
+01:52.450 --> 01:54.930
+the updates work successively etc..
+
+01:55.130 --> 01:58.570
+So it is always want it to the latest nuptials.
+
+01:58.570 --> 02:07.270
+After a moment of weight costumey size every time you make an update didn't we have the house and cluster
+
+02:07.290 --> 02:10.920
+stitching the different stitching for the cluster.
+
+02:10.920 --> 02:17.730
+This is the default setting but of course you can change the city from the E6 I has an example where
+
+02:17.810 --> 02:25.200
+we are low on installation of additional software disable to hide operability other mission control
+
+02:25.200 --> 02:25.830
+by default.
+
+02:25.830 --> 02:33.320
+It's not because it will keep the hides of ability when an updates happen to the host when updates happen.
+
+02:33.460 --> 02:38.670
+With a load has to retry in maintenance mode in case of Filer that's me.
+
+02:38.700 --> 02:45.380
+If something wrong happen to update put the horse into mountainous mode it changes true yes that's mean.
+
+02:45.420 --> 02:49.780
+David your machine in the hall should be evacuated to another host.
+
+02:49.800 --> 02:52.430
+This is the root of the site that will reboot.
+
+02:52.500 --> 02:54.510
+Does your machine in another host.
+
+02:54.600 --> 03:01.390
+But sometimes you need to change this option to yes to disable to hide ability.
+
+03:01.410 --> 03:03.240
+For example you have a smart environment.
+
+03:03.240 --> 03:05.970
+In addition we have only three halls.
+
+03:06.090 --> 03:13.970
+If something happened to one of those House and the entry in the maintenance mode the other host country
+
+03:13.980 --> 03:18.030
+report the virtual machine of the host so we'd have a problem in the situation.
+
+03:18.060 --> 03:21.830
+So we need to disable to hide our ability in this situation.
+
+03:21.930 --> 03:28.820
+Then we have to be updating it's in question about the app that we talk about it's smart to reboot after
+
+03:28.830 --> 03:29.670
+remediate.
+
+03:29.700 --> 03:33.750
+That's mean when it completes the installation of the update.
+
+03:33.810 --> 03:38.910
+You need to start a reboot for the virtual machine in the app.
+
+03:39.330 --> 03:40.520
+This is the default option.
+
+03:40.550 --> 03:48.040
+And next we're going to try to make some editing and updates for a different level.
+
+03:48.500 --> 03:48.860
+To be.

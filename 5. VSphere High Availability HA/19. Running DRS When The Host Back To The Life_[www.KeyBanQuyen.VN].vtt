@@ -1,0 +1,283 @@
+WEBVTT
+
+00:01.050 --> 00:10.030
+Blogging so to fix the problem off the spew difference between 3 and 6 I want to.
+
+00:10.350 --> 00:15.810
+And for that I bought it of Alda's between machines that exist in Essex.
+
+00:15.870 --> 00:20.460
+I read because it is impossible to migrate about its own virtual machine.
+
+00:20.620 --> 00:26.570
+E6 I treat the tab on your SECU to another host that have a different view.
+
+00:26.610 --> 00:28.830
+So I parted of those with your machine.
+
+00:28.830 --> 00:31.200
+I agreed to game to do what I want.
+
+00:31.350 --> 00:34.040
+Then I had our room to wait.
+
+00:34.140 --> 00:38.680
+Thats when those between machine imparted on the delays will begin is deemed too easy.
+
+00:38.700 --> 00:44.970
+I numbered T because I know what it is do for a full server in my cluster.
+
+00:45.030 --> 00:46.120
+So what's the idea.
+
+00:46.230 --> 00:48.450
+Hi creates are the.
+
+00:48.540 --> 00:57.450
+This one and the VM group all the virtual machine that I want them to be migrated to is I number three.
+
+00:57.550 --> 01:05.550
+And then I add a host group of Isak's I try and give it must not run on the host in this group.
+
+01:06.160 --> 01:12.880
+If we take this group pretend the group is E6 I number three and the VM group is those virtual machine
+
+01:13.360 --> 01:15.970
+must not run in do x.
+
+01:15.980 --> 01:17.720
+I number three to wait.
+
+01:17.740 --> 01:25.690
+Every time I have a migration from it I want to E6 I drew so into a situation that's me.
+
+01:25.870 --> 01:31.370
+Does virtual machine will be separated between two hosts that have the same speed.
+
+01:31.630 --> 01:40.630
+But in the situation when I number one Boxford all live to see that the DNS will back and try to balance
+
+01:40.750 --> 01:43.150
+the resource between a different host.
+
+01:43.270 --> 01:50.210
+Because in the preview example we dont see how a division machine will back to the host thats back to
+
+01:50.210 --> 01:50.940
+the life.
+
+01:50.960 --> 01:53.550
+No were going to see a real example.
+
+01:53.620 --> 02:02.730
+So it is austerities have zero virtual machine that is I want have five virtual machine that is bolted
+
+02:02.740 --> 02:05.070
+on and protected by to hide our ability.
+
+02:05.170 --> 02:10.740
+Of course when this one is out of service does virtual machine will be migrated to do 6.
+
+02:10.740 --> 02:12.130
+I number three.
+
+02:12.250 --> 02:15.450
+And we're going to see a real example later.
+
+02:15.460 --> 02:22.450
+So no I just bought it and because I am betrothed and we'll see what will be happen later.
+
+02:22.450 --> 02:29.420
+So if we check that the virtual machine Windows XP gets into power on process and it's working.
+
+02:29.650 --> 02:32.740
+If we take this machine exists in it.
+
+02:32.800 --> 02:36.300
+I won when I took it back to life.
+
+02:36.640 --> 02:40.900
+We'll see that some of the virtual machine will be migrated to do.
+
+02:40.940 --> 02:42.650
+E6 I number two.
+
+02:43.000 --> 02:49.290
+So let's give these refresh to see if he detects the new one is expanded.
+
+02:50.250 --> 02:54.760
+It will take a little time to detect Isak's ITL back to life.
+
+02:56.280 --> 03:01.700
+Just give us a Refresh Refresh to check the study.
+
+03:02.210 --> 03:03.010
+So how does it.
+
+03:03.020 --> 03:04.010
+It's part of the life.
+
+03:04.010 --> 03:04.580
+No.
+
+03:04.820 --> 03:10.050
+And a little time you will see on the motion will happen.
+
+03:10.130 --> 03:18.130
+So is it no the dress will take action and try to make a balance of the resource between the defendant
+
+03:18.160 --> 03:24.430
+E6 I host and of course by respecting the rule of not migrating any of those virtual machines from the
+
+03:24.440 --> 03:31.880
+Isak's I want to E-6 I try to really try to separate this virtual machine B-26 I want and is excite
+
+03:32.030 --> 03:34.390
+to every trick.
+
+03:34.460 --> 03:35.750
+It's still empty.
+
+03:35.750 --> 03:40.800
+It does not have any machine yet the virtual machine still working into it.
+
+03:40.820 --> 03:41.800
+I want.
+
+03:41.960 --> 03:48.350
+The rest will make its Onka creation and will start migrating some other virtual machine through the
+
+03:48.650 --> 03:49.070
+e6.
+
+03:49.070 --> 03:50.420
+I Hulst number two.
+
+03:53.090 --> 03:55.980
+Try to make the test run
+
+04:01.370 --> 04:10.410
+monitoring the press and make it a dress to make it Uncle pronation as fast as possible.
+
+04:19.680 --> 04:24.290
+So here is the new negotiation for the Windows 7.
+
+04:24.300 --> 04:29.580
+Number three if you click on it you will see a hot migration Windows 7 from it.
+
+04:29.580 --> 04:31.970
+I want LAN to do it.
+
+04:32.010 --> 04:34.550
+I do land in Morocco.
+
+04:34.680 --> 04:39.750
+So if we wanted to excite you we'd see our new machine migrated.
+
+04:39.960 --> 04:47.340
+So it will make another calculation and we'll try to migrate another virtual machine get a height balancing.
+
+04:47.440 --> 04:50.180
+The difference is I host.
+
+04:50.220 --> 04:53.020
+Of course this task need more time.
+
+04:53.020 --> 05:00.240
+It's not happen as quickly because the center server need to take time to make its our calculation and
+
+05:00.450 --> 05:03.270
+decided the best choice to do is.
+
+05:03.420 --> 05:10.170
+And in the right environment when we have a huge E6 I horsed and vision machine that's take a lot of
+
+05:10.170 --> 05:13.640
+time to work perfectly.
+
+05:13.690 --> 05:15.200
+So this is the idea.
+
+05:15.280 --> 05:19.840
+After a moment he will balance activity and machine between those walls.
+
+05:19.960 --> 05:24.950
+I have another situation that I can't do it in dislodges.
+
+05:25.090 --> 05:27.290
+You can't do it by yourself.
+
+05:27.580 --> 05:32.800
+For example here we reconfigured to hides operability in this cluster.
+
+05:32.890 --> 05:37.970
+He automatically chose the E-6 einen Vertrag has our muster.
+
+05:38.170 --> 05:45.700
+In my situation I can't give a failure to explain them but we do see another example of how he will
+
+05:46.180 --> 05:49.660
+chose another master because I used to this understood.
+
+05:49.690 --> 05:51.680
+But inside E6 I am pretty.
+
+05:51.720 --> 05:59.200
+If this is exciting and it is out of service he will try to migrate to Vicent or server from is explained
+
+05:59.230 --> 06:02.790
+every two years because I one or two in this situation.
+
+06:02.920 --> 06:06.050
+I will be out of the central server.
+
+06:06.130 --> 06:08.740
+I can't recall descrying to see what will happen.
+
+06:08.740 --> 06:15.570
+Also this machine can't beat superlatives by eating what I want and is exciting too because this top
+
+06:15.720 --> 06:22.930
+story would have only a up at around and only E6 I number three who have 12 gigabytes of around.
+
+06:22.930 --> 06:23.660
+That's called.
+
+06:23.720 --> 06:25.080
+Do we center.
+
+06:25.210 --> 06:29.130
+So I will lose control of the central server.
+
+06:29.200 --> 06:37.090
+In my situation in your situation if the Visby ability trolls are Isak's eyeholes for example talk or
+
+06:37.090 --> 06:45.050
+one that does not have the central server try to power off that server and after a moment's check right
+
+06:45.340 --> 06:48.140
+and you will find that he chose another server.
+
+06:48.250 --> 06:53.700
+For example is X I number 2 or 6 I number 1 to be do Mustin.
+
+06:53.890 --> 06:57.270
+So this is the idea of the vespere of ability.
+
+06:57.340 --> 07:02.290
+And next we'll going to discover a moderate future of the V12 you spit.
+
+07:02.410 --> 07:09.520
+If you have any question about his ability please post it in the discussion and I will be happy to help
+
+07:09.520 --> 07:09.960
+you.
+
+07:10.030 --> 07:17.200
+Also if you have any information that you want to share with us please do it because I want to learn
+
+07:17.200 --> 07:20.080
+from you as you learn from me.
+
+07:20.370 --> 07:21.920
+See you in the next section.

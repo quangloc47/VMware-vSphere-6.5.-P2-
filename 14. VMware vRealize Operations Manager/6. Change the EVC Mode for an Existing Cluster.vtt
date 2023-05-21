@@ -1,0 +1,247 @@
+WEBVTT
+
+00:01.320 --> 00:05.610
+So let's talk a little about the AVC more.
+
+00:05.910 --> 00:12.380
+So if you remember I told you that when we want to the emotion to hide operability between the different
+
+00:12.710 --> 00:20.040
+host we need to have the ABC enable it if we have some different version of the speech.
+
+00:20.360 --> 00:23.670
+So that's part of this that is like that
+
+00:27.360 --> 00:28.020
+more of.
+
+00:28.190 --> 00:29.170
+Yes.
+
+00:29.290 --> 00:36.170
+We got to do cluster OVC enable and disable from the cluster.
+
+00:36.410 --> 00:45.490
+So we got on feek got them where OVC and we click it it's so hard.
+
+00:45.530 --> 00:53.340
+It shows you that it is disable you trolls enable a VC for on the host then it show you all this different
+
+00:53.390 --> 00:57.350
+I'm the supported for this Juanda generation 1 2 and 3.
+
+00:57.480 --> 01:02.450
+One more of our missions the knowledge base number et cetera.
+
+01:02.810 --> 01:08.820
+So it shows you that the compatibility is not compatible with this one because the heart does not always.
+
+01:08.860 --> 01:10.380
+I am the CPA.
+
+01:10.580 --> 01:19.040
+So if we chose enable a VC for Intel host it show you that is I 1 and 2 is supported for.
+
+01:19.100 --> 01:20.460
+VC what and then.
+
+01:20.640 --> 01:25.510
+But I three of you know that because we have a part on virtual machine.
+
+01:25.640 --> 01:31.850
+So the host cannot be made to the cluster Quran's enhanced via motion compatibility so that we see meaning
+
+01:31.900 --> 01:40.400
+in Hence in compatibility mode power on or respond the virtual machine on the host might be using C.P.R.
+
+01:40.400 --> 01:46.940
+future he didn't buy that mode but when it took power of his mature machine to be able to use that of
+
+01:46.940 --> 01:48.960
+the seat we discussed.
+
+01:49.310 --> 01:55.430
+So when I power of these virtual machines of course in my situation I can't do it because this one has
+
+01:55.450 --> 02:02.900
+one Saturday the central server so you need to enable this one for your host then you need is the center
+
+02:02.910 --> 02:06.600
+set outside of the E6 I host of educed Gloucester
+
+02:09.840 --> 02:19.280
+and it should a difference until a supporter of the Vita VC and when you chose to enable a VC for Intel
+
+02:19.280 --> 02:24.810
+host and click on it it will enable the ABC model between the different ethics I host.
+
+02:24.860 --> 02:30.100
+But I mean it is the comment part of the difference Tippee.
+
+02:30.350 --> 02:34.940
+For example if I one have OCP with speed top want 3G go ahead.
+
+02:35.090 --> 02:36.860
+This one is ours.
+
+02:36.910 --> 02:39.320
+With speed trip want to go ahead.
+
+02:39.450 --> 02:44.400
+So we try to use the common point between the different I host.
+
+02:44.570 --> 02:51.650
+So in that case when we try to migrate a virtual machine powered on from this host for example here
+
+02:51.780 --> 02:55.880
+is freek'n number and speed number of the Sibiu.
+
+02:56.170 --> 03:04.280
+It will automatically fan the same frequent number and same speed of value in this house and the same
+
+03:04.280 --> 03:05.400
+for this one.
+
+03:05.390 --> 03:12.530
+So the virtual machine will be powered on and use the same the current speed or the common value of
+
+03:12.530 --> 03:15.080
+the Sibiu between the different Isak's I host.
+
+03:15.110 --> 03:20.410
+In that case it will work perfectly if you remember when we try to integrate a virtual machine in front
+
+03:20.420 --> 03:23.230
+of it excited to excite it work.
+
+03:23.270 --> 03:29.510
+But when we want to migrate to virtual machine from E6 I treat it as I do it give us a narrative because
+
+03:29.540 --> 03:39.250
+there are no compatibility between two of the three things I took in that it broke why you do enabled
+
+03:39.400 --> 03:40.820
+the VC mode.
+
+03:41.090 --> 03:44.040
+But of course you should have the same brand.
+
+03:44.180 --> 03:48.820
+If you see right here we have HD and Intel s.p.
+
+03:48.920 --> 03:57.440
+So all the CPA we have Ahmed Chalabi tend to be Avatar is of VC mode and if you use Dwight D Ru you
+
+03:57.700 --> 03:59.160
+host should use.
+
+03:59.210 --> 04:00.620
+I am the CPA.
+
+04:00.830 --> 04:06.100
+So you see right there of course we neutralize any of the obviously it's work here.
+
+04:06.330 --> 04:12.800
+You see if I am the between the generation 1 and 2 and 3 thats mean you should have the generation 1
+
+04:12.950 --> 04:19.370
+2 and 3 to be used obviously more between them if you have for example a generation for it were not
+
+04:19.370 --> 04:23.070
+going to work between Generation 4 and Generation 3.
+
+04:23.090 --> 04:31.590
+So for that you need to chose generation three to work between Generation 2 and 3 with some other information.
+
+04:31.820 --> 04:40.140
+Then for the generation 4 it will support a new generation for the daily driver and deuse steamroller.
+
+04:40.730 --> 04:47.630
+So you can check the designs one by one to know which one that you can use in your environments do the
+
+04:47.630 --> 04:58.910
+same for Mehram and Del byname no Harlene with Mayor Sandy Bridge and even bridge and so on and of course
+
+04:58.910 --> 05:03.360
+in our house does not support the bridge only.
+
+05:03.610 --> 05:09.950
+I treat that stewpot see how superior to what is not supported the cluster called in has a could possibly
+
+05:09.950 --> 05:13.190
+than one the host luck future rock y right.
+
+05:13.220 --> 05:22.490
+Thats more because I want and Isak's I to exist in an old laptop that have our ear 5st Sibiu from the
+
+05:22.560 --> 05:24.580
+other generation do it.
+
+05:24.640 --> 05:31.910
+I number three exist in this laptop that I use right now that have an ear five if you generation so
+
+05:32.000 --> 05:34.080
+it is supported by everybody.
+
+05:34.490 --> 05:41.360
+So thats me in my situation I can't nobbled you see between this laptop the city of this laptop and
+
+05:42.110 --> 05:47.540
+the other laptop because there are a different version.
+
+05:47.670 --> 05:53.520
+It's only supposed to do the same one like this wants to do all the swanned is not supported can't be
+
+05:53.520 --> 06:00.210
+other middle class we and forward on the end how the Warshel support the cluster current in has risen.
+
+06:00.330 --> 06:06.930
+But some of the C-p in the superficial are missing from the host chicken the host News Corp to ensure
+
+06:06.930 --> 06:10.810
+that you have the option sashed DVT.
+
+06:11.080 --> 06:13.290
+Yes it's at.
+
+06:13.340 --> 06:19.890
+So this is true of AVC in need to enable AIDS if you have some small difference between the different
+
+06:20.630 --> 06:21.420
+hosts.
+
+06:21.800 --> 06:27.010
+We have a policy fusion engine one and an in any two in a mode of speed.
+
+06:27.080 --> 06:32.000
+You need to enable this one of course you need to power off all your E6.
+
+06:32.000 --> 06:39.370
+Are you a virtual machine to be able to do with not every virtual machine but some of them some of that
+
+06:39.380 --> 06:43.080
+you will get is unique to part of the virtual machine.
+
+06:43.160 --> 06:49.220
+I mean you need to reboot the virtual machine to get to do new stitching of the c.p.
+
+06:49.730 --> 06:55.450
+So this is the idea of VC of course in my example we can't use it because we have the virtual machines
+
+06:55.460 --> 06:57.550
+that have the center server about it.
+
+06:57.630 --> 07:03.260
+It excites me and it is impossible to do it in this lup.
+
+07:03.290 --> 07:05.650
+So this is the idea of a PC.
+
+07:05.900 --> 07:13.940
+And next we'll try to conclude discours Mike over in the last information that you need to complete
+
+07:13.940 --> 07:16.800
+your experience knowledge.
+
+07:17.400 --> 07:18.980
+So the next section.

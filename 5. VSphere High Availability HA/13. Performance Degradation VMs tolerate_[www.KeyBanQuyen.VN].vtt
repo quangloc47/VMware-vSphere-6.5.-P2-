@@ -1,0 +1,133 @@
+WEBVTT
+
+00:02.330 --> 00:10.520
+Blogging so the performance degradation virtual machine tolerance we have 100 percent.
+
+00:10.640 --> 00:15.900
+So if we go back to this one right here and when we have a filer in this host.
+
+00:15.920 --> 00:22.610
+So the only thing we'll make great our division machine to be run an induced house in the situation
+
+00:22.610 --> 00:25.440
+when does a virtual machine make it easy to just host.
+
+00:25.610 --> 00:32.690
+We have our over loading in this host and this was in the preview all the virtual machine was consumed
+
+00:32.750 --> 00:35.290
+about 16 percent of the resource.
+
+00:35.300 --> 00:39.770
+When does one have a file and the virtual machine rebooted into the host.
+
+00:39.770 --> 00:40.070
+No.
+
+00:40.070 --> 00:45.720
+We consume about 19 or 95 percent of the resource in this house.
+
+00:45.770 --> 00:49.350
+So we have an upper body in our environment.
+
+00:49.430 --> 00:55.190
+In addition the virtual machine will be affected by overloading in the host.
+
+00:55.260 --> 01:01.940
+That's mean we individually machine work perfectly 16 percent of the Reserves the new virtual machine
+
+01:01.940 --> 01:05.400
+will cost to produce 16 percent of the resource.
+
+01:05.540 --> 01:12.480
+So the vitriol machine in this situation we are affected by have low resource.
+
+01:12.570 --> 01:18.220
+For example CPI will start freezing from time to time drame will be overloaded.
+
+01:18.240 --> 01:22.440
+The speed of the virtual machine in the room would be to slow it down.
+
+01:22.650 --> 01:26.890
+So we have the option to chose how much the machine comes through.
+
+01:26.930 --> 01:29.680
+Part of performance degradation.
+
+01:29.870 --> 01:31.410
+So we have 100 percent.
+
+01:31.500 --> 01:32.160
+That's me.
+
+01:32.310 --> 01:39.240
+The virtual machine can support us do 100 hours of overloading in the host.
+
+01:39.300 --> 01:40.050
+That's me.
+
+01:40.080 --> 01:43.490
+Even the virtual machine can be freeze it but don't care.
+
+01:43.500 --> 01:45.470
+We ask how do they.
+
+01:45.570 --> 01:46.190
+And do.
+
+01:46.200 --> 01:52.560
+I really do not care about do performance degradation in inefficient machine even division machine will
+
+01:52.590 --> 01:57.040
+be out of service for a specific time by freezing order resource.
+
+01:57.060 --> 02:02.340
+It's not a problem you see right here 100 percent is what I mean is desirable it lets me.
+
+02:02.340 --> 02:04.920
+Don't send me in education.
+
+02:04.990 --> 02:06.600
+The role of the top.
+
+02:06.660 --> 02:08.610
+Overloading or freezing.
+
+02:08.880 --> 02:15.420
+When we chose for example 15 percent that's mean when the virtual machine start getting performance
+
+02:15.420 --> 02:16.110
+degradation.
+
+02:16.200 --> 02:17.540
+About 15 percent.
+
+02:17.670 --> 02:23.470
+You should get a notification and did when we chose 0 percent raise a warning.
+
+02:23.490 --> 02:30.550
+If there is a reason file over capacity to guarantee safe performance after VM restart.
+
+02:30.780 --> 02:39.150
+Neat when we chose 0 percent when our fight over happened to this host and then the ability to restart
+
+02:39.150 --> 02:46.770
+the virtual machine into two and three if we have our performance to go in on any video machine.
+
+02:46.770 --> 02:54.310
+He will get you a message that you should shut down some virtual machine to of we do performance degradation.
+
+02:54.480 --> 03:00.510
+But when we chose 100 percent we disable this one and when we chose 15 percent that's mean it will detect
+
+03:00.630 --> 03:06.200
+about 15 percent and start getting your alert and 0 percent he will get you another.
+
+03:06.270 --> 03:12.560
+If any something wrong happened to do performance even a smart performance degradation.
+
+03:12.570 --> 03:13.400
+So next we'll see.
+
+03:13.400 --> 03:16.890
+The other option about how to beat the postal system and the next.

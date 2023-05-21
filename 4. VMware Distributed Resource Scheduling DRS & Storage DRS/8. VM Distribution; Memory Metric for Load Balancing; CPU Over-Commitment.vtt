@@ -1,0 +1,166 @@
+WEBVTT
+
+00:01.320 --> 00:09.540
+Blogging so after seeing the is or commission and different option we have then we have some additional
+
+00:09.660 --> 00:14.890
+option for a dentist confutation let's just cover them one by one.
+
+00:15.030 --> 00:21.730
+So the distribution distribution of the vitriol machine across the different costs.
+
+00:22.020 --> 00:29.160
+So if we take this option for availability distributes a more even number of vitriol Mushin across Haast
+
+00:29.880 --> 00:32.660
+this option meaning does the data.
+
+00:32.700 --> 00:39.580
+We'll distribute it to your machine to be almost equally between two different hosts.
+
+00:39.600 --> 00:45.360
+So for example if you have five hosts and one hundred machines.
+
+00:45.540 --> 00:52.390
+So the defense will try to distribute about 20 virtual machine for each of the hosts if you need to
+
+00:52.390 --> 01:01.470
+migrate to vitrine from a host want to host to he will automatically try to get our Another video machine
+
+01:01.500 --> 01:08.640
+from CG to host that tab list resouce loading and migrate back to the host number one.
+
+01:08.790 --> 01:15.270
+So the total will be 20 virtual machine and the host number one and 20 virtual machine in the house
+
+01:15.360 --> 01:17.910
+number two and so on and so on.
+
+01:17.910 --> 01:24.870
+Of course it should not be equal for 100 percent but it's about nineteen ninety five percent of the
+
+01:24.870 --> 01:27.680
+vitrine machine should be equal into different toss.
+
+01:27.680 --> 01:32.360
+For example 10 11 or 20 21 etc..
+
+01:32.700 --> 01:39.180
+So this is the option that you need for any reason you can enable this one to have the same number of
+
+01:39.180 --> 01:41.940
+the virtual machine across different tasks.
+
+01:42.000 --> 01:49.370
+Of course in our example we are not going to use it then we have the memory metric for load balancing.
+
+01:49.470 --> 01:56.690
+This is the second option for us to calculate the load buttons on the different toasts.
+
+01:57.960 --> 02:01.690
+Information about do memory consumption.
+
+02:02.150 --> 02:09.270
+So load balanced budget or Qasimi memory of virtual machine rather than active memory.
+
+02:09.380 --> 02:13.640
+If you remember when we create a host that how far she.
+
+02:13.880 --> 02:19.350
+And then we create a machine we can give this machine about six gigabytes of RAM.
+
+02:19.640 --> 02:26.780
+But in the right environment this machine does not cost you all six gigabytes of time.
+
+02:27.240 --> 02:32.200
+Also for example we have two machine with 4G gobshites and the second one.
+
+02:32.210 --> 02:39.290
+We 4G bite into same host and that host only have the 4G gobshites both the two virtual machine will
+
+02:39.290 --> 02:48.200
+go into work because they do not consume the fall for DECONCINI only about one you go by the cigarette
+
+02:48.200 --> 02:50.420
+machine and also consume one gigabyte.
+
+02:50.420 --> 02:57.680
+So we have the consumer with only two gigabytes of the house and we have two gigabytes free if we chose.
+
+02:57.700 --> 03:06.070
+Load balanced budget on our cost me more of that your machine lets me load the bongs due the RAM give
+
+03:06.070 --> 03:10.040
+it is vitriol machine and you see are a lot more solid.
+
+03:10.160 --> 03:13.470
+This is only recommended for cluster with a host.
+
+03:13.480 --> 03:17.920
+Memory is not over committed that's me.
+
+03:18.310 --> 03:26.020
+If all that thought of the virtual machine in the same house that you configured the city of Washington
+
+03:26.050 --> 03:30.190
+and give it a specific run how to top that off.
+
+03:30.340 --> 03:38.960
+On Sumeet Memali in does but you should not committed the frame of the host.
+
+03:39.280 --> 03:46.230
+In for example here if we give a virtual machine 16 gigabytes and the host have only eight gigabytes.
+
+03:46.300 --> 03:50.920
+This option we are not going to work for you because it is illogical.
+
+03:51.430 --> 03:58.360
+When he see that a virtual machine can stream 16 gigabytes and the hosts only have 8.
+
+03:58.410 --> 04:07.060
+Why is it remote going to migrate this virtual machine for a host that does not have at least 16 gigabytes
+
+04:07.120 --> 04:10.210
+and this will give you a neuron in your environment.
+
+04:10.210 --> 04:16.920
+So this is we'll going to use it if you have more rain in your house and you don't have a problem off
+
+04:16.930 --> 04:17.960
+the memory.
+
+04:18.160 --> 04:24.850
+Then you can enable this one so just to get an idea about the memory metric for load balancing and then
+
+04:24.850 --> 04:27.520
+we have do you overcommitted.
+
+04:27.520 --> 04:33.110
+Of course we need to disable this one city overcommitted is the same as memory.
+
+04:33.190 --> 04:36.550
+We control Seip you overcommitment in the cluster.
+
+04:36.730 --> 04:46.870
+So if you give two machine you stink and the total of those C.P of those machine is more than the speed
+
+04:46.930 --> 04:48.200
+of the host.
+
+04:48.340 --> 04:54.550
+Then the press will take action and migrate one of those virtual machine to another host that have free
+
+04:54.760 --> 05:02.440
+speech that can support this virtual machine so you can check it overcommitted and your tools do a percentage
+
+05:02.470 --> 05:04.950
+of the sleepy over commitment.
+
+05:05.170 --> 05:07.830
+So this is the idea about some other option.
+
+05:08.050 --> 05:14.520
+Then we have the power management option and it's all up to this one.
+
+05:14.540 --> 05:16.740
+Then we check power management.

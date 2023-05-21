@@ -1,0 +1,265 @@
+WEBVTT
+
+00:00.540 --> 00:09.340
+And when we go to config No we have the option of the sphere there as before we can't find any option
+
+00:09.370 --> 00:11.980
+college whispered there is no it is available.
+
+00:12.060 --> 00:15.990
+The different surveys that we can use Drog to cluster.
+
+00:16.290 --> 00:22.620
+So we click on to visit Darrow's we got to it is of course we have option to get of dress but no we
+
+00:22.620 --> 00:23.780
+click on we did.
+
+00:24.210 --> 00:28.760
+And we need to enable the terrorists in this cluster.
+
+00:29.110 --> 00:33.740
+So simply click Duren on this for us on this cluster.
+
+00:33.990 --> 00:40.570
+So if we click OK I enabled the DNS and he will walk by using the default configuration.
+
+00:40.590 --> 00:45.000
+So let's discover do a different configuration we have into the press.
+
+00:45.120 --> 00:53.710
+So the first one is there is automation and you see of course head it is folly be manually or automated.
+
+00:53.800 --> 00:57.430
+We click on it to get more detail.
+
+00:57.450 --> 01:04.050
+So the option the first one manually that's mean something is to just migration.
+
+01:04.050 --> 01:10.440
+If you remember when we talk about the dress we use the expression migration we make great the virtual
+
+01:10.440 --> 01:13.750
+machine from house to house or from storage to store.
+
+01:13.860 --> 01:21.010
+So when we chose manually Vicenzo said Wiens to just migration a recommendation for virtual machine.
+
+01:21.240 --> 01:21.970
+That's me.
+
+01:22.020 --> 01:30.420
+When he discover that a virtual machine will be migrated from Hulst 8 host B it will give you our suggestion
+
+01:30.540 --> 01:37.330
+and then you need to take action and do it manually degrade this virtual machine from a to b.
+
+01:37.680 --> 01:45.220
+Then we have the option Parsa automatically Vitry a machine will be automatically plus it onto a host
+
+01:45.330 --> 01:46.360
+at power on.
+
+01:46.390 --> 01:50.830
+And the center's role was to just migration accommodation for virtual machine.
+
+01:50.890 --> 01:58.360
+That means it will do the function partially and will give you notice that this machine will be run
+
+01:58.360 --> 01:59.150
+in this one.
+
+01:59.260 --> 02:02.820
+If you accept it it will be passed it automatically.
+
+02:02.950 --> 02:08.460
+If not it will stay at the same place they have for the automatic.
+
+02:08.470 --> 02:15.340
+That's mean the DNS work alone without need any interaction from you the virtual machine will be automatically
+
+02:15.340 --> 02:21.130
+plus it onto a host when powered on and will be automatically migrated from one house to another to
+
+02:21.130 --> 02:23.250
+optimize it resource usage.
+
+02:23.290 --> 02:26.830
+It will do Calcott automatically and chose do right.
+
+02:26.830 --> 02:29.910
+Migration needed for a different virtual machine.
+
+02:30.220 --> 02:39.940
+And of course we always always choose the automated but in any reason you can manually or Marcial automatic
+
+02:40.330 --> 02:47.290
+because you have a small amount of virtual machine you can use manually to keep track of what's happened
+
+02:47.290 --> 02:48.490
+in your environment.
+
+02:48.760 --> 02:55.990
+For the smart environment but for those big environment it is always recommended to use fully automated
+
+02:56.110 --> 02:59.990
+to have safe environment.
+
+03:00.130 --> 03:06.100
+Then we have the negotiation trees hauled we have conservative and accuracy.
+
+03:06.190 --> 03:15.950
+If we move this one you have different lawin to migrate the virtual machine in your cluster.
+
+03:16.100 --> 03:25.250
+So the conservative I mean we're not going to migrate a virtual machine just by seeing some over loading
+
+03:25.270 --> 03:29.760
+hey we need to slow down do migration process.
+
+03:29.840 --> 03:35.600
+You see right there on the server will only apply a recommendation that must be taken to satisfy the
+
+03:35.600 --> 03:37.290
+cluster constraint.
+
+03:37.550 --> 03:40.620
+Like afine to rude and host maintenance.
+
+03:40.790 --> 03:42.140
+That's me.
+
+03:42.220 --> 03:43.890
+Will use them.
+
+03:43.940 --> 03:50.520
+The motion to migrate virtual machine only if there are some of each route can be if you are a route
+
+03:50.520 --> 03:55.170
+that this machine will never run at the same host with this other machine.
+
+03:55.200 --> 03:57.040
+So what we can do will be Gracedieu.
+
+03:57.170 --> 03:59.650
+One of those virtual machines machine to the host.
+
+03:59.870 --> 04:05.900
+And also if you have unhorsed in a maintenance mode he will migrate to some machine from the toast to
+
+04:06.060 --> 04:06.630
+other holes.
+
+04:06.680 --> 04:11.370
+So all those virtual machine will be available for your company.
+
+04:11.420 --> 04:13.390
+So this is the big one.
+
+04:13.460 --> 04:19.310
+Also if we got to that level to the center server will apply to accommodation that probably is a significant
+
+04:19.370 --> 04:23.070
+improvement to the cluster load balance.
+
+04:23.270 --> 04:25.550
+That's a significant improvement.
+
+04:25.710 --> 04:33.230
+If there are a smart overall they will not take any action if they have a high mean that will damage
+
+04:33.230 --> 04:34.760
+your environment.
+
+04:34.760 --> 04:36.100
+They do that.
+
+04:36.110 --> 04:42.870
+The press will take action and migrate the virtual machine to another Hulst for a safe environment.
+
+04:42.980 --> 04:49.010
+Then we have the number three by default Vicent instead of one would apply a recommendation that promised
+
+04:49.080 --> 04:53.240
+atlast good improvement to do cluster load balancing.
+
+04:53.250 --> 04:59.480
+Then the third one we apply a recommendation that is a moderate improvement.
+
+04:59.480 --> 05:05.800
+So I just love it overdo loading and the improvements of the load balance.
+
+05:05.810 --> 05:12.080
+Then we have the aggressive one that we would apply accommodation that Brahmin's even a slight improvement
+
+05:12.080 --> 05:18.560
+to the cluster loading if there are a small loading in a host automatically McGreal the virtual machine
+
+05:18.560 --> 05:23.030
+to another host even there are a slight improvement in New environments.
+
+05:23.330 --> 05:29.840
+So sometimes we need to use this one and something we need to use the aggressive one is in the region
+
+05:29.900 --> 05:37.290
+about environment and in your situation of course by time you buck right here and see which one will
+
+05:37.330 --> 05:38.640
+rise for your investments.
+
+05:38.780 --> 05:46.220
+For example if you have a poor hardware for example those old surveiled the top list that is used and
+
+05:46.280 --> 05:54.200
+as to how our low speed connection for example your environments have our low speed connection and a
+
+05:54.200 --> 06:01.550
+lot of virtual machine in your environment then if every time have a virtual machine migrated from a
+
+06:01.550 --> 06:07.230
+host to another host will slow down your network and slow down your environment.
+
+06:07.280 --> 06:11.390
+For that you need to use our conservative migration.
+
+06:11.390 --> 06:19.370
+But if you have a high speed connection powerful hardware etc. you need to use our aggressive migration
+
+06:19.640 --> 06:22.750
+to have a safe environment.
+
+06:22.910 --> 06:26.460
+All your controls do live in four or three.
+
+06:26.630 --> 06:33.180
+So for us I always prefer to use the aggressive one to harm our powerful environment.
+
+06:33.320 --> 06:40.730
+But of course you should take careful if you have for example some big virtual machine just virtual
+
+06:40.730 --> 06:45.140
+machine that's had for example three or four terabytes of data.
+
+06:45.200 --> 06:53.800
+You should try to of we using DNS because this will cool down your network and your environments.
+
+06:53.800 --> 07:00.830
+For example imagine our four terabytes over the top of our virtual machine migrated from that store
+
+07:00.830 --> 07:02.090
+to another store.
+
+07:02.270 --> 07:08.170
+Imagine how much time will take and your environment will be too slow etc..
+
+07:08.180 --> 07:14.750
+So for that it is always the germ of dirt there is for those virtual machine.
+
+07:14.960 --> 07:23.990
+And of course this option is available to exclude some virtual machine to not be used by DNS.
+
+07:24.200 --> 07:28.730
+So for that we won't use the aggressive one to see a rate environment.
+
+07:28.850 --> 07:29.540
+An example.

@@ -1,0 +1,220 @@
+WEBVTT
+
+00:01.370 --> 00:07.390
+Hello again so let's discovered the new device available in our virtual machine.
+
+00:07.390 --> 00:14.320
+So this option right there when we click on it we have some device that we can added to this virtual
+
+00:14.320 --> 00:15.030
+machine.
+
+00:15.040 --> 00:17.530
+So the first one is your disk we see it.
+
+00:17.560 --> 00:20.980
+And if you do to up on your disks to this virtual machine.
+
+00:21.250 --> 00:24.940
+As we have the second option exists existing hard disk.
+
+00:25.030 --> 00:25.670
+That's me.
+
+00:25.690 --> 00:32.800
+We already have our VM dignified and we want to connect that VM dignified to this virtual machine.
+
+00:32.800 --> 00:41.160
+We can chose existing via undignified and we chose to chose where this VM dignified exist.
+
+00:41.170 --> 00:48.550
+Remember we know chals sharing local disk we can do it for up a share of VM dignify it or a virtual
+
+00:48.550 --> 00:49.300
+machine.
+
+00:49.300 --> 00:52.530
+Windows XP 5 with this virtual machine.
+
+00:52.720 --> 00:58.990
+Of course you can click on it and chose the VM dequeue five books on this one to be connected with the
+
+00:58.990 --> 01:00.040
+virtual machine.
+
+01:00.070 --> 01:08.200
+So we have to virtual machine we do same being dignified or even we have a machine that is deleted and
+
+01:08.200 --> 01:11.920
+we keep it VM file of this one and we won't use it again.
+
+01:11.950 --> 01:19.240
+We create a virtual machine then we connect it to this very dignified and it will work like when you
+
+01:19.390 --> 01:24.880
+change the hard disk from a laptop to another laptop when you imply that the hard disk from your laptop
+
+01:25.210 --> 01:29.440
+and put it in the laptop you work with it without any problem.
+
+01:29.440 --> 01:31.970
+So this is the same idea right here.
+
+01:32.040 --> 01:34.350
+Then we have ever the disk.
+
+01:34.420 --> 01:37.380
+What is it then a disk.
+
+01:37.390 --> 01:43.360
+This option leads you to connect our physical harddrive directly to do virtual machine.
+
+01:43.360 --> 01:50.070
+When we create our hard disk we only create a virtual disk inside Do available.
+
+01:50.090 --> 01:51.440
+But that's all we have.
+
+01:51.610 --> 02:02.100
+But we chose a dram disk it will connect to do physical hard drive are available in your server.
+
+02:02.250 --> 02:08.100
+For example a server with four physical hard over you can connect one of them to a specific virtual
+
+02:08.100 --> 02:11.740
+machine does which Turing machine will use this hard disk.
+
+02:11.750 --> 02:20.430
+As I look at this also as a LAN if for example our shared storage house for example three or four LAN
+
+02:20.730 --> 02:29.340
+we can connect one line to be used by this military machine as our local harddrive.
+
+02:29.570 --> 02:31.060
+Then we have the network.
+
+02:31.070 --> 02:39.410
+It's simple like this one we can carry is a host we to network we can do the same in the same city if
+
+02:39.420 --> 02:43.400
+we remember right here we can chose the adapter type.
+
+02:43.490 --> 02:44.340
+VM.
+
+02:44.360 --> 02:48.990
+NET does mean the speed and information about the type of this adapter.
+
+02:49.100 --> 02:54.770
+Then we have the MAC address you can choose automated or manually when you click OK to automatic give
+
+02:54.770 --> 03:00.370
+his MAC address but you can customize this one by gibbets any thing that you want.
+
+03:00.430 --> 03:01.670
+And we chose manually.
+
+03:01.880 --> 03:11.480
+And you can give a number like that of course you need to use the comma like that etc. and so on and
+
+03:11.480 --> 03:12.180
+so on.
+
+03:12.250 --> 03:14.110
+Of course we don't need this one.
+
+03:14.160 --> 03:20.390
+Then we have the city the driver if you want to add another city DVD drive out to this machine the floppy
+
+03:20.390 --> 03:23.820
+disk if you remember the floppy disk are very old.
+
+03:24.050 --> 03:27.010
+Then the serial port and the parallel port.
+
+03:27.020 --> 03:35.050
+This one is for example you have a printer connected to the server Droguet the pirate port.
+
+03:35.060 --> 03:41.750
+You can add the port to portray tab and use it to connect directly to disappear to your machine.
+
+03:41.780 --> 03:43.820
+The rise of this type cannot be on its way.
+
+03:43.890 --> 03:45.590
+The virtual machine is bolted on.
+
+03:45.640 --> 03:52.640
+That's when you need to power off to be able to use the parallel port then city port also need to be
+
+03:52.670 --> 03:53.660
+voted off.
+
+03:54.110 --> 03:58.240
+So this is the benefits of a serial port at the port.
+
+03:58.250 --> 04:06.070
+If you check your desktop from behind of the Bar Mitzvah you will find some bark like a bee that the
+
+04:06.140 --> 04:10.420
+Veiga board do a keyboard and mouse balls.
+
+04:10.490 --> 04:16.640
+Then we have the parlor bar and serial port then host your speed device.
+
+04:16.670 --> 04:22.390
+If it is a device that's connected would you just beat like I used B.K. or I use printer.
+
+04:22.530 --> 04:24.910
+You chose your speed device and click up.
+
+04:24.920 --> 04:28.630
+Of course it does not have any device connected to this route.
+
+04:30.250 --> 04:38.690
+Then that is control this one that we use to use any is the device we need to have control to be able
+
+04:38.690 --> 04:46.940
+to use the device then discuss scuzzy device the PC device if you have a PC device in the server you
+
+04:46.970 --> 04:49.220
+can connected directly to this horse.
+
+04:49.230 --> 04:53.720
+You use it as up b c the highest of this virtual machine share.
+
+04:53.750 --> 05:00.890
+Busy lives and we have Scalzo controller the one that we use to connect a hard driver of this driver.
+
+05:00.890 --> 05:07.610
+Number two will be connected truck the scuzzy controls zero that mean the same scuzzy controller we
+
+05:07.610 --> 05:16.350
+use in the hard disk number one of course we can add a moderate scuzzy controller with a specific number.
+
+05:16.490 --> 05:21.700
+They even control a modern kind of storage controller.
+
+05:21.710 --> 05:24.010
+They do Sotha control.
+
+05:24.350 --> 05:25.880
+So this is a different device.
+
+05:25.880 --> 05:35.450
+We make it as quick as possible and the most fun was that we use it to hard this network and some city
+
+05:35.460 --> 05:35.820
+port.
+
+05:35.830 --> 05:42.130
+If you want to connect a specific device to this virtual machine and some PC if you want to Easy's in
+
+05:42.130 --> 05:50.480
+a specific device but which is the hard disk a lot of time and do network Ansal for a lot of time with
+
+05:50.620 --> 05:52.450
+different virtual machine.
+
+05:52.660 --> 05:53.700
+So the next video.

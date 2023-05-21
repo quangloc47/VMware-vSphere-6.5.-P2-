@@ -1,0 +1,358 @@
+WEBVTT
+
+00:01.360 --> 00:02.120
+Help again.
+
+00:02.350 --> 00:09.640
+So next we have do scuzzy controller as the one that we have right there do scuzzy control has it all
+
+00:09.640 --> 00:12.130
+connected to this hard disk.
+
+00:12.130 --> 00:14.790
+We have discussed control option right there.
+
+00:14.860 --> 00:19.000
+It is not available to it into your part of the virtual machine.
+
+00:19.090 --> 00:23.060
+But of course you can add cost control from hell.
+
+00:23.080 --> 00:25.060
+For example this one.
+
+00:25.300 --> 00:28.450
+And you can mediate editing for this one.
+
+00:28.450 --> 00:30.850
+So you chose music out of it.
+
+00:30.850 --> 00:38.240
+I mean if you have physical control inside our house you can use directly to this virtual machine.
+
+00:38.320 --> 00:41.770
+Then the option of two channel tape etc..
+
+00:41.890 --> 00:49.810
+So the scuzzy controller vidual this cannot be shared between virtual machine or virtual this can be
+
+00:49.810 --> 00:56.350
+shared between a virtual machine or any other server or virtual this can be shared between virtual machine
+
+00:56.350 --> 00:58.070
+on the same server.
+
+00:58.540 --> 01:07.570
+So if we chose our a hard driver or a hard disk with something else then the ice causing this one right
+
+01:07.570 --> 01:18.810
+here if you remember we have a zero on one or scuzzy or Sotha if we chose any tank rather than the scuzzy
+
+01:18.890 --> 01:19.610
+controller.
+
+01:19.840 --> 01:24.910
+This hard disk does not have the ability to shading its store.
+
+01:25.000 --> 01:27.990
+This one like that your hard disk.
+
+01:28.230 --> 01:28.960
+OK.
+
+01:30.450 --> 01:32.820
+Then we click on the hard disk like that's
+
+01:35.530 --> 01:44.470
+then if we chose for example I do the shooting will not be available for this one or you will have some
+
+01:45.070 --> 01:50.950
+problem of the sharing of the hard disk between different virtual machine.
+
+01:50.950 --> 01:57.980
+So we always need is discussing a controller like this one of course where you're connected to do exists
+
+01:57.980 --> 02:03.790
+because the controller Brazil uses by the first one if you remember when we have a cable that's have
+
+02:03.820 --> 02:05.170
+dual port.
+
+02:05.260 --> 02:12.820
+We have the one that's connected to the motherboard and two port connected to do two to hard disk.
+
+02:12.820 --> 02:20.050
+So that means you can't use the same controller to connect two physical hard disk or three or as much
+
+02:20.140 --> 02:23.620
+as we have added to cable of the scuzzy control.
+
+02:24.030 --> 02:30.350
+But we chose not cause the controller to connect with another one.
+
+02:30.390 --> 02:35.200
+And of course a revision machine can support up to four new scuzzy control.
+
+02:35.220 --> 02:37.790
+That's mean you can create false Kozhikode.
+
+02:37.830 --> 02:44.890
+If we try to add another hard disk it will use another control the second third and default.
+
+02:45.090 --> 02:49.570
+Then you can't OD on your control with our new hard disk.
+
+02:49.590 --> 02:58.370
+You need to connect the hard disk with a sane Scalzo control available in the machine of course I mean
+
+02:58.380 --> 03:03.740
+we need to raise a hard disk we simply click on this option right and then we have the option of ice
+
+03:03.800 --> 03:07.400
+cause you can choose the one that you want.
+
+03:07.440 --> 03:11.100
+Then we have to network adapter.
+
+03:11.280 --> 03:17.040
+We talk about this one in the preview so the network you can't chose any network available for example
+
+03:17.040 --> 03:24.530
+if the whole top door VM network for example one for the villain one and another one for the two.
+
+03:24.630 --> 03:30.390
+You can chose this virtual machine from villaine want to be allowed to you can see the list of the VM
+
+03:30.390 --> 03:32.230
+network available right there.
+
+03:32.320 --> 03:35.720
+Then the option to connect me connect.
+
+03:35.730 --> 03:43.470
+It's like when you plug in plugged the cable or you enable and disable do physical network adapter we
+
+03:43.470 --> 03:44.870
+have in the host.
+
+03:45.240 --> 03:50.180
+So when you chose a disconnect like this one this virtual machine will be disconnected from the network
+
+03:50.180 --> 03:56.430
+drogue these network adapter which was connect those you're connected they have the option connects
+
+03:56.520 --> 03:58.110
+at power on.
+
+03:58.170 --> 04:04.200
+If we enable this one and click OK this rigid machine will keep connected to the network because we
+
+04:04.200 --> 04:10.010
+have this one check it then we do with power of this video machine and power on it.
+
+04:10.010 --> 04:16.110
+Again it will be disconnected because we chose to not connect at all were.
+
+04:16.470 --> 04:22.760
+So always because this one connects at our own thoughts mean no matter what happen to this virtual machine.
+
+04:22.770 --> 04:31.470
+And part of it is part of it were to connect to the network then have this option adapter tried to change
+
+04:31.500 --> 04:34.630
+the speed of the adapter the MAC address.
+
+04:34.650 --> 04:40.740
+Of course you need to power of the virtual machine to be able to change the speed and to mock Athanase
+
+04:40.770 --> 04:44.680
+of the vitriol machine of this Vitruvian network adapter.
+
+04:44.820 --> 04:50.700
+Then we have the cd dvd driver we have the option to connect to the client device.
+
+04:51.050 --> 04:51.880
+That's mean.
+
+04:52.140 --> 04:55.890
+This virtual machine connected to city the driver of the client.
+
+04:55.890 --> 05:00.460
+Davies lets me do the cd dvd driver of my laptop.
+
+05:03.950 --> 05:05.140
+This one right there.
+
+05:05.170 --> 05:06.550
+It is connected to this one.
+
+05:06.550 --> 05:15.890
+Any City DVD footage inside my laptop DVD driver will be detected by the virtual machine and we read
+
+05:15.890 --> 05:24.190
+the contents of that CD and we have the host device lets me do a physical server.
+
+05:24.260 --> 05:25.650
+Thats why this is.
+
+05:25.670 --> 05:29.600
+I host have also our DVD driver.
+
+05:29.630 --> 05:34.720
+This machine will connect to DVD drive an overdue physical host.
+
+05:34.980 --> 05:36.590
+How I do have.
+
+05:36.650 --> 05:42.990
+I host so this option is connected to DVD drive directly off the server.
+
+05:43.070 --> 05:45.670
+Of course how do you chose connect or disconnect.
+
+05:45.670 --> 05:50.910
+But you should care about this one when you choose to press and emotion.
+
+05:51.080 --> 05:58.190
+Because if the terrorists want to migrate this machine from a host a to a host be it this host connected
+
+05:58.190 --> 06:05.780
+to the host device will not going to migrate this virtual machine because we have a neuro So we always
+
+06:06.020 --> 06:08.260
+get disconnected until we need it.
+
+06:08.300 --> 06:15.830
+Then we enable this one also connects up both on me mean connected to house device.
+
+06:16.040 --> 06:23.600
+We were power on your machine then we have the Isel Phylis me and from the data it will take a nasal
+
+06:23.600 --> 06:26.320
+image from the data available light.
+
+06:26.330 --> 06:28.020
+Take for example the store.
+
+06:28.210 --> 06:34.050
+Me look at the all of the E-6 I host the top is Windows then the lot want lunch.
+
+06:34.110 --> 06:41.380
+And the image lets me do floppy or ISO image.
+
+06:41.440 --> 06:47.780
+Then we have do content liberally Isel mean from the center when we create at center we create our live
+
+06:47.850 --> 06:49.960
+to put it tank inside it.
+
+06:50.020 --> 06:53.840
+It's like a shared folder between the different E6 I host.
+
+06:54.670 --> 07:02.890
+So does the news client host then to connect power on the VM and select the media from the VM hardware
+
+07:02.890 --> 07:09.660
+panel on Shoemark up in the device mode emollient CD or past drug CD.
+
+07:09.790 --> 07:14.080
+Then of course the video device more connected through the south.
+
+07:14.320 --> 07:18.000
+Of course you need to port after chance this option right.
+
+07:18.150 --> 07:23.470
+Then we have to use Be as the same as CD you have speech upon zero.
+
+07:23.470 --> 07:26.950
+You can't change just sitting for example trip 1 0 etc..
+
+07:27.130 --> 07:29.740
+Also you can use the right hand
+
+07:32.430 --> 07:33.830
+or house to use.
+
+07:33.830 --> 07:36.980
+People like this one not available.
+
+07:36.990 --> 07:38.410
+Doesn't mean if I already have.
+
+07:38.430 --> 07:40.270
+Are you still connected to my host.
+
+07:40.410 --> 07:48.350
+I can't Adi's that of this machine to be connected directly so it shows the controller to click out.
+
+07:48.360 --> 07:50.030
+You will see a new one right here.
+
+07:50.040 --> 07:51.930
+It is at its byte 3.0.
+
+07:51.960 --> 07:56.580
+Then you control this control and is not supported for the guest operating system.
+
+07:57.480 --> 08:04.000
+So we have an issue right here because we have two options you don't so we can't add to 1 0.
+
+08:04.410 --> 08:06.430
+We need only to change trip on 0.
+
+08:06.540 --> 08:10.960
+But this operating system does not support 3 1 0.
+
+08:11.100 --> 08:16.110
+Then we have to VDU cock a specific custom seating.
+
+08:16.170 --> 08:20.900
+You can't chose the details about the video card in your host.
+
+08:21.010 --> 08:26.000
+And right had to check it out Arduin video memory 3-D graphic.
+
+08:26.040 --> 08:29.390
+You can enable to see the graphic in this video machine.
+
+08:29.400 --> 08:33.940
+Of course you need to have a video card that she poured the coffee.
+
+08:34.140 --> 08:37.840
+Also that video card shrewed support the virtualization.
+
+08:37.840 --> 08:43.860
+Put example example in videos you force can support your decision.
+
+08:43.920 --> 08:50.720
+So you connect this video card to the physical host then you attach it to this virtual machine that
+
+08:50.880 --> 08:51.780
+does nothing with.
+
+08:51.800 --> 08:54.370
+Is this a video card.
+
+08:54.600 --> 09:00.630
+Give the user that these virtual machine the ability to work with the software that need our hide video
+
+09:00.630 --> 09:04.910
+card like three digraph Rafique and some other option.
+
+09:05.100 --> 09:12.100
+Also we have the VAMC device between machine communication and verifies that's connected to virtual
+
+09:12.150 --> 09:17.940
+machine directly to the device of the motherboard of the server etc..
+
+09:18.150 --> 09:26.330
+Then do other device like do I do the cable or the psa number 2 etc..
+
+09:26.850 --> 09:33.750
+So this is a different option we have in our military machine and we are going to make some editing
+
+09:33.780 --> 09:38.590
+to see the result directly in our product on the machine.
+
+09:38.620 --> 09:39.510
+So the next to be.

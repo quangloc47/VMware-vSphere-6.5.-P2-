@@ -1,0 +1,154 @@
+WEBVTT
+
+00:00.210 --> 00:03.780
+So then we expand that option that's mean.
+
+00:03.780 --> 00:10.760
+This one can expand from zero to the maximum limit is eight.
+
+00:11.250 --> 00:17.640
+Then when we chose intermediate that's mean it's thought expanded from zero up to this number of course
+
+00:17.640 --> 00:19.390
+we have another option right there.
+
+00:19.390 --> 00:25.540
+For example the minimum it's zero when we chose 0 that's made the reservation.
+
+00:25.560 --> 00:32.850
+It will be 0 the maximum reservation is zero or we can chose more than zero because we give it limit
+
+00:32.850 --> 00:33.970
+to zero.
+
+00:34.170 --> 00:41.610
+I mean this is a pool we used zero megahertz of resource doesn't mean we can't this resource pool distress
+
+00:41.780 --> 00:44.760
+would have zero megahertz of soupy.
+
+00:44.940 --> 00:51.840
+But logically we did not chose zero didn't have the maximum available is about 8 co-horts.
+
+00:52.110 --> 00:57.440
+But of course we control any number that you want for example for Jugheads.
+
+00:57.450 --> 01:06.620
+So this one we limited this in support of four guys even we give it's a 4000 chair but we limited this
+
+01:06.620 --> 01:09.120
+one to four Zegart heads.
+
+01:09.120 --> 01:15.440
+But I mean we have some virtual machines that consume less than four gigahertz of the Sibiu.
+
+01:15.440 --> 01:25.220
+So we limited this one to four Shiga hurts then if we chose for example for an item and then try to
+
+01:25.250 --> 01:31.320
+give it any reservation we can give it more than four Jugheads of the reservation.
+
+01:31.400 --> 01:40.760
+We limited by four ziggurats we can't give it for example five Jugheads like this one you see we have
+
+01:40.820 --> 01:42.420
+our problem right there.
+
+01:42.620 --> 01:46.670
+So it is always limited by two limits right.
+
+01:46.670 --> 01:53.610
+And then of course if we give it six it will change automatically from 4 to 6.
+
+01:53.760 --> 02:02.820
+In another situation for example we give it for Jugheads of the reservation and try to change the limits
+
+02:03.090 --> 02:04.000
+for this one.
+
+02:04.140 --> 02:06.120
+Less than four gigahertz.
+
+02:06.140 --> 02:11.280
+It will give us an order we can limits this into those pools to zero.
+
+02:11.320 --> 02:15.510
+If you go ahead and the reserve are forging ahead.
+
+02:15.510 --> 02:23.490
+So if we click on this one we have all the minimum 4G Gerhard's of super mom 8 Jigar house and intermitted
+
+02:23.490 --> 02:24.470
+that's mean.
+
+02:24.480 --> 02:30.570
+We do not get in a specific number that mean it's going to start from for up to maximum from minimum
+
+02:30.570 --> 02:31.340
+to maximum.
+
+02:31.340 --> 02:33.260
+This is meaning of intermediate.
+
+02:33.600 --> 02:40.110
+But if we chose a value like that that's me we give it for Jugheads of the super.
+
+02:40.290 --> 02:44.970
+And we're limited at 5 she heads of CPI.
+
+02:45.210 --> 02:48.620
+So this is the idea between reservation and limits.
+
+02:48.660 --> 02:50.690
+It's the same as in the memory.
+
+02:50.700 --> 02:52.840
+For example we give it normal.
+
+02:52.980 --> 03:00.610
+So he automatically chose this number of the shed then hides in its anchor collection.
+
+03:00.670 --> 03:08.260
+So the number right hand it changes in relation about this one because in this situation we have the
+
+03:08.260 --> 03:11.350
+number right here is bigger than the one too stupid.
+
+03:11.380 --> 03:17.830
+So we have 18 gigabytes of the rate and only 15 gigahertz is on the CPI.
+
+03:18.040 --> 03:24.140
+So the number will be changing in the lation about this one right there.
+
+03:24.190 --> 03:30.340
+So its make its own calculation automatically You dont need to care about this number you just know
+
+03:30.340 --> 03:37.270
+that low is something low the normal is Medion do height ease height or reservation.
+
+03:37.270 --> 03:43.130
+So for example we chose Marmon the same we can give you a reservation for your machine if you chose
+
+03:43.380 --> 03:44.400
+project Gerhard's.
+
+03:44.710 --> 03:49.060
+Then we can reserve about 1 gigabytes of the range.
+
+03:49.180 --> 03:55.410
+Then we chose expandable I mean we can expand this one automatically up to the maximum.
+
+03:55.630 --> 04:00.890
+Then we have the jimmied minimum is one maximum is eight to meet it.
+
+04:01.300 --> 04:08.910
+So this one is eight is interation about the holes that have the maximum she got because of the rain.
+
+04:11.120 --> 04:13.350
+So this is the idea of the resource pool.
+
+04:13.550 --> 04:18.010
+And when we chose any resource that we have we can apply it.
+
+04:18.020 --> 04:21.960
+So next we will run the first pool scene in the next three.

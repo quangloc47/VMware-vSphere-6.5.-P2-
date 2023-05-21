@@ -1,0 +1,133 @@
+WEBVTT
+
+00:00.870 --> 00:02.350
+Hello and welcome again.
+
+00:02.640 --> 00:06.460
+So no we're going to discover another future of the VM world.
+
+00:06.650 --> 00:09.330
+That's Cullin do cloning.
+
+00:09.330 --> 00:17.370
+If you remember from the previous course of the VM where we spend we ever do cloning but we cover a
+
+00:17.370 --> 00:24.780
+specific kind of clone that's valid for clone because in the preview calls we didn't call it a snapshot.
+
+00:24.780 --> 00:31.620
+So the other future or the other kind of clone that's got that link is cloning is in relation about
+
+00:31.680 --> 00:33.110
+two snapshots.
+
+00:33.120 --> 00:38.480
+You can't understand the link it can run if you don't know how the snapshot work.
+
+00:38.490 --> 00:45.720
+So for that we cover all the information about cloning the config file a different operating system
+
+00:46.100 --> 00:47.030
+etc..
+
+00:47.220 --> 00:56.810
+And no we're going to recover a little about Falconi and we'll talk about the link good.
+
+00:57.060 --> 00:58.230
+So what is do.
+
+00:58.230 --> 01:06.600
+VM Kroon if you remember do them clone It's like a peek and post of a virtual machine you have a virtual
+
+01:06.600 --> 01:07.090
+machine.
+
+01:07.130 --> 01:13.770
+The operating system as started inside is the application necessary etc. and you want to create a virtual
+
+01:13.770 --> 01:20.070
+machine with the same operating system with say obligation but you want only to make some small editing
+
+01:20.160 --> 01:23.390
+inside it to use it in the service.
+
+01:23.460 --> 01:27.630
+In this situation you don't need to create on your virtual machine from the beginner you are studying
+
+01:27.630 --> 01:29.440
+the operations at them and so on and so on.
+
+01:29.610 --> 01:37.580
+You simply ignore the original Vitry and machine to another virtual machine and make it it in and head
+
+01:37.590 --> 01:42.940
+as it's a new virtual machine and ready for use as quick as possible.
+
+01:43.500 --> 01:49.920
+In this situation we Khaled's our fall Clun because we could be and both do virtual machine completely
+
+01:50.250 --> 01:54.210
+and we create anew separated virtual machine.
+
+01:54.210 --> 01:56.080
+So we have to fall clone.
+
+01:56.160 --> 01:58.190
+That is the default one.
+
+01:58.290 --> 01:59.970
+We have the virtual machine.
+
+02:00.210 --> 02:07.500
+We put it into cron task onto this copied new independent virtual machine we create a new virtual machine
+
+02:07.590 --> 02:12.680
+that is independent to the virtual machine that's called Virtual Machine.
+
+02:13.160 --> 02:19.610
+We cover this auction with fall times about the different kind of colognes different operating system.
+
+02:19.620 --> 02:21.950
+For example Windows and Linux machine.
+
+02:22.110 --> 02:28.530
+Then we create the config file because when you're on a virtual machine to another one you need to add
+
+02:28.560 --> 02:34.940
+our config file for example give it the name of the machine in the operations is them sitting on the
+
+02:34.950 --> 02:42.340
+operating system cereal if you want to add on your license to that operation system for example operations
+
+02:42.350 --> 02:44.430
+if they use an individual machine.
+
+02:44.450 --> 02:50.040
+A have our license for all you on your machine when you clone that operating system you need to add
+
+02:50.070 --> 02:56.580
+a new license to do operation system for another virtual machine and so on and so on.
+
+02:57.240 --> 03:06.030
+Then we have a manual one that Scarlett linkit on because we have a link relation between the virtual
+
+03:06.030 --> 03:11.400
+machine and the original virtual machine that's called first provision.
+
+03:11.400 --> 03:18.270
+So the far cloning it's take a lot of time to complete the process when you run our onto our virtual
+
+03:18.270 --> 03:21.560
+machine that have 1 gigabytes of data.
+
+03:21.600 --> 03:24.080
+It will take time to copy and paste.
+
+03:24.170 --> 03:29.710
+That's one gigabyte in another space of to look on or shared.
+
+03:30.390 --> 03:38.250
+If you have our machine with one terabytes that will be a big time of Cloonan it will take about four
+
+03:38.280 --> 03:45.390
+or five hours to the virtual machine with one bite off the data use it and so on and so on.

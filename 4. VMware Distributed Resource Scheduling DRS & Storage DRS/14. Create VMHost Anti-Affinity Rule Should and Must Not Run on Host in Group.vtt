@@ -1,0 +1,283 @@
+WEBVTT
+
+00:02.050 --> 00:02.870
+Hello again.
+
+00:02.920 --> 00:06.780
+So let's get some hosts and V.M. group.
+
+00:06.790 --> 00:11.730
+So for that we need to create some hosts and some V.M. group.
+
+00:11.770 --> 00:21.960
+So a click up and here we give it a name for example Holst's group one like that you give it any name
+
+00:21.990 --> 00:22.550
+that you want.
+
+00:22.560 --> 00:27.930
+We want to work at the level of the hosts so we choose Hulst and we click up.
+
+00:28.140 --> 00:30.820
+They show us all the different tools available.
+
+00:31.170 --> 00:36.470
+So for example we want to chose some specific calls that we want to work on.
+
+00:36.570 --> 00:42.900
+Of course in the right environment you will have a lot of E6 I host but in our situation we have only
+
+00:42.990 --> 00:43.600
+three.
+
+00:43.620 --> 00:48.240
+So for example we chose number one and we click OK.
+
+00:48.330 --> 00:52.030
+One example this hostile group number one that's content is x.
+
+00:52.050 --> 00:53.100
+I host but what.
+
+00:53.430 --> 01:00.410
+But in redevelopments For example we have five or six I hopped into number one and another 10 E-6 I
+
+01:00.420 --> 01:06.660
+Holst's in another group number two we're going to explain the idea later.
+
+01:06.960 --> 01:11.920
+So we at the HAUST group.
+
+01:12.110 --> 01:16.550
+So we've created the group it is it last group.
+
+01:16.570 --> 01:19.060
+And the difference is right inside this house.
+
+01:19.300 --> 01:20.820
+Then we add a group.
+
+01:20.860 --> 01:30.450
+For example do V.M. group 1 and then we choose to leave it up to them we click and then we choose a
+
+01:30.450 --> 01:32.360
+different.
+
+01:32.670 --> 01:40.960
+So when we chose the ethics I want we need to try to pick up some virtual machine.
+
+01:40.990 --> 01:45.650
+For example this one and this one like that.
+
+01:46.030 --> 01:54.810
+So to do some role of two DNS so we click OK that's me in the VM group have two Windows virtual machine
+
+01:55.190 --> 01:58.130
+Windows XP and basics and two windows 7.
+
+01:58.450 --> 02:02.420
+So we click OK that's of this machine.
+
+02:02.420 --> 02:12.510
+So we'll see it work like into the environment then we're back to do is X.
+
+02:13.030 --> 02:21.030
+And here we have no VM group and then we back to do VM host Group.
+
+02:21.050 --> 02:25.310
+So to avoid some conflict I will going to delete.
+
+02:27.400 --> 02:27.870
+Rule.
+
+02:27.960 --> 02:33.290
+I will go into the latest route to avoid any conflict in the near one.
+
+02:33.300 --> 02:39.840
+Then we click up and here we chose a virtual machine to Haast.
+
+02:40.090 --> 02:44.920
+And how do you see that we have VM group available of course if we have talked to the group about the
+
+02:44.920 --> 02:47.250
+virtual machine we see them right.
+
+02:47.470 --> 02:58.780
+They do Hulst group why we need to use do virtual machine costs also in a real environment for the height
+
+02:58.810 --> 03:06.250
+of mobility as we clearly are that we need to wait around in a virtual machine for example to Case 1
+
+03:06.280 --> 03:11.840
+and 2 of the exchange in the same service to avoid losing the server.
+
+03:12.070 --> 03:19.290
+In any case thats something wrong coupled to that E6 I host also we have some Hostia group.
+
+03:19.300 --> 03:26.670
+For example lets get this design right hate for results but in an environment we have a of and started
+
+03:26.680 --> 03:38.650
+in Iraq ARAC like do arm want that's how to five six or seven server inside it and managed by one power
+
+03:38.860 --> 03:43.670
+cable and one clean etc. so do rock.
+
+03:43.750 --> 03:51.070
+We have for example in a situation that have to rig or imagine but this is our room 1 and this is our
+
+03:51.070 --> 03:52.650
+room too.
+
+03:53.140 --> 03:58.320
+So in the break number one we have for example the server one server.
+
+03:58.530 --> 04:05.310
+I tree and the rock number 2 2 6 4 6 5 and 6 6.
+
+04:05.590 --> 04:15.060
+So when we see that the virtual machine thats this one like that for example the virtual machine that
+
+04:15.060 --> 04:23.820
+hard case number one should always separated from do case number two let's me this virtual machine number
+
+04:23.820 --> 04:32.790
+two like that if we put them inside the same host then we have a dangerous situation if something wrong
+
+04:32.830 --> 04:33.820
+happened to this.
+
+04:33.900 --> 04:42.690
+He asks I host the company we lost the connection to the Exchange server from the case 1 and Case 2.
+
+04:42.820 --> 04:53.550
+So we had a rule that always always make the case one and do it in separate E-6 I host that's mean or
+
+04:53.550 --> 04:53.760
+not.
+
+04:53.770 --> 04:54.890
+This one right hand.
+
+04:55.000 --> 04:57.130
+And the second one in another house.
+
+04:57.130 --> 05:06.850
+So if something wrong happen to this U-6 I host do gays do still work perfectly in this server but in
+
+05:07.600 --> 05:16.150
+some company in another situation we have RAC number one and the rock number two does track have different
+
+05:16.150 --> 05:18.360
+server on stolid inside.
+
+05:18.640 --> 05:27.910
+And for example if something wrong Koppen to do rock number one to cable that give the power to a different
+
+05:27.910 --> 05:34.370
+server in this truck take it down for example something wrong Carpenter this rock.
+
+05:34.390 --> 05:38.670
+So in this situation we lost the ears I won.
+
+05:38.790 --> 05:45.330
+That is I treat and this double Isak's I have do exchange server.
+
+05:45.400 --> 05:48.940
+The kids want to talk in this situation.
+
+05:48.990 --> 05:58.130
+Also we lost the connection to exchange route and we are in bad situation in our company.
+
+05:58.380 --> 06:02.910
+So another rule that we do is do the house.
+
+06:03.150 --> 06:09.750
+If you remember in the DNS we perused the VM VM that's me route between this virtual machine to dismiss
+
+06:09.750 --> 06:10.390
+your machine.
+
+06:10.470 --> 06:14.290
+No we need to add a VM to a house that's me.
+
+06:14.310 --> 06:15.180
+We are.
+
+06:15.180 --> 06:18.600
+Why is D-Rays Liverpool to.
+
+06:18.890 --> 06:20.340
+Virtual Machine of the case.
+
+06:20.340 --> 06:25.860
+Do in any of the server of the track number one always put it in a different rack.
+
+06:25.860 --> 06:28.150
+For example in rock number two.
+
+06:28.500 --> 06:30.450
+Or a rock number three etc..
+
+06:30.600 --> 06:32.250
+That's me in any situation.
+
+06:32.270 --> 06:39.800
+Did s need to migrate some virtual machine and decided to migrate this one from this host.
+
+06:40.130 --> 06:46.680
+Host number four that exist Interac number two of which to boot is in the rack number one and it will
+
+06:46.680 --> 06:54.830
+be easy to track number three or rack number for it at all or any of those other ESX that exist in the
+
+06:54.840 --> 06:55.170
+rack.
+
+06:55.170 --> 06:56.860
+Number two like that.
+
+06:56.910 --> 07:02.910
+So this is the root of the VM to host.
+
+07:02.930 --> 07:09.500
+So imagine this as the same as in a room for example you have some server in our room one and another
+
+07:09.500 --> 07:11.340
+server in our room number two.
+
+07:11.450 --> 07:18.950
+If something wrong happened to this rule for example a catastrophe or something in attack or a fire
+
+07:18.950 --> 07:24.750
+in this room you still have to sit in a room that have your virtual machine work perfectly.
+
+07:25.070 --> 07:30.490
+So this is the idea of the group through a host Group.
+
+07:30.500 --> 07:41.750
+So in the host group number one we Isak's I want and I do and E6 I treat their individual machine that
+
+07:41.750 --> 07:47.320
+we want them to be running into RAC number what we added in the group.
+
+07:47.360 --> 07:50.740
+Then we added case number to the database.
+
+07:50.740 --> 08:00.170
+Number two the server number two etc in the VM group and then we give it up rule that it should not
+
+08:00.530 --> 08:02.180
+run in the host Group.
+
+08:02.180 --> 08:02.850
+That's me.
+
+08:02.990 --> 08:09.800
+The virtual machine that exists in this group should not run into group number one.
+
+08:09.800 --> 08:10.260
+That's me.
+
+08:10.280 --> 08:17.210
+In this case number two should not run into rock number one that's Hovda difference is I host.

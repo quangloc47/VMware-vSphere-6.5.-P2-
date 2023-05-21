@@ -1,0 +1,298 @@
+WEBVTT
+
+00:01.690 --> 00:08.440
+Hello and welcome again in this new section we're going to discover another future of the team with
+
+00:09.560 --> 00:15.560
+this future that we're going to discuss in the section is callet fold Totilas.
+
+00:15.950 --> 00:18.330
+So what is the fault.
+
+00:18.760 --> 00:21.800
+When we're going to talk about default rules.
+
+00:22.070 --> 00:25.110
+We need to talk a little about the heights of ability.
+
+00:25.130 --> 00:31.970
+If you remember in one of the previous sections we covered the height of obesity and we see the purpose
+
+00:32.030 --> 00:37.560
+of this to be a height of ability if you remember we had eat I.
+
+00:37.790 --> 00:45.560
+And when we achieved the heights of ability in our virtual machine in that host if something wrong happened
+
+00:45.560 --> 00:51.650
+to that host this virtual machine be out of service that's me in power.
+
+00:52.070 --> 00:56.150
+They do this fear that they try to reboot this virtual machine.
+
+00:56.190 --> 01:04.700
+In our modern hosts So all those tasks at the top and when this horse is out of service the machine
+
+01:05.090 --> 01:06.980
+rebooted in another host.
+
+01:07.040 --> 01:17.190
+We have our down time and in the raid environment the big enemy of NIIT manager is due down time.
+
+01:17.360 --> 01:23.000
+Any company will go into lost money when you have some down time.
+
+01:23.030 --> 01:33.020
+So for that all the company try to read down time try to get the maximum of the ability off their service
+
+01:33.200 --> 01:34.870
+their route et cetera.
+
+01:35.390 --> 01:42.320
+But industry when we use the height of ability when this virtual machine trick is done like this one
+
+01:43.040 --> 01:49.250
+it will take about 10 to 20 years to get that that's the biggest fear we know that the virtual machine.
+
+01:49.330 --> 01:52.590
+Indeed I will host is out of service.
+
+01:52.700 --> 01:56.880
+So we have about 20 seconds of downtime.
+
+01:57.140 --> 02:06.260
+Then do a try to reboot the virtual machine in another host and we'll take a time off the operating
+
+02:06.260 --> 02:09.320
+system need to complete to do its process.
+
+02:09.390 --> 02:16.440
+For example two or three minutes to complete loading of the operating system the application etc..
+
+02:16.580 --> 02:21.020
+So we have a downtime about three minutes.
+
+02:21.020 --> 02:26.480
+Also in another situation we have for example three virtual machine powerit of.
+
+02:26.560 --> 02:31.930
+So the fear of heights will try to power the first one that Hovda the highest priority.
+
+02:32.060 --> 02:37.780
+Then the second what they want if we have some votes order for this virtual machine.
+
+02:37.940 --> 02:43.610
+So the last one will take about five to 10 minutes to be available in our environment.
+
+02:43.760 --> 02:50.590
+So we have our down time and this is not a good think in a big company.
+
+02:50.600 --> 02:54.480
+So for that we have another service that its fault.
+
+02:54.740 --> 03:00.230
+So what is do for us or how the phone works.
+
+03:00.230 --> 03:07.700
+So the same we have to E6 I host of course when wrong is default but essence we need atlast.
+
+03:07.770 --> 03:09.020
+Joe E6 I host.
+
+03:09.050 --> 03:12.360
+We can't do the full two roles in one E-6 I host.
+
+03:12.480 --> 03:18.990
+Then we have a virtual machine inside that host that we're going to put it into for us.
+
+03:19.130 --> 03:24.150
+And when we enable default on in that's a virtual machine.
+
+03:24.930 --> 03:32.930
+At that moment defaulted arrays will try to clone this virtual machine as a mirror of it.
+
+03:32.970 --> 03:39.000
+So the virtual machine in this host is the same virtual machine in this house.
+
+03:39.060 --> 03:47.570
+The work at the same time and or work together with the same data and the same information.
+
+03:47.670 --> 03:52.920
+So it's like created a mirror virtual machine to the original one.
+
+03:52.920 --> 03:59.430
+When we enable do for us in this one the full details we will try to mirror this virtual machine inside
+
+03:59.540 --> 04:01.540
+another house.
+
+04:01.680 --> 04:08.190
+So we have two virtual machines that work out the same as one virtual machine.
+
+04:08.190 --> 04:12.930
+This one and this one have the same data the same read and write it down.
+
+04:13.110 --> 04:18.280
+So any user tried to update the data in this with your machine automatically updated.
+
+04:18.300 --> 04:20.690
+In this other virtual machine.
+
+04:20.940 --> 04:24.910
+So the two machine work together at the same time.
+
+04:24.960 --> 04:27.430
+So now we have two fold fold.
+
+04:27.510 --> 04:31.060
+So the benefits of the fall are not in this situation.
+
+04:31.120 --> 04:35.260
+I mean if something wrong happen to this E-6 I host.
+
+04:35.290 --> 04:38.320
+I mean this virtual machine will be out of service.
+
+04:38.580 --> 04:42.370
+We have another virtual machine that do the same thing.
+
+04:42.420 --> 04:43.190
+That's me.
+
+04:43.350 --> 04:48.510
+The user that connect to this vision machine when this virtual machine will service is automatically
+
+04:48.780 --> 04:50.330
+still connected to this one.
+
+04:50.490 --> 04:56.680
+And Duzer we're not going to fill any file or any down from dear side.
+
+04:56.730 --> 05:02.760
+He will keep in without any then Koppen from its own site.
+
+05:02.760 --> 05:05.880
+So in this situation we have zero downtime.
+
+05:05.880 --> 05:09.630
+If you remember the height of it was try to reboot to this one in this house.
+
+05:09.810 --> 05:14.150
+But no we already have the virtual machine bolted on and work perfectly.
+
+05:14.190 --> 05:18.190
+So the down time we'll take it is about zero.
+
+05:18.480 --> 05:21.190
+So this is the benefits of falls.
+
+05:21.360 --> 05:21.750
+Lance
+
+05:24.760 --> 05:33.810
+so kids are forced to read also have some requirements that need to be available to be used for it.
+
+05:34.150 --> 05:42.910
+That skali default maximum this that that computes for on this for 6.5 greed if you check this fear
+
+05:42.920 --> 05:50.860
+5:06 greedy you will find this information available and the condition to enable a full Torrijos in
+
+05:50.860 --> 06:00.070
+a virtual machine as this one the virtual disk in the virtual machine should not be more than 16 disk
+
+06:00.830 --> 06:04.340
+if you have more than 16 local disk.
+
+06:04.380 --> 06:06.480
+The fortress will not be available.
+
+06:06.610 --> 06:10.530
+The disk size should be less than 2 terabytes.
+
+06:10.570 --> 06:18.130
+If any virtual machine have our disk size more than two terabyte do for the rest we know to be available.
+
+06:18.130 --> 06:24.180
+Also some important information of course the virtual disk and size is not a problem in the right environment.
+
+06:24.480 --> 06:28.380
+All the virtual machine does not need more than 16 bits.
+
+06:28.690 --> 06:33.040
+Also the disk size always be less than 2 terabytes.
+
+06:33.040 --> 06:38.930
+It's probably when you fund the virtual machine have more than two terabytes only douceur the power
+
+06:38.930 --> 06:39.510
+base.
+
+06:39.790 --> 06:44.540
+Then we have the virtual C.P part virtual machine.
+
+06:44.680 --> 06:46.900
+The maximum is for spew.
+
+06:46.960 --> 06:53.790
+If you create a virtual machine with more than 4 speed this virtual machine we're not going to work
+
+06:53.790 --> 06:55.350
+with the forth.
+
+06:55.900 --> 07:03.940
+Also if you carry it on RAM for the virtual machine more than 64 gigabytes this machine will not be
+
+07:04.000 --> 07:05.980
+available for default.
+
+07:06.220 --> 07:10.960
+So the maximum is 64 gigabytes of run for c.p.
+
+07:10.990 --> 07:17.970
+Also I'm not the rule is how much virtual machine can exist or can be run it in a host.
+
+07:18.010 --> 07:21.490
+The maximum is for virtual machine potholes.
+
+07:21.520 --> 07:29.050
+If you create an is X eyeholes and create five virtual machine you can't enable the filterless for the
+
+07:29.050 --> 07:32.120
+five virtual machine the Marksman is for.
+
+07:32.140 --> 07:40.460
+Also the virtual city of potholes is eight the requirement that you can't do it without having this
+
+07:40.460 --> 07:46.400
+requirement is to have 10 gigabyte ethernet network adapter.
+
+07:46.520 --> 07:52.370
+The speed of our network adapter will be changing gobshites because the data will be read in the double
+
+07:52.530 --> 07:54.470
+placed division.
+
+07:54.650 --> 07:56.510
+We work from the double Isak's.
+
+07:56.510 --> 08:02.900
+I hope the connection will be faster to avoid that slow down time between the difference between machine
+
+08:03.230 --> 08:05.640
+and also you need a license of the 4.
+
+08:05.660 --> 08:11.980
+But it alas when you buy out the center server you need to buy delices that contains the fault.
+
+08:12.120 --> 08:19.840
+Lost any tool all of them were have it our lessons do entreprise license have all those future available.
+
+08:20.060 --> 08:25.470
+And of course we use tree elevation that give us our future for free.
+
+08:25.700 --> 08:27.890
+Or the 16 banks.
+
+08:27.950 --> 08:32.020
+So next we'll try to work in the real environment so see the next.

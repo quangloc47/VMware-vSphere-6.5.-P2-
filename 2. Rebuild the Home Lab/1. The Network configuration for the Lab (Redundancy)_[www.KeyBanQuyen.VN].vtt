@@ -1,0 +1,199 @@
+WEBVTT
+
+00:00.510 --> 00:01.330
+Slugging.
+
+00:01.620 --> 00:10.350
+So let's get a quick overview about do in your lab that I created and do step that we need to do to
+
+00:10.410 --> 00:17.110
+start our audience would love it and discover more futures on the VM where despair 6.5.
+
+00:17.430 --> 00:24.900
+So as I told you I created the center their work I create the center kind of Morocco and I treat Isak's
+
+00:24.990 --> 00:32.340
+I hauls in this that the center to start managing them and practice on them and you see we have three
+
+00:32.410 --> 00:35.850
+that thought this is the local store of eche of those ethics.
+
+00:35.930 --> 00:38.750
+I I one have that one in six.
+
+00:38.760 --> 00:44.940
+I do have that one and E-6 Atri you have to do that astore number two.
+
+00:45.270 --> 00:53.190
+The next step is do up a knew that I should add that I store or external storage as I convert it into
+
+00:53.190 --> 00:55.410
+Preview calls and stiction.
+
+00:55.560 --> 01:02.880
+But I will repeat the steps quickly not as much as I did into your course but just a quick overview
+
+01:03.090 --> 01:09.920
+like our refresh do start in the right way for our next sections.
+
+01:10.170 --> 01:19.530
+So then if we back to the E6 I number one I make some network integration to work perfectly.
+
+01:19.860 --> 01:22.920
+And this is like Indurain environment.
+
+01:23.100 --> 01:30.490
+It is always will start configuring the network perfectly to work without any problem for the next few
+
+01:30.570 --> 01:31.330
+years.
+
+01:31.540 --> 01:37.850
+So we got you coffee and let's get a quicker view about seating.
+
+01:37.980 --> 01:45.410
+And if you've got a physical adapter you will see that I have eight network adapter in this house.
+
+01:45.510 --> 01:49.910
+I created this yes I want with a network adapter.
+
+01:49.910 --> 01:57.180
+Its like in an environment if you have a physical host we have eight or 10 or 20 network adapter or
+
+01:57.180 --> 01:58.290
+physical adapter.
+
+01:58.290 --> 01:59.160
+Its the same.
+
+01:59.390 --> 02:09.020
+But for my love I chose to get at least 8 network adapter and you will see why we needed to create our
+
+02:09.150 --> 02:11.610
+safe environment for our love.
+
+02:11.640 --> 02:16.310
+And of course in the same as in the rate environment do have a safe environment.
+
+02:16.460 --> 02:21.730
+You need at least eight network adapter of course six or four.
+
+02:21.730 --> 02:22.600
+Its good.
+
+02:22.710 --> 02:32.280
+But my idea here is to sit tight ish service for a separate network adapter and I chose to network adapter
+
+02:32.280 --> 02:35.330
+for a service to have redundancy.
+
+02:35.670 --> 02:41.400
+If you remember we always get an alarmist was that this service used by one physical network adapter
+
+02:41.510 --> 02:48.210
+those not have redundancy that's mean if something wrong happened to this network adapter this musical
+
+02:48.210 --> 02:52.940
+adapter do service will last Edes function.
+
+02:53.010 --> 02:58.470
+So they always wanted to have at least two network adapter for each of those surveys.
+
+02:58.470 --> 03:02.010
+For example the height of ability the motion etc..
+
+03:02.070 --> 03:07.470
+So I create ish Isak's I host with at least eight network adapter.
+
+03:07.770 --> 03:12.230
+And then I separate them for different service.
+
+03:12.270 --> 03:18.570
+So if you box to video switch and we click on the videos which we have in this host is X I number one
+
+03:18.900 --> 03:26.150
+you see here that we have eight physical adapter and there we see that we have a service we have a do
+
+03:26.280 --> 03:27.700
+management network.
+
+03:27.720 --> 03:31.260
+If we click on Nate I give it the address number 10.
+
+03:31.290 --> 03:36.230
+If you remember this is the IP address that we created with the VM Cornelis 0.
+
+03:36.360 --> 03:45.030
+If we address 1 9 2 8 1 6 8 to 1 but 10 and this is the one that we use to connect to the house E6 I
+
+03:45.030 --> 03:51.000
+want this VM kernel or the management network use to network adapter.
+
+03:51.000 --> 03:53.610
+The first one and the second one thats me.
+
+03:53.640 --> 03:59.550
+If something wrong happened to this physical adapter I still have a connection to this host draw with
+
+03:59.790 --> 04:06.300
+SIGINT physical adapter and of course if you have more physical other it is always how common it is
+
+04:06.360 --> 04:13.020
+more than two for example four or five is in the region about how much physical adapter available in
+
+04:13.020 --> 04:15.630
+your server or in your hosts.
+
+04:15.990 --> 04:22.280
+But this is the most Rock'em on the minimum recommendation is to get to network adapter.
+
+04:22.290 --> 04:29.000
+Of course the requirement is at least one recommendation minimum recommendation is do more physical.
+
+04:29.000 --> 04:33.210
+Laughter is always good for the VM network.
+
+04:33.210 --> 04:39.420
+Thats me in the virtual machine in this host will do the a miniature adapter number four and number
+
+04:39.420 --> 04:39.840
+five.
+
+04:39.900 --> 04:42.900
+That's mean to physical adapter.
+
+04:42.980 --> 04:49.910
+I mean all those virtual machine in this house will connect to the network through two physical adapter.
+
+04:49.980 --> 04:54.700
+Then I create our mother the kernel for the Wii motion.
+
+04:54.780 --> 05:03.890
+I chose this one for the Wii motion and they give it back address one like thats 110 just separated
+
+05:04.310 --> 05:05.780
+from other the internet.
+
+05:05.810 --> 05:11.260
+E.P. I chose number 10 and I am the one that's mean if you see the VM.
+
+05:11.330 --> 05:13.510
+It other is 110.
+
+05:13.660 --> 05:15.800
+That's me this is for the host number 10.
+
+05:15.980 --> 05:24.020
+And for example the hot number 20 I chose one 20 then fill the holes in them but three I chose one 13
+
+05:24.090 --> 05:26.980
+etc. just on if B that I chose.
+
+05:27.030 --> 05:36.520
+Thats helped me easy to remember which parts I use and wish VM Cairney ease for weesh costs in our environment.
+
+05:36.560 --> 05:45.340
+So then we shouldnt also give it to come into work and after the Imake to make the so this is for the
+
+05:45.370 --> 05:45.820
+motion.

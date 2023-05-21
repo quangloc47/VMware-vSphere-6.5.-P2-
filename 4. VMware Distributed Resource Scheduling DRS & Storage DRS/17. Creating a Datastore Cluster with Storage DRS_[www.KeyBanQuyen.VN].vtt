@@ -1,0 +1,286 @@
+WEBVTT
+
+00:01.690 --> 00:02.490
+Hello again.
+
+00:02.770 --> 00:05.590
+So no will cover do stars.
+
+00:05.620 --> 00:08.880
+Dennis in the preview we work with the press.
+
+00:09.040 --> 00:12.730
+That's me in a debate of the brain or the virtual machine.
+
+00:12.730 --> 00:18.540
+That's me a resource of the Dushan machine that's used you and rant.
+
+00:18.620 --> 00:22.050
+No we're going to do stuff not depress me.
+
+00:22.100 --> 00:25.490
+Abdula bit of the body of the virtual machine.
+
+00:25.690 --> 00:26.290
+That's me.
+
+00:26.420 --> 00:30.380
+Our stodge Wii motion.
+
+00:30.380 --> 00:37.730
+So before we start the example of the stutterers lets me create some virtual machine some empty vision
+
+00:37.730 --> 00:44.690
+machine because the stars the rest will make our stars remission of those virtual machine and that will
+
+00:44.690 --> 00:45.850
+take a lot of time.
+
+00:46.010 --> 00:50.390
+As I told you I want to wait an hour until the process is complete.
+
+00:50.390 --> 00:57.890
+So for those I would create some empty virtual machine that will let me do the storage motion as quickly
+
+00:57.920 --> 00:59.200
+as possible.
+
+00:59.210 --> 01:02.690
+So for that I would create a new that your machine
+
+01:06.580 --> 01:15.050
+your virtual machine next then the virtual machine and from that that wasn't a miracle let's call it
+
+01:15.050 --> 01:18.720
+for example when seven
+
+01:23.170 --> 01:30.380
+dots next then we still do E6 I number but one next.
+
+01:30.560 --> 01:35.050
+Then we chose to put it into shape it's Trosch because it is a.
+
+01:35.080 --> 01:38.870
+We need to share it's trust and not to look at the past.
+
+01:39.070 --> 01:47.690
+So for example it puts them in London but what I Windows XP
+
+01:50.360 --> 01:52.920
+like thoughts next.
+
+01:52.960 --> 02:01.120
+And of course you see the direct route if you want to add some more but it's still not in public.
+
+02:01.550 --> 02:10.320
+So her next and finished before that let's give it a 10 revision
+
+02:13.530 --> 02:18.820
+then provision like that's OK next.
+
+02:19.020 --> 02:20.570
+And finish.
+
+02:20.660 --> 02:23.640
+Then we add another virtual machine.
+
+02:28.500 --> 02:45.500
+Next then when 7 03 like that next in the class or in D6 I won next day and we chose the one next and
+
+02:45.620 --> 02:51.510
+then next give it to Windows 7 for Gates and give it.
+
+02:51.670 --> 02:53.130
+If you want Windows XP
+
+02:55.940 --> 02:56.750
+like that.
+
+02:56.840 --> 03:04.900
+Next then into hardware let's try to give it to hardware to tried other option.
+
+03:04.970 --> 03:13.750
+So because in your hard disk of the first one we took you to Z gobshites storage.
+
+03:13.750 --> 03:19.390
+We did enjoy these capacities because of high order and Sagan Dujuan
+
+03:24.160 --> 03:29.100
+then probably provision next and finish.
+
+03:29.120 --> 03:37.970
+So now we have virtual machine that's bolted on to work as our real environment.
+
+03:40.150 --> 03:42.790
+Then the second one is on.
+
+03:43.060 --> 03:48.370
+No we have two virtual machine powered on that exist in the lot.
+
+03:48.380 --> 03:49.320
+Number one.
+
+03:49.700 --> 03:56.600
+So if we check law number one and shake it a virtual machine we have different machines and we have
+
+03:56.600 --> 03:57.500
+the Windows 7.
+
+03:57.500 --> 03:59.600
+Number two and Windows 7.
+
+03:59.600 --> 04:00.620
+Number three.
+
+04:00.970 --> 04:04.610
+So use those tools in our environment.
+
+04:04.610 --> 04:10.330
+Of course we need to create our data store clusters.
+
+04:10.340 --> 04:17.250
+So for that we click into the data center we have we got to storage and we have new data cluster.
+
+04:17.270 --> 04:24.970
+Of course we can't do it from displays or even from this place to me like that.
+
+04:24.990 --> 04:29.550
+We've got storage and we have a new data center cluster.
+
+04:29.810 --> 04:30.680
+So let's skip it.
+
+04:30.680 --> 04:34.890
+We do name that astore cluster to know that this is about to start.
+
+04:35.060 --> 04:42.530
+The cluster is about to host and this one for the class that we do our own storage DNS because we want
+
+04:42.620 --> 04:44.840
+active distorters next.
+
+04:45.380 --> 04:49.330
+Then the same as we did in do class start different option.
+
+04:49.370 --> 04:51.050
+When we enable the cluster.
+
+04:51.440 --> 04:54.750
+So we have not automation that's mean we'll be manually.
+
+04:54.770 --> 05:00.820
+It will give you an indication to make some start as motion and you need to accept it to do it.
+
+05:00.920 --> 05:05.770
+Then we have fully automated and the same odds as the preview of the cluster.
+
+05:05.780 --> 05:09.990
+The rest of the cluster we have the space balance.
+
+05:10.100 --> 05:17.180
+Me if you want to override the rule about to balance parliament the input output you want to do it automatically
+
+05:17.180 --> 05:25.500
+or manually then to rule on foetid automation for the rule if we in rule should be used to cluster seating
+
+05:25.520 --> 05:31.110
+or fully automated all manually then Polisi the VM invocation etc..
+
+05:31.340 --> 05:35.330
+So the same sitting as in do DNS.
+
+05:35.480 --> 05:46.230
+Then we click Next also had to chose the input output metric like what we did in memory and spew unit
+
+05:46.440 --> 05:49.360
+enabled input output metric for the start.
+
+05:49.400 --> 05:51.940
+That's mean instead of size.
+
+05:51.950 --> 05:59.530
+Also track the input output into stars then just be Sci-Fi's decision space.
+
+05:59.540 --> 06:06.380
+For example in ad it's important you need to take action then minimal freespace you reserve some minimal
+
+06:06.380 --> 06:08.660
+space for every shift it's trash.
+
+06:08.660 --> 06:13.660
+That means every shedded straws should have at least 15 gigabytes of free space.
+
+06:13.850 --> 06:21.810
+If any machine store will consume more space from this shaded storage and we have less than 15 gigabytes
+
+06:21.830 --> 06:28.910
+or so then the start address will take action and migrate do virtual machine from this shaded storage
+
+06:28.910 --> 06:32.250
+to another one and so on and so on.
+
+06:32.720 --> 06:37.680
+So next here we need to do a cluster that's mean different.
+
+06:37.730 --> 06:41.210
+That will be included in this dress Stosh.
+
+06:41.750 --> 06:44.360
+Of course we are standalone hosts and the cluster.
+
+06:44.390 --> 06:53.360
+We only have clusters Now if we click next and you need to get only do shared storage between the different
+
+06:53.360 --> 06:57.610
+and tossed you see to show that Astar connected to our host.
+
+06:57.620 --> 06:58.600
+This is the difference.
+
+06:58.670 --> 07:05.900
+Shedid stores or the store that's connected to different host in this cluster cluster that we have we
+
+07:05.900 --> 07:13.760
+have a 6 1 and 2 and 3 connected to do Love number one and number two if we chose to show that our store
+
+07:13.760 --> 07:15.820
+connected to same hosts.
+
+07:15.920 --> 07:18.080
+Mean only some see this.
+
+07:18.090 --> 07:23.590
+So you see the look at the start of the whole number want to look at that sort of the host number two
+
+07:23.880 --> 07:30.650
+and do look at the passport of E-6 I number three of course this one does not want to work for you in
+
+07:30.990 --> 07:37.490
+the press in the store at the rest because its need our shared storage to track all the host did show
+
+07:37.490 --> 07:38.130
+all of them.
+
+07:38.150 --> 07:41.640
+You can check the art of them.
+
+07:41.780 --> 07:45.830
+So in my situation we need to use that are still connected to the host.
+
+07:45.860 --> 07:50.170
+We select line 1 and 2 because using only one.
+
+07:50.270 --> 07:58.130
+Its not going to work for the storage there is need at least two shared storage unit to select both
+
+07:58.220 --> 08:00.830
+of them or maybe three four five etc..
+
+08:01.040 --> 08:05.610
+The minimum is to shedded trash so we click next.
+
+08:05.660 --> 08:13.820
+Here is a quick overview about it then finish and the stars press will be enabled in this data center
+
+08:14.100 --> 08:14.760
+by 10.

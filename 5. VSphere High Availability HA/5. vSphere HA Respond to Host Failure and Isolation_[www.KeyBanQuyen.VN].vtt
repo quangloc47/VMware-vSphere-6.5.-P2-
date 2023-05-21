@@ -1,0 +1,433 @@
+WEBVTT
+
+00:00.180 --> 00:02.320
+So we got your eyes right.
+
+00:02.730 --> 00:07.510
+And we click it to it on.
+
+00:07.530 --> 00:13.890
+So when we do on this fear heights of ability we have another option right there but we're going to
+
+00:13.890 --> 00:15.100
+see it later.
+
+00:15.540 --> 00:19.830
+But no it's concentrate only on this fear or repeat.
+
+00:19.860 --> 00:26.400
+So as you see here when we turn on the VCR I really think it's too hot and hostile fire at the level
+
+00:26.460 --> 00:27.640
+of the host.
+
+00:27.660 --> 00:34.950
+So when we have a host by a lot what we should do it should restart the VM restart being using DMA is
+
+00:34.950 --> 00:37.040
+part priority order.
+
+00:37.530 --> 00:41.010
+So this is the rule that's going to use.
+
+00:41.250 --> 00:45.750
+So let's get and see some options that we have in do.
+
+00:45.850 --> 00:46.130
+Right.
+
+00:46.150 --> 00:48.390
+And reality one by one.
+
+00:48.450 --> 00:56.970
+So the first one filer and response you can config how we spend heyes audibility response to the final
+
+00:57.090 --> 01:02.120
+condition on this cluster the full filer condition are supported.
+
+01:02.260 --> 01:06.660
+Haast that means the first one is the host then host Israelian.
+
+01:06.840 --> 01:10.750
+If you remember the host is relation like Mustard's league.
+
+01:10.830 --> 01:19.540
+The VM component protection datastore we'd be n and ADP then Duveen and application.
+
+01:19.780 --> 01:22.240
+So let's discover them one by one.
+
+01:22.240 --> 01:29.560
+Of course if we disable enabling host monitor of course we only have to do it via monitoring when we're
+
+01:29.620 --> 01:31.210
+active to hide.
+
+01:31.270 --> 01:33.960
+Will it work at the level of the host.
+
+01:34.000 --> 01:40.450
+And you see all this option is desirable only the host file response that have enabled we have disable
+
+01:40.540 --> 01:41.660
+and enable.
+
+01:41.830 --> 01:47.880
+Of course if we make disable that mean we disable the heights of ability.
+
+01:48.040 --> 01:55.900
+So we need to make it enable to get to do benefits of the height of it.
+
+01:55.960 --> 02:02.760
+But when we checked this one no we have to hide our ability at the level of the virtual machine.
+
+02:02.890 --> 02:03.430
+That's me.
+
+02:03.460 --> 02:10.130
+It will track the virtual machine only vim monitoring only the them and application monitoring.
+
+02:10.170 --> 02:10.830
+Love it.
+
+02:10.840 --> 02:17.320
+If you remember I told do that I heard a bit from Master hostel sleve house.
+
+02:17.410 --> 02:21.280
+Then we have also I heard the beat to do virtual machine.
+
+02:21.280 --> 02:27.150
+Also we have I heard the application Indu vitriol machine.
+
+02:27.290 --> 02:29.710
+We're going to talk about it a little.
+
+02:30.220 --> 02:38.140
+But as always this is like most other windsock like extremely other and so you should check carefully
+
+02:38.140 --> 02:43.180
+when you use this one because you will get a lot lot of other in your environment.
+
+02:43.180 --> 02:50.300
+So this is very very advanced and you should be attention to work with it.
+
+02:50.320 --> 02:56.700
+So of course we work we do Haast monitoring and we have house fire response.
+
+02:56.860 --> 03:04.470
+If we click on it to get more details we have two option are low you config host monitoring and fall
+
+03:04.480 --> 03:06.140
+over on this cluster.
+
+03:06.400 --> 03:13.770
+So the first one is disable lets mean we disable the horse trading day hostel which is journey of where
+
+03:13.820 --> 03:16.170
+the center will not respond to the host by an hour.
+
+03:16.390 --> 03:23.300
+When we chose this one if one of the host gets a fire look at the height of when not do anything.
+
+03:23.500 --> 03:29.980
+But of course logically the height of ability should restart the virtual machine inside another available
+
+03:30.130 --> 03:30.860
+host.
+
+03:30.880 --> 03:40.330
+So we chose Wistar VM with a host Finder is detected VM will be restarted in order determinates by did
+
+03:40.440 --> 03:41.680
+restart priority.
+
+03:41.680 --> 03:48.040
+Of course they will restart the virtual machine but will take a priority order to restart the virtual
+
+03:48.040 --> 03:49.690
+machine inside the stores.
+
+03:49.840 --> 03:57.820
+As we talked before some mushy issues about it own Firstly they say the machine should be powered later.
+
+03:57.880 --> 04:03.940
+For example the active their potential departed on the desk spacially to be voted on to give the IP
+
+04:03.940 --> 04:07.860
+address for the different server the DNS etc..
+
+04:07.990 --> 04:11.610
+Then we have some application that connected to that other bus.
+
+04:11.610 --> 04:17.760
+For example the database virtual machine should be powered on first then the application connected to
+
+04:17.760 --> 04:20.490
+just the babies should be powered later.
+
+04:20.590 --> 04:28.210
+So what he ultimately chose Dooke order determinates by dear redstart priority from different tasks.
+
+04:29.110 --> 04:37.090
+Then we have the option default VM restart the routine we chose between medium lowest and hightest.
+
+04:37.090 --> 04:45.460
+You chose the restart Petrucci should take the restart priority as hightest as will or should use the
+
+04:45.580 --> 04:57.190
+last one and then power start boated on one by one then we have VM dependency restart condition this
+
+04:57.730 --> 05:06.870
+option Itek is in rotation about do virtual machine in the House do restart condition.
+
+05:07.350 --> 05:10.060
+We see right where it used the resource allocated.
+
+05:10.110 --> 05:15.090
+That's mean he will restart the virtual machine in a condition of the resource.
+
+05:15.120 --> 05:19.170
+Then we have our own guests had to be detected.
+
+05:19.170 --> 05:26.880
+That's mean he sent ahead to be to do operation system order every your machine and this heart beats
+
+05:27.930 --> 05:30.040
+use it by the VM where.
+
+05:30.190 --> 05:35.630
+And in the previous course I told you that's a DVM where truth is unnecessary software.
+
+05:35.880 --> 05:42.500
+Every virtual machine created in your environment automatically you should still do VM withdrawal.
+
+05:42.510 --> 05:47.240
+So does that mean we're all give you all look a lot of benefits.
+
+05:47.370 --> 05:55.680
+And one of them is the Hertz bits between the virtual machine and the cluster that manage those virtual
+
+05:55.680 --> 06:02.800
+machine didn't have the level of the application we detected to help it's up to a patient system the
+
+06:02.970 --> 06:06.490
+application as valid inside the operating system.
+
+06:06.570 --> 06:08.280
+Also have a heartbeat.
+
+06:08.430 --> 06:16.200
+This one is more than that and we don't use it only if we have some huge environment.
+
+06:16.240 --> 06:19.900
+And the priority of every virtual machine etc..
+
+06:20.190 --> 06:26.210
+So this is something extremely sick but we always use resource allocated.
+
+06:26.370 --> 06:30.190
+But let's get a quick overview about the different one.
+
+06:30.270 --> 06:34.260
+So when we chose restos allocated here work automatically and deceit.
+
+06:34.470 --> 06:41.780
+When we start a virtual machine when we chose Bharath own that's mean we in the first virtual machine
+
+06:41.920 --> 06:46.180
+it on to go to the second one and it on.
+
+06:46.290 --> 06:52.740
+Then when the Stigand want posted on here we've got to do it don't sit up he don't get about this.
+
+06:52.740 --> 06:56.100
+This machine completes the power process or not.
+
+06:56.100 --> 06:59.700
+He will start powering on one by one.
+
+06:59.700 --> 07:02.910
+Then we have the guests head a bit deducted.
+
+07:03.060 --> 07:03.640
+That's me.
+
+07:03.750 --> 07:10.410
+When he powered the first machine of course all this actually happened when a horse gets filed.
+
+07:11.260 --> 07:19.450
+When a horse is out of service you will start rebooting the virtual machine exists in that host.
+
+07:19.450 --> 07:26.430
+In other hosts with this condition this gets hurt bit detected.
+
+07:26.710 --> 07:27.900
+That's me.
+
+07:28.950 --> 07:34.060
+The second group or virtual machine because we create some group for example the group number one.
+
+07:34.160 --> 07:36.410
+Number two didn't do group number three.
+
+07:36.540 --> 07:44.120
+Restarting the group number for the first group in the toast will be powered on.
+
+07:44.400 --> 07:52.200
+And then when he did text that the operating system in that first machine or that first group of machine
+
+07:52.380 --> 07:57.560
+powered on it will send our heart beats to the operating system.
+
+07:57.740 --> 08:04.680
+When the system respond that yes the operating system is powered on perfectly and no problem detected
+
+08:05.150 --> 08:12.840
+then it will start bolted on the second machine or the second group of machine that showed started at
+
+08:12.890 --> 08:15.120
+the second priority.
+
+08:15.630 --> 08:22.010
+So for that use do her best to detect if the operating system is bolted on.
+
+08:22.020 --> 08:28.960
+And of course he to white angel to get the head beat when he power a virtual machine.
+
+08:29.030 --> 08:33.760
+He gets about 600 SIGINT to get.
+
+08:33.780 --> 08:34.430
+I heard.
+
+08:34.620 --> 08:36.650
+When we powered the first machine.
+
+08:36.690 --> 08:40.680
+He weighs about six hundred six and we tend heard the beat.
+
+08:40.740 --> 08:45.590
+If he gets the head start powering the ticket machine.
+
+08:45.750 --> 08:51.620
+If he does not get in your head it's after six hundred.
+
+08:51.630 --> 08:57.270
+Second it will automatically go to the second machine and bought on because it is illegibly true way
+
+08:57.270 --> 09:07.500
+to the first machine to put it on and all the upcoming machine state both of which do get hurt.
+
+09:07.710 --> 09:14.850
+So for that he automatically ignored the beads from the first match your machine and the go to the stick
+
+09:14.870 --> 09:16.690
+do and then pour it on.
+
+09:16.800 --> 09:18.890
+Give it a 600 second.
+
+09:19.110 --> 09:25.020
+If he does not get in a head to beat he would go to the third one if he gets a heart it's only after
+
+09:25.020 --> 09:29.260
+one minute he will start to do one and so on and so on.
+
+09:29.400 --> 09:36.510
+And the same for do of her beats for example if you add at the base server in the first group and up
+
+09:36.540 --> 09:43.230
+server in a second group in this situation for example is somebody a machine for the database and the
+
+09:43.230 --> 09:46.300
+second video machine for the server.
+
+09:46.710 --> 09:49.800
+That's connected with the database of a server.
+
+09:49.830 --> 09:55.600
+We'll wait till the database is up and running with a heartbeat.
+
+09:55.680 --> 09:58.380
+That's mean when hit power on the virtual machine.
+
+09:58.380 --> 09:59.770
+That's how the database.
+
+09:59.870 --> 10:01.970
+He didn't give it a six hundred.
+
+10:02.010 --> 10:04.080
+So good to get.
+
+10:04.110 --> 10:09.870
+I heard tweets from the application of the database not only to open it and then know he will wait to
+
+10:09.870 --> 10:13.830
+do application to be ready to respond.
+
+10:13.860 --> 10:16.240
+That is when you power a virtual machine.
+
+10:16.770 --> 10:21.400
+The operating system parted and then the database start work.
+
+10:21.480 --> 10:26.460
+After one or two minutes it will take time to read this application.
+
+10:26.460 --> 10:33.960
+When this application powered on and ready to use it it will send a heartbeat to do cluster.
+
+10:33.970 --> 10:34.670
+That's yes.
+
+10:34.680 --> 10:38.040
+The application is ready for work.
+
+10:38.140 --> 10:47.130
+Then will star power and on the second virtual machine about a do up server that is that database.
+
+10:47.790 --> 10:54.740
+But of course also in some reason system enables to get the head to be application server.
+
+10:54.750 --> 10:58.490
+We're waiting for 600 segment before it start.
+
+10:58.560 --> 11:04.200
+If something wrong happened to do that base and there's not a stand in a debates here will automatically
+
+11:04.260 --> 11:06.160
+wait after 600 sick.
+
+11:06.360 --> 11:11.520
+Then he will power on the stick and the virtual machine or the second group of it through the machine.
+
+11:11.520 --> 11:13.880
+So this is the idea about this option.
+
+11:14.040 --> 11:19.500
+Of course we use the resources allocated because just head to bits and obligacion had to beat something
+
+11:19.560 --> 11:26.220
+other than extremely others and you need to have open them and the application but do read about it
+
+11:26.220 --> 11:28.590
+on it starts one by one.
+
+11:28.680 --> 11:30.500
+Then it is allocated.
+
+11:30.570 --> 11:36.010
+You know if there are more space to bolt on a modern military machine if for example power.
+
+11:36.060 --> 11:41.790
+The first virtual machine the industry can do what they want to power on the machine but the resellers
+
+11:41.910 --> 11:51.020
+in the other host does not support the Turing machine so he will stop at only those ones that have results.
+
+11:51.060 --> 11:53.240
+So this is the different option that we are.
+
+11:53.340 --> 11:56.640
+And next we'll see the other options we see in the next video.

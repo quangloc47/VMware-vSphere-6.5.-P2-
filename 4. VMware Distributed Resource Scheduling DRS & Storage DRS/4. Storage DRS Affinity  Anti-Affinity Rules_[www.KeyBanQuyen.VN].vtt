@@ -1,0 +1,184 @@
+WEBVTT
+
+00:02.350 --> 00:12.600
+Blogging so after seen the affinity rule of them two of them know we have another kind of affinity is
+
+00:12.600 --> 00:18.650
+do these to VM disk affinity in the previous one.
+
+00:18.720 --> 00:22.530
+We see the affinity at the level of the host.
+
+00:22.570 --> 00:28.270
+No we'll see the affinity of the level of risk of stars.
+
+00:30.280 --> 00:38.270
+At the same idea for example we have two virtual machine that's working the same host.
+
+00:38.500 --> 00:43.380
+Also the stars should work at the same hosts all in prison.
+
+00:43.550 --> 00:47.460
+Do stars of those virtual machines fall into separate Stosh.
+
+00:47.600 --> 00:58.100
+If you remember the one of the exchanges server we have a next chance with two case a case 1 and Case
+
+00:58.130 --> 01:02.090
+2 that should run on two separate hosts for any reason.
+
+01:02.120 --> 01:08.510
+One of the host tickets that the second host will keep working and the exchange server will be available
+
+01:08.510 --> 01:11.530
+for the company without any problem.
+
+01:11.600 --> 01:18.830
+It must mean that those virtual machines have the storage of the same data store or the same shared
+
+01:18.890 --> 01:19.760
+store.
+
+01:20.240 --> 01:23.110
+If something wrong happened to do that.
+
+01:23.340 --> 01:28.180
+Or just shit it was due to server will be out of service.
+
+01:28.220 --> 01:36.080
+So again we lost the connection to the Exchange server for that we need to separate that out store or
+
+01:36.080 --> 01:42.880
+separate shedded stores to Aranda difference between a machine that's me and case one should run in
+
+01:42.880 --> 01:46.090
+us different server and then do case one.
+
+01:46.090 --> 01:50.780
+Also should store the data in different shared storage.
+
+01:51.380 --> 01:53.930
+So how do you see the VM to VM.
+
+01:53.980 --> 01:55.230
+Antti affinity.
+
+01:55.270 --> 01:59.020
+What's I mean don't run vim's on the same got us.
+
+01:59.230 --> 01:59.850
+That's me.
+
+01:59.900 --> 02:01.360
+This is the usual.
+
+02:01.370 --> 02:08.100
+Never ran this virtual machine and virtual machine in the same datastore always separates them two different
+
+02:08.280 --> 02:08.880
+stores.
+
+02:09.020 --> 02:15.350
+For example this virtual machine will be started in line number one and this second one the virtual
+
+02:15.350 --> 02:21.480
+machine or decays on top of the exchange should be started in do LAN talk.
+
+02:22.900 --> 02:29.980
+So oh so any reason we have some virtual machine that shows the beat run on the same bus.
+
+02:30.190 --> 02:37.010
+I don't know you an example but there are some situations that you would need to run do be on the same
+
+02:37.230 --> 02:37.950
+Bastar.
+
+02:38.110 --> 02:47.180
+So for that for example Hyde speed of connection between that store one at the top of store to as the
+
+02:47.180 --> 02:52.760
+same example for the shared point and the database they should be at the same store to have a speed
+
+02:52.760 --> 02:58.130
+connection between rides and rid of this two battery and machine.
+
+02:58.130 --> 03:01.130
+So this is do start out there as a group.
+
+03:01.370 --> 03:05.370
+That's how the affinity believe it the VM does.
+
+03:05.570 --> 03:12.890
+Also we have another kind of Discovery team that is information about to do a hard drive out of the
+
+03:12.890 --> 03:14.130
+virtual machine.
+
+03:14.270 --> 03:22.220
+So some video machine for example to treat our driver took a look at her driver some database that need
+
+03:22.370 --> 03:30.800
+at least three or four look on her driver in Osterberg to work perfectly and do virtual how driver that
+
+03:30.800 --> 03:31.280
+we have.
+
+03:31.280 --> 03:36.350
+It's got its V.M. decie want to be in decie top when we add another driver to this virtual machine and
+
+03:36.350 --> 03:38.200
+will because it's being decie tree.
+
+03:38.330 --> 03:47.420
+So we have some rules that we should run VM decie one and VM decie to do same storage and of course
+
+03:47.420 --> 03:53.910
+by default every virtual machine created would start all the VM decie in the same stodge.
+
+03:53.930 --> 03:56.510
+This is by default root.
+
+03:56.760 --> 04:02.840
+And if you check the folder of the virtual machine if you remember that when we browse the folder after
+
+04:02.970 --> 04:08.660
+that store LAN number one we see that the name of the virtual machine when we click on it we see different
+
+04:08.800 --> 04:10.410
+file of imagery.
+
+04:10.590 --> 04:12.510
+And one of them is the VMT key.
+
+04:12.720 --> 04:18.900
+If this machine have all hardly ever will seem to want and even decie tool if we have for you we see
+
+04:18.990 --> 04:21.670
+the Endacott tree and Vandercook for etc..
+
+04:21.900 --> 04:26.440
+So by default always Aldie vindicates started in the same store.
+
+04:26.640 --> 04:34.350
+But in any reason you want to separate those two VM Dickey in two separate spot.
+
+04:34.470 --> 04:42.180
+You don't need to Abda VM disk Antti affinity that will separate the VM hard disk onto same Bastar would
+
+04:42.250 --> 04:47.320
+surprise the VM do you want to separate that out store.
+
+04:47.580 --> 04:49.620
+So this is not a route that you can.
+
+04:49.620 --> 04:51.310
+Are they two separate.
+
+04:51.330 --> 04:55.260
+Do local disk of virtual machine.
+
+04:55.290 --> 05:01.770
+So this is the idea about there is and still are there is a rule that's called affinity and Auntie affinity
+
+05:02.150 --> 05:03.770
+you see in the next video.

@@ -1,0 +1,163 @@
+WEBVTT
+
+00:01.430 --> 00:02.490
+Hello again.
+
+00:02.490 --> 00:07.960
+So in new situations when you're complete downloading different updates fine.
+
+00:08.340 --> 00:15.030
+Of course in my situation I counsel this process so I don't have to batch file available able.
+
+00:15.120 --> 00:23.540
+Then your next step is to apply the update to the difference is I just simply got to do remediate of
+
+00:23.540 --> 00:26.540
+course after clicking on the new date.
+
+00:26.840 --> 00:34.320
+Then it asks you to select a mediator for the host remediation or for the virtual machine mediation.
+
+00:34.350 --> 00:38.460
+This one for the virtual machine and this one for the horse remediation of course.
+
+00:38.460 --> 00:45.990
+No we'll start with the host then the different but busline if we took this one it shows you the upgrade
+
+00:46.120 --> 00:49.160
+line for the virtual machine you check the virtual machine.
+
+00:49.420 --> 00:57.270
+But Adamsville the host we check do your busline knew the one that we have and connected with different
+
+00:57.290 --> 00:58.520
+is because I host.
+
+00:58.520 --> 01:05.750
+We click next then we select the target he asks I hold that we want to add starved updates on it of
+
+01:05.750 --> 01:14.200
+course in any rate environment you select our hosts 10:28 1096 I host and click next.
+
+01:14.300 --> 01:20.030
+But in my situation you can for example chose only one or two or three and you want that you want.
+
+01:20.030 --> 01:26.110
+So for example we chose out of a day or our costume number of Isak's I host.
+
+01:26.120 --> 01:35.730
+So we click next then your remediation I include a dynamic busline the exact list of applicable Poche
+
+01:35.730 --> 01:39.760
+might change before it mediates AUKer even if the list got change.
+
+01:39.760 --> 01:44.220
+Any parts that you exclude know will not be applied.
+
+01:44.520 --> 01:49.190
+So here it shows you the definitive update that's need to be studied.
+
+01:49.250 --> 01:55.810
+It takes a host because we selected it because this is the 15 elements should be studied and it show
+
+01:55.810 --> 01:59.240
+your days that updates file downloaded or not.
+
+01:59.250 --> 02:02.930
+If they are done with it you will see a green arrow right here.
+
+02:02.930 --> 02:04.850
+That's me the file is already exists.
+
+02:04.860 --> 02:09.810
+If not it shawled past the stage step before the installation.
+
+02:10.140 --> 02:12.120
+So of course you can check out the one that you want.
+
+02:12.110 --> 02:13.770
+The one that you didn't want didn't.
+
+02:13.830 --> 02:22.350
+Next then you trolls ask you don't ask or ignore warning about it responded hard or the voice and not
+
+02:22.350 --> 02:26.580
+on God's support via a method that was thought and continue with remediation.
+
+02:26.580 --> 02:26.990
+That's me.
+
+02:27.000 --> 02:33.940
+If there are upgrade that will not support the VM as files that are stored.
+
+02:33.960 --> 02:40.090
+If you have the FS files at the store and upgrade the new upgrade does not support this one.
+
+02:40.140 --> 02:42.150
+It will give you an image size that you want.
+
+02:42.150 --> 02:45.020
+Do you want to On-Star this upgrade or not.
+
+02:45.030 --> 02:51.930
+If you want to install this upgrade and don't care about the VM f that thought you can chose this one
+
+02:51.990 --> 02:57.770
+ignored warnings about and supported the hardware device and not supported VM.
+
+02:57.780 --> 03:04.080
+But I still Ussel some hardware for example some spew will not be supported in a new version of the
+
+03:04.170 --> 03:11.370
+Isak's I do so old one so it will give you a warning that this new version does not support the sick
+
+03:11.370 --> 03:14.460
+view that you have or do specific hardware.
+
+03:14.760 --> 03:20.250
+So you need to think carefully about these want to ignore the warning about unsupported hardware to
+
+03:20.250 --> 03:21.780
+rest and no longer support it.
+
+03:21.820 --> 03:28.590
+If it is not at all select the checkbox you should be aware of the functional application of ignoring
+
+03:28.590 --> 03:29.360
+the warning.
+
+03:29.430 --> 03:35.310
+In certain cases ignoring warnings about unsupported hardware device and no longer supported ediface
+
+03:35.380 --> 03:42.060
+that might cause instability instability to abuse the hosts or lack of needed file.
+
+03:42.270 --> 03:44.340
+So you should care about this one.
+
+03:44.340 --> 03:48.220
+It is highly recommended to check this one to avoid the problem.
+
+03:48.270 --> 03:55.950
+Then of course you can specific skidoos time to grant updates in a specification Timet Morakot immediate
+
+03:55.950 --> 04:02.590
+schedule Gibbie's a name description and you chose the specific time to wrap this up.
+
+04:04.330 --> 04:09.250
+So for example let's do with art like that example at 11 pm.
+
+04:09.310 --> 04:10.670
+Do upgrade Winstock.
+
+04:10.820 --> 04:13.410
+But of course in your situation you should do it right.
+
+04:13.440 --> 04:15.700
+No see the application right.
+
+04:15.710 --> 04:20.120
+No so next then unimportant information.
+
+04:20.120 --> 04:20.600
+I tell.

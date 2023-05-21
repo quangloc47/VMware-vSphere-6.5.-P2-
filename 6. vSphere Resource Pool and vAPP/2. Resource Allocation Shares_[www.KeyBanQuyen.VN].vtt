@@ -1,0 +1,196 @@
+WEBVTT
+
+00:01.380 --> 00:06.530
+So for that we have an auction it's a resource share in a physical host.
+
+00:06.540 --> 00:14.900
+We share the resource available for the different vitrine machine how it was that we can create some
+
+00:14.900 --> 00:20.780
+resource pool that will let us to share the physical resource available in a house.
+
+00:20.780 --> 00:23.880
+So in this picture I tell you this is physical.
+
+00:23.880 --> 00:28.160
+I said what we have or even the different server that we have.
+
+00:28.160 --> 00:33.420
+By the way we couldn't use the resource poor if we don't have a cluster.
+
+00:33.470 --> 00:37.680
+The resource pool is available only in the cluster.
+
+00:38.120 --> 00:44.660
+So when we talk about the cluster that mean this cluster have three four five physical servers.
+
+00:44.810 --> 00:51.830
+So the resources that we talk about it is the Popal resource available in that cluster the total of
+
+00:51.830 --> 00:53.850
+the physical resource.
+
+00:54.500 --> 00:59.440
+So for example we have our cluster the top 100 gigabyte of frame.
+
+00:59.510 --> 01:06.400
+So the roots are a resource pool that we have in this situation is one hundred gigabyte of.
+
+01:06.650 --> 01:10.830
+So when we created our original storm like this one we have resource pool.
+
+01:10.910 --> 01:19.040
+We pick up parts of that available resource in a cluster or in that resource that were going to create
+
+01:19.040 --> 01:22.050
+for example to create a resource with top physical.
+
+01:22.050 --> 01:27.870
+So thats when we talk about the total of those two physical cost.
+
+01:28.080 --> 01:32.530
+So for example in this situation we have 100 gigabyte offerings.
+
+01:32.700 --> 01:38.550
+When we create our resource for number one and give it up part of that resource pool thats me we give
+
+01:38.550 --> 01:43.640
+it up also in terms of the resource pool for example in this situation we have about 14 percent.
+
+01:43.750 --> 01:54.240
+But this one will get 40 gigabytes or frame and also a 40 percent off C.P. that we have in this resource
+
+01:54.240 --> 02:01.260
+pool then we create our secondary source one like this one and he was about 20 percent of the resource
+
+02:01.260 --> 02:07.340
+pool thats mean about 20 gigabyte Overeem then 20 percent of the CPI.
+
+02:07.510 --> 02:14.710
+And then the available resource we can create virtual machine tools do the rest of the resource thats
+
+02:14.800 --> 02:18.990
+me and the other 40 gigabytes and 40 percent of the speed.
+
+02:19.050 --> 02:25.350
+So we have a router resource pool that this one we can't manage it or can't change it because this is
+
+02:25.350 --> 02:26.910
+the available physical resource.
+
+02:26.910 --> 02:35.100
+Of course if we want upgraded you need to buy a hardware by upgrading to spew and dream but we can't
+
+02:35.130 --> 02:35.570
+do it.
+
+02:35.620 --> 02:41.770
+Asadullah of the software but hit into software we can't control the resource pool.
+
+02:41.970 --> 02:48.090
+But of course in a limitation of the available physical resource we can't give this one more than one
+
+02:48.210 --> 02:56.550
+hundred gigabytes because we have only one hundred gigabytes of RAM so when we create a resource for
+
+02:56.550 --> 03:00.800
+number one or source or not but of course we give it any name that we want.
+
+03:00.810 --> 03:06.510
+Then of course we can create a resource pool number three to put this virtual machine or we can simply
+
+03:06.570 --> 03:12.560
+leave the other machines the rest of the resource pool then inside the resource pool for example this.
+
+03:12.630 --> 03:19.530
+Number two we can create two virtual machine this virtual machine will use DO available a little sport
+
+03:19.560 --> 03:27.850
+into number two and have a limitation of that resource for example this one have 20 bytes of rain.
+
+03:27.850 --> 03:34.810
+So this virtual machine the two of which your machine can consume only 20 gigabytes of frame for example
+
+03:34.850 --> 03:41.320
+the situation we give this one about 16 gigabytes of Vermont and this one about 16 byte over them when
+
+03:41.590 --> 03:45.040
+they start consuming the fall of the.
+
+03:45.100 --> 03:46.370
+Available right here.
+
+03:46.420 --> 03:50.330
+He can't consume more than 20 gigabytes of RAM.
+
+03:50.380 --> 03:56.020
+If you remember in the previous slide I tell you that sometimes we create our virtual machine with 4G
+
+03:56.130 --> 03:58.780
+bytes but it's consume only two gigabytes.
+
+03:58.780 --> 04:02.010
+When this virtual machine start consume four gigabytes.
+
+04:02.080 --> 04:08.500
+But it's cost you do rent of another virtual machine the other which your machine can't find any free
+
+04:08.860 --> 04:10.230
+reign to use it.
+
+04:10.570 --> 04:17.590
+But in this situation with this virtual machine to work together if this one start consume more it's
+
+04:17.830 --> 04:25.810
+consume it only for this virtual machine and this one can't touch any room of any other virtual machine
+
+04:25.840 --> 04:27.170
+outside of disport.
+
+04:27.310 --> 04:33.330
+It is limited by the 20 gigabytes of energy in this resource pool right here.
+
+04:34.490 --> 04:40.600
+Them when we create a resource for number one we give up a virtual machine four and five.
+
+04:40.770 --> 04:45.800
+And also we can create another resource pool inside our resource pool.
+
+04:45.830 --> 04:48.870
+That's not a child of arrestors board.
+
+04:48.890 --> 04:50.810
+So we create the resource pool number three.
+
+04:50.840 --> 04:53.570
+For example give is 15 percent of this race was born.
+
+04:53.570 --> 05:00.560
+That's I mean this one that gets 40 gigabytes of run these races or we get 20 gigabytes of room and
+
+05:00.560 --> 05:04.420
+this virtual machine will use the rest of this one.
+
+05:04.430 --> 05:07.310
+That's mean 20 gigabytes for.
+
+05:07.820 --> 05:14.440
+So the benefit of this work is that we limit do resource all consumed by virtual machine.
+
+05:14.480 --> 05:21.040
+That's I mean this virtual machine limited by 20 gigabyte of RAM no matter how much Jacobites offer
+
+05:21.080 --> 05:22.910
+and give it to this virtual machine.
+
+05:22.910 --> 05:27.690
+It will be limited by 20 gigabyte of ram of the resource pool.
+
+05:27.710 --> 05:30.550
+Number two and so on and so on.
+
+05:30.560 --> 05:33.340
+So this is the idea of the resource share.
+
+05:33.530 --> 05:37.130
+So then will go into Discovery resource share how it's.

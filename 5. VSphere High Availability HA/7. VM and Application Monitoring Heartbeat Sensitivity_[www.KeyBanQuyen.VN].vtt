@@ -1,0 +1,370 @@
+WEBVTT
+
+00:01.410 --> 00:10.130
+Lagging so let's discover V.M. money Mancini in the preview we talk about the other option that is Abdula
+
+00:10.130 --> 00:11.270
+view of the host.
+
+00:11.270 --> 00:17.150
+If we can check this one you'll see that our the hosts monitoring is desirable.
+
+00:17.180 --> 00:19.910
+We only have do the monitoring.
+
+00:20.210 --> 00:28.100
+So this is a deliberate on the host and this want to do it off the vitriol machine so that we have option
+
+00:28.190 --> 00:29.680
+for the virtual machine.
+
+00:29.900 --> 00:35.510
+We have the first one is the LeT mean with those not active hires immediately Abdula of the victory
+
+00:35.510 --> 00:36.290
+machine.
+
+00:36.290 --> 00:42.460
+We have virtual machine monitoring only and virtual machine and application monitoring.
+
+00:42.500 --> 00:50.600
+Only if we remember we told that the not wanted to introduce virtual machine the operating system and
+
+00:50.660 --> 00:54.110
+application inside that virtual machine.
+
+00:54.140 --> 01:02.190
+So if we click on this option Itek do chickadee of course if we chose disable they automatically disable
+
+01:02.190 --> 01:02.480
+it.
+
+01:02.490 --> 01:12.710
+Alda's option so in Dublin ahead bit monitoring is the same as we do in the hosts we used to head to
+
+01:12.710 --> 01:12.920
+beat.
+
+01:12.920 --> 01:17.230
+Its like a bank the monitoring wristlets individual virtual machine.
+
+01:17.240 --> 01:25.520
+If dir VM were truly heard the bits are not received within six times application monitoring receipt.
+
+01:25.550 --> 01:34.530
+And if we do the virtual machine if in guest heard debates are not received read a time so if we check
+
+01:34.680 --> 01:35.710
+this one.
+
+01:35.970 --> 01:41.790
+And of course you need to have a VM where you're inside this vitrine machine all the virtual machine
+
+01:41.820 --> 01:47.720
+in the cluster that we're going through is in the height of your belief we should of them were true.
+
+01:48.120 --> 01:56.370
+So for that the height of ability send a bit to the different virtual machine and the VM would do it
+
+01:56.400 --> 02:02.540
+inside those virtual machine respond to that Harold beats automatically stunt hard to beat.
+
+02:02.590 --> 02:05.550
+That this virtual machine and operating system inside.
+
+02:05.550 --> 02:07.270
+This is our key.
+
+02:07.290 --> 02:08.780
+It's working perfectly.
+
+02:08.780 --> 02:11.690
+So we chose them monitoring that's mean.
+
+02:11.700 --> 02:16.440
+We monitored Do agencies think inside the different virtual machine.
+
+02:16.590 --> 02:20.420
+So turn on them where you heard the beat mean act.
+
+02:20.430 --> 02:25.810
+You've heard to bits to them where true in every of those virtual machine we we chose.
+
+02:25.810 --> 02:26.440
+OK.
+
+02:26.760 --> 02:35.030
+You can send a command to all the virtual machine in that cluster and your own VM virtual beats.
+
+02:35.040 --> 02:43.060
+So when I heard the beats are not received within a set time druggist's operating system is restarted.
+
+02:43.110 --> 02:47.190
+That's me with a specific time we're going to see it right there.
+
+02:47.490 --> 02:53.380
+When do cluster does not get a head to beat in a specific time.
+
+02:53.460 --> 03:00.960
+It will send a command to do the virtual machine to restart it will power it off then are powered on
+
+03:01.200 --> 03:02.390
+again.
+
+03:03.400 --> 03:08.130
+And of course you should take careful when you do the monitoring.
+
+03:08.140 --> 03:15.970
+For example in some situation the virtual machine freezing just isn't for a specific time in that time.
+
+03:16.010 --> 03:18.100
+Do what you'd stop.
+
+03:18.280 --> 03:26.110
+Ahead the beats and do surveys of height and with it when I see that this virtual machine is out of
+
+03:26.110 --> 03:29.940
+service because it does not get any Herbie's in that situation.
+
+03:29.950 --> 03:37.180
+We will restart the virtual machine and we have a problem of the heights of ability for two or three
+
+03:37.180 --> 03:39.860
+minutes until the virtual machine restarted.
+
+03:39.910 --> 03:46.740
+Even there still exist in that virtual machine that you phrase it in that time working perfectly.
+
+03:46.750 --> 03:54.820
+For example if you use ah backup service for example or software that backup the application inside
+
+03:55.330 --> 04:04.360
+one of your virtual machine sometimes when the backup starts on and do the backup of the data into victory
+
+04:04.360 --> 04:08.580
+or machine it is the fall super You are restless.
+
+04:08.590 --> 04:16.440
+You consume about 100 percent of CPI in that time some service individual must be freezing.
+
+04:16.450 --> 04:19.270
+He can't work for that time.
+
+04:19.300 --> 04:25.600
+When do backup service use the fall Sippy resouce one of them is the VM word.
+
+04:25.600 --> 04:29.160
+You'll drop the backup of the individual machine.
+
+04:29.630 --> 04:31.240
+Where all freezing.
+
+04:31.450 --> 04:35.780
+And then when the height of ability there is not good.
+
+04:35.830 --> 04:41.260
+I heard the bit of being worked through here we'll try to restart the operation system.
+
+04:41.320 --> 04:49.990
+So if you restart the operation system or division machine that's start working the backup start doing
+
+04:50.050 --> 04:50.940
+a backup.
+
+04:51.100 --> 04:58.810
+You will lost your backup and you will lost the data drove the backup process and maybe the operating
+
+04:58.810 --> 05:00.520
+system would be damaged.
+
+05:00.520 --> 05:02.330
+Drag the backup process.
+
+05:02.470 --> 05:06.610
+So we should be careful when we use the virtual machine monitoring.
+
+05:06.760 --> 05:13.690
+So always recommended to disable the virtual machine monitoring in an environment until you are sure
+
+05:13.690 --> 05:19.190
+that this virtual machine can be monitoring by height.
+
+05:19.230 --> 05:24.210
+Operability didn't we have the application as the same as the dream machine.
+
+05:24.430 --> 05:33.640
+We used to have the beat odds delivery of the application for example database the exchange the Oracle
+
+05:34.030 --> 05:42.970
+the antivirals etc. application exists into your machine octave them and make them to send a heartbeat
+
+05:43.090 --> 05:47.280
+to do cluster and when ahead we are not receiving.
+
+05:47.350 --> 05:50.380
+We didn't ask Did time do guests.
+
+05:50.380 --> 05:52.470
+Operating system is restarted.
+
+05:52.480 --> 05:58.660
+So the same again as I told you if the application have a problem and freeze it for a specific time
+
+05:59.080 --> 06:05.780
+the heartbeat will be lost did they end up had a reboot will reboot or restart the virtual machine.
+
+06:06.010 --> 06:08.380
+So always we use them.
+
+06:08.530 --> 06:15.260
+But if you are shrewd you can use one of them or both of them.
+
+06:15.460 --> 06:23.780
+Then we do the heartbeat monitoring sensitivity sensitivity of the head bit monitoring.
+
+06:23.830 --> 06:32.950
+We have the default option do allow the medium and height so do whites and do allow lets me do some
+
+06:32.990 --> 06:33.800
+CBT.
+
+06:33.970 --> 06:40.960
+We tend to get ahead to be seat time if you remember right here we have a sick time before a star is
+
+06:40.960 --> 06:43.280
+starting to operate consistent.
+
+06:43.300 --> 06:50.020
+So if we chose low you see we shall I take of course we have costume to a costume number and we have
+
+06:50.020 --> 06:54.420
+the default one right here as you see right here.
+
+06:54.640 --> 06:58.810
+So this child's height and see do that right.
+
+06:59.650 --> 07:07.020
+So when we chose a higher sensitivity we get about 13 seconds for the final interval.
+
+07:07.390 --> 07:08.160
+That's me.
+
+07:08.320 --> 07:16.610
+The height of the service will wait about 13 seconds before I start restarting the operating system.
+
+07:16.810 --> 07:25.350
+When the height of ability is not to get anywhere the beats just get your machine for a 30 second.
+
+07:25.440 --> 07:28.890
+He will send a command to restart the machine.
+
+07:28.900 --> 07:30.830
+Of course we chose low.
+
+07:30.850 --> 07:35.500
+He will wait about two minutes before restarting the virtual machine.
+
+07:37.240 --> 07:46.140
+Didn't have the minimum up time that's mean he will surely get a minimum of two minutes.
+
+07:46.210 --> 07:54.190
+I mean when we power a virtual machine after Poland is between Mushin he will start sending our herd
+
+07:54.190 --> 07:59.900
+to beat the herd to beat schul to beat the rest of it for about two minutes.
+
+08:00.010 --> 08:07.070
+He should get a hold of B's for two minutes before start counting Fidler and Durbach.
+
+08:07.210 --> 08:11.660
+So if he gets hurt for only one minute then he's lost the head.
+
+08:11.810 --> 08:12.820
+It will wait.
+
+08:12.830 --> 08:18.360
+We're not going to restart the virtual machine because I know that this machine is in the power and
+
+08:18.380 --> 08:23.240
+on proces when your power of your machine he would take a time to power on.
+
+08:23.360 --> 08:32.800
+Then when everything is part of this virtual machine start sending a heartbeat for two minutes or three.
+
+08:32.810 --> 08:41.240
+And then when he gets his bit for two minutes then he will keep tracking or monitoring division.
+
+08:41.320 --> 08:44.810
+When he does not get a hold of it for him.
+
+08:44.860 --> 08:47.550
+He will try to restart this machine machine.
+
+08:47.800 --> 08:53.770
+But if we leave the configuration like that he would every time restart your machine.
+
+08:53.770 --> 08:58.330
+This pretty much will keep restarting restarting for Element time.
+
+08:58.330 --> 09:01.850
+For that we have maximum bar VM reset.
+
+09:01.990 --> 09:08.700
+How much it will restart the virtual machine if he does not get the head to beat when we choose height
+
+09:08.860 --> 09:11.380
+he took three times.
+
+09:11.530 --> 09:12.000
+That's me.
+
+09:12.040 --> 09:18.400
+When he does not get anywhere to beat for 30 seconds he will start the vitrine machine.
+
+09:18.510 --> 09:26.470
+Then after a little time he gets a bit thin he lost it then he will try to restart the vision machine
+
+09:26.470 --> 09:34.420
+for the second time then for the third time after three try of restarting the machine will stop restarting
+
+09:34.420 --> 09:37.530
+this virtual machine and forgets about it.
+
+09:37.570 --> 09:40.070
+Then we have maximal wristy time windows.
+
+09:40.180 --> 09:44.560
+We have one now which also had one out or two or three etc..
+
+09:44.710 --> 09:54.100
+That's mean he will make do to restart then he should Dwights about one now before sending another restart.
+
+09:54.130 --> 09:57.000
+So how do you control as much as you want.
+
+09:57.010 --> 10:02.690
+Of course you can it it does one for example you give it about 10 minutes.
+
+10:02.690 --> 10:07.560
+That's mean he should wait about 10 minutes before restarting to visit your machine.
+
+10:07.630 --> 10:12.770
+And of course when we chose right here dillo change it for a minute.
+
+10:12.790 --> 10:15.480
+This one for five minutes.
+
+10:15.490 --> 10:22.990
+This one tree and this one about seven or eight die before you make the next restart.
+
+10:23.020 --> 10:26.800
+So this is the option all for do the V.M. monitory.
+
+10:27.040 --> 10:34.900
+And as always we try to avoid using this one because it's give you a lot of problem in your environment
+
+10:35.310 --> 10:37.800
+and you are very shrewd about it.
+
+10:37.900 --> 10:40.270
+Then you can use C++.

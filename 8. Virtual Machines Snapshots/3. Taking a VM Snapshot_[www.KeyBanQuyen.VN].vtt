@@ -1,0 +1,274 @@
+WEBVTT
+
+00:00.610 --> 00:01.310
+Again.
+
+00:01.410 --> 00:05.550
+So let's try to see how the snapshot work.
+
+00:05.550 --> 00:12.030
+So for example we take a part on battery and machine that have the operating system to see the different
+
+00:12.030 --> 00:14.590
+that will happen when we take a snapshot.
+
+00:14.610 --> 00:20.600
+So no matter when you do a virtual machine in avi up or in our resource pool or in a house directly
+
+00:20.610 --> 00:22.930
+it's the same as always.
+
+00:23.130 --> 00:28.970
+So for example we take two windows xp 0 4 we parted on this virtual machine.
+
+00:28.980 --> 00:37.110
+It's in a power on process if we want to take a snapshot we click on it and we have the option called
+
+00:37.230 --> 00:39.090
+snap shot.
+
+00:39.270 --> 00:43.970
+Then you have take snapshots or Munnar snapshot or delete snapshot.
+
+00:44.100 --> 00:48.430
+By the way the snapshot can work in our life virtual machine.
+
+00:48.430 --> 00:51.870
+That's about it all or even in uploaded of virtual machine.
+
+00:51.870 --> 00:57.670
+This one that is part of we click on Sinatras we have not trawled my snapchat and it's not true.
+
+00:57.870 --> 01:03.240
+The other option is not available because the virtual machine have Xerox nuptials when we have on your
+
+01:03.250 --> 01:08.870
+snapshot we can revert to the latest one or do consolidate.
+
+01:08.880 --> 01:12.100
+So for example let's start with uploaded on one.
+
+01:12.250 --> 01:15.250
+How does this virtual machine that's still bolted on.
+
+01:15.510 --> 01:20.450
+And we try to take our Snapshot and covered different option we have.
+
+01:21.120 --> 01:25.590
+So it's very simple you will give it a name to that's not snapshot in.
+
+01:25.590 --> 01:31.540
+For example specific reason he chose automatically the date and time of this snapshot.
+
+01:31.650 --> 01:33.510
+Then you can add that description.
+
+01:33.630 --> 01:53.870
+One example before they do why it's like that or for example I want to in stall the anti virus like
+
+01:53.900 --> 01:55.900
+that's stupid put anything like that.
+
+01:55.900 --> 02:02.090
+We'll let you know that this not nuptials happened before making specific change or specific reason
+
+02:02.270 --> 02:03.410
+to do it.
+
+02:03.470 --> 02:07.060
+Then we have the auction snapshot of vitriol machine Memali.
+
+02:07.070 --> 02:07.880
+That's me.
+
+02:08.120 --> 02:16.360
+You are what is the snapshot to take us to do virtual machine memory during all the data that's logged
+
+02:16.420 --> 02:17.300
+in the rain.
+
+02:17.510 --> 02:19.960
+Also we'll take a snapshot of this one.
+
+02:20.120 --> 02:21.230
+So what's happened right here.
+
+02:21.230 --> 02:24.970
+It's like you make a standby to a virtual machine.
+
+02:25.070 --> 02:31.690
+If we back to this virtual machine like that power we chose this band that's me and we can't dispute
+
+02:31.690 --> 02:32.450
+your machine that's me.
+
+02:32.480 --> 02:41.000
+Aldo what available in memory in the room will be saved in the harddrive for keeping any in charge.
+
+02:41.020 --> 02:47.520
+So if it's any change that does not civets yet into how driver would not be open Microsoft Word.
+
+02:47.540 --> 02:56.790
+And you make some edits in then you still not save that editing when you click C-SPAN's it will save
+
+02:56.790 --> 03:01.950
+the file open it in the harddrive when your power on this virtual machine.
+
+03:01.950 --> 03:09.120
+It will load the file from the hard labor to the memory and you will find that on your file it still
+
+03:09.240 --> 03:14.180
+open with the chair that you make and still that not see it in the harddrive.
+
+03:14.310 --> 03:16.050
+So you need to chose
+
+03:19.320 --> 03:22.330
+snapshot and it's not just the virtual machine.
+
+03:22.530 --> 03:30.940
+If you check this one it's like you don't care about the data exists in memory and anything that's did
+
+03:30.990 --> 03:36.610
+not save it from the memory it will not take it from the snapshot it will last.
+
+03:36.610 --> 03:42.780
+All the data that loaded in the room it's like a power of the virtual machine and ticket was not shot
+
+03:42.780 --> 03:50.700
+then you live to a virtual machine originally powered on and you work with your snapshots that will
+
+03:50.760 --> 03:54.480
+only copy and pass do data of the hard drive.
+
+03:54.540 --> 03:58.840
+It will see only data of the harddrive not the data into memory.
+
+03:59.130 --> 04:01.460
+So for example we're back to this one.
+
+04:01.620 --> 04:11.110
+For example we have this document with up and this one like that's I remember this folder click right
+
+04:11.130 --> 04:17.790
+where we make our snap shot like that.
+
+04:17.880 --> 04:22.120
+So this fight is still save into memory.
+
+04:22.260 --> 04:28.560
+That's I mean we still not click on the save to save the chance of this one and we're going to make
+
+04:28.590 --> 04:31.860
+our nuptial So we have a virtual machine board on.
+
+04:31.880 --> 04:34.180
+We have some changes that still not save.
+
+04:34.410 --> 04:42.360
+And we click on them that your machine we chose snapshot take a snapshot we chose snapshot the virtual
+
+04:42.360 --> 04:48.030
+machine Memali And of course had to give us any information that you want.
+
+04:48.060 --> 04:49.010
+It is up.
+
+04:49.390 --> 04:56.140
+First off it's not shot like that and click OK.
+
+04:56.510 --> 05:01.290
+So we'll take snapshots creates virtual machines not SRODES.
+
+05:01.480 --> 05:04.650
+It is its task great virtual machine.
+
+05:04.680 --> 05:05.700
+It's not short.
+
+05:05.710 --> 05:07.150
+It will take a little time.
+
+05:07.150 --> 05:10.110
+It's information about the size of the memoir.
+
+05:10.150 --> 05:13.850
+So we have 200 megabytes of memory use it.
+
+05:13.960 --> 05:22.300
+So it will save two hundred megabytes of data into a hard driver of the snapshot.
+
+05:22.300 --> 05:29.950
+So when we chose not to do time take the latest knowledge is about the size consumer of the Memali.
+
+05:30.010 --> 05:36.490
+For example we have another virtual machine that's we have 16 of the RAM and consume about 10 gigabyte
+
+05:36.490 --> 05:45.160
+RAM so the snapshot will take the time to save the data of 10 gigabytes of room in a hard drive.
+
+05:45.370 --> 05:48.640
+So the speed is always in the region about the memory of course.
+
+05:48.640 --> 05:55.900
+If we don't chose to take a snapshot to uploaded on virtual machine it will be a little faster than
+
+05:55.900 --> 05:59.560
+this one will try to do it later.
+
+05:59.560 --> 06:03.360
+So for example in the process we can do it in our power grid on bitchen machine.
+
+06:04.230 --> 06:07.350
+So it's not just a snapshot in time.
+
+06:07.350 --> 06:17.160
+This option is not available because this machine is a part of this is a snap shot of our bow
+
+06:20.010 --> 06:24.940
+or head of virtual machine like that with click OK.
+
+06:25.270 --> 06:32.710
+And you see another task when it starts and which will happen faster because this machine is powered
+
+06:32.740 --> 06:35.720
+off that's mean we didn't copy anything current on one
+
+06:40.050 --> 06:40.620
+all.
+
+06:40.720 --> 06:43.570
+The first one still in its own time.
+
+06:46.250 --> 07:05.180
+So how does it degrades virtual machine make the migration because of the data as a rule.
+
+07:05.350 --> 07:11.830
+So you see the virtual machine is part of complex to do snapshot and the virtual machine that is bolted
+
+07:11.830 --> 07:16.760
+on still in the process of creating snapshots of the time.
+
+07:16.770 --> 07:19.550
+Take this one more then do what is right.
+
+07:19.580 --> 07:21.090
+So it's complete 100 percent.
+
+07:21.100 --> 07:24.010
+He just took a little time to finish the process.
+
+07:24.010 --> 07:31.180
+So here is it if you check the time for ISSUE 1 the virtual machine it on take more time than do one
+
+07:31.510 --> 07:33.490
+that is parted off.
+
+07:33.550 --> 07:38.360
+So if you book through the virtual machine that is bolted on when we take a snapshot and back retail
+
+07:38.380 --> 07:41.070
+you see the video machines do it work perfectly.
+
+07:41.110 --> 07:48.190
+And the challenge still available if we click like that and we ask you to save it to change.

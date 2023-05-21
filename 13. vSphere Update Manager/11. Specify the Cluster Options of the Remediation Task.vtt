@@ -1,0 +1,226 @@
+WEBVTT
+
+00:00.280 --> 00:07.290
+Then a modern formation about do cluster remediation option is secretaire to the immediate cluster.
+
+00:07.290 --> 00:11.110
+First you should Thumper's exhibits certain cluster future.
+
+00:11.270 --> 00:11.680
+That's mean.
+
+00:11.690 --> 00:20.640
+We need to disable some future in the cluster to make to remediate Update Manager automatically.
+
+00:20.650 --> 00:23.180
+Reenable do a future after remediation.
+
+00:23.180 --> 00:31.620
+So when we chose disable any option after the installation of the updates it will automatically enable
+
+00:31.620 --> 00:33.420
+those future later.
+
+00:33.680 --> 00:37.670
+So Update Manager does not remediate host or cross-talk on we should have.
+
+00:37.700 --> 00:40.280
+You should probably enable it.
+
+00:40.360 --> 00:49.350
+I mean if the future is Zebley in our specific hosts then we chose to disable for example default prevalence
+
+00:49.400 --> 00:54.320
+in our host when he finished the installation or to upgrade.
+
+00:54.650 --> 01:01.920
+He will try to enable the filters again but in a specific cost that we are loaded to deserves the full
+
+01:02.290 --> 01:10.460
+force inside its updates it will not going to change the status of that Isak's I host because we already
+
+01:10.610 --> 01:12.170
+use it manually.
+
+01:12.170 --> 01:15.530
+This is for the height of ability and other option.
+
+01:16.070 --> 01:18.930
+So we have disabled distributed power management.
+
+01:19.030 --> 01:22.070
+It is enabled for any of the six in the cluster.
+
+01:22.280 --> 01:29.630
+If we put an option of the power management that any hosts have a zero virtual machine it should be
+
+01:29.630 --> 01:30.570
+powered at all.
+
+01:30.800 --> 01:35.350
+So we need to disable this option to complete the astonishment process.
+
+01:35.360 --> 01:42.510
+If we check this one and one of the hosts have the option to power off when we have zero load them.
+
+01:42.620 --> 01:48.410
+So when he tried to evacuate all the vitriol machine from the toaster put it in dimension and smoke
+
+01:49.030 --> 01:54.520
+the automatic and we will shut down and the oscillation of the update will not when we talk.
+
+01:54.560 --> 02:01.930
+So by default we shall disable do power management the distributive power management then we have these
+
+02:02.210 --> 02:03.620
+false alarms.
+
+02:03.680 --> 02:08.600
+This one you should visit the filterless for the house to avoid a problem.
+
+02:08.610 --> 02:14.650
+This were not going to make you in problem this fix all fault runs between machine into the cluster.
+
+02:14.750 --> 02:20.630
+If your late updates manager disable filterless when necessary you should remediate all the hosts in
+
+02:20.630 --> 02:24.230
+a cluster so that the host remain consistent.
+
+02:24.230 --> 02:28.200
+This wife will can be re-inhabit absent remediation.
+
+02:28.460 --> 02:30.900
+Then we have deserved the height of ability.
+
+02:30.980 --> 02:36.200
+It is sometimes Kamandi to disable the heights of ability to avoid some problem.
+
+02:36.260 --> 02:42.620
+If you remember I told you that when he tried to evacuate the virtual machine from that host sometimes
+
+02:42.890 --> 02:48.000
+the other host Konst reported Alda's virtual machine so it will have on these two.
+
+02:48.050 --> 02:53.390
+In this case you need to disable the highs of ability and make the upgrade.
+
+02:53.420 --> 03:00.190
+Then you enable it again then enable Perata remediation for the host in the selected cluster.
+
+03:00.320 --> 03:00.910
+That's me.
+
+03:01.040 --> 03:08.240
+You make the upgrade for two or three Haast at the same times so automatically determine the maximum
+
+03:08.240 --> 03:10.230
+number of concurrent and immediate cost.
+
+03:10.250 --> 03:17.450
+In a cluster in this case if you have a large number of the Isak's I host and you leave has agreed to
+
+03:17.510 --> 03:18.570
+enable it.
+
+03:18.850 --> 03:23.720
+It will check how much post-concert for a virtual machine.
+
+03:23.720 --> 03:33.500
+Then if it can't that he can migrate the vitriol machine from tree a house and all division machine
+
+03:33.830 --> 03:40.640
+can't power it on in the other ESX I house available here when boot free I host into maintenance mode
+
+03:40.910 --> 03:45.750
+and styled installation at the same times for the tree is a house.
+
+03:45.860 --> 03:53.400
+If he can't find any resource available to migrate to spiritual machine it will make it and then see
+
+03:53.450 --> 03:58.660
+how much as a host can be put it into mundaneness more to make to upgrade.
+
+03:58.860 --> 04:03.550
+So it would calculate the number of the holes can be supported.
+
+04:04.050 --> 04:06.980
+Pretty independent small to make the remediate.
+
+04:06.980 --> 04:14.550
+Or you can chose the number that you want by how much house can be twisted into madness mode and astonishment
+
+04:14.580 --> 04:15.040
+started.
+
+04:15.050 --> 04:21.440
+Of course logically you can't put for example a 5 and you have only to my house limit the number of
+
+04:21.500 --> 04:23.950
+concurrent and immediate halt in each cluster.
+
+04:23.990 --> 04:28.790
+Each cluster should be limited by four holes for the top.
+
+04:28.850 --> 04:35.880
+If you have thousands of easy holes and you want to make an upgrade for the difference is I hope you
+
+04:35.880 --> 04:38.910
+put a limit number of holes Tuscumbia.
+
+04:39.020 --> 04:42.580
+Put it into mountainous mode and start the astonishment.
+
+04:42.600 --> 04:43.200
+See always.
+
+04:43.200 --> 04:44.970
+It is a comedy trick.
+
+04:45.020 --> 04:52.750
+Or if for example in any reason you want to keep for example more than 99 percent of the E6 I hosts
+
+04:52.790 --> 04:59.840
+available you chose a limit number right there negate spouted off and she spent between two other holes
+
+04:59.840 --> 05:00.460
+in the cluster.
+
+05:00.470 --> 05:04.090
+If a host must enter Menton and smot this option.
+
+05:04.250 --> 05:05.510
+It's like the Hydes.
+
+05:05.510 --> 05:09.740
+I would really take the highs with the work with the departed on boojum machine and this option will
+
+05:09.740 --> 05:13.460
+let you to immigrate do about it of virtual machine.
+
+05:13.460 --> 05:21.430
+Also from I host to another host to avoid any problem happen to that you keep your virtual machine because
+
+05:21.550 --> 05:24.450
+it's in a modern Isak's I host.
+
+05:24.650 --> 05:31.880
+Then the same save for the default setting then next then it'll give you a quick overview to start the
+
+05:31.880 --> 05:32.740
+installation.
+
+05:32.740 --> 05:37.920
+So this is a different step to start the updates of it.
+
+05:38.150 --> 05:44.470
+Hulst when we click Finish here will start downloading the different updates and start applying them
+
+05:44.740 --> 05:48.290
+after putting the difference in dimensions.
+
+05:48.600 --> 05:54.040
+So this process will take a lot of time in my situation so I will conciliate and you can't do it in
+
+05:54.040 --> 05:56.600
+your home lab within the next three.

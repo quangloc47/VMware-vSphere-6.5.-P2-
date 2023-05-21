@@ -1,0 +1,211 @@
+WEBVTT
+
+00:00.420 --> 00:07.770
+So when we chose do reverts back we have put on writing articles relevant to the VM to the state it
+
+00:07.770 --> 00:08.620
+was in.
+
+00:08.670 --> 00:11.340
+We do not know what was taking.
+
+00:11.340 --> 00:16.370
+So remember we have to file this this is for the snapshot.
+
+00:16.370 --> 00:17.670
+Number one this is for the.
+
+00:17.690 --> 00:22.550
+Number two if we try to add any editing right there it will be deleted.
+
+00:25.390 --> 00:27.980
+Without saving this data writer.
+
+00:28.310 --> 00:36.890
+So another rule that you should know if you try to revert back to the snapshot number three in any situation
+
+00:36.980 --> 00:45.260
+you can revert back to the snapshot number to and from that natural number you can revert back to those
+
+00:45.320 --> 00:47.200
+not short number one.
+
+00:47.210 --> 00:52.170
+So if we try to back to the Snark number like that we just click on this one.
+
+00:52.290 --> 00:57.860
+Just want to your machine when reverting to the neighborhood I tell you that this option if you have
+
+00:57.860 --> 01:01.620
+some use it or it just makes your machine click yes.
+
+01:01.640 --> 01:04.070
+Rivette snapshot to this one.
+
+01:04.070 --> 01:08.330
+If we click on it you will find that this wall will be disconnected.
+
+01:08.810 --> 01:09.930
+Give me some little time.
+
+01:11.190 --> 01:14.280
+The task take its own time to spark
+
+01:22.950 --> 01:23.850
+that is it.
+
+01:23.900 --> 01:28.810
+You see that you are hurt in the snapshot number two.
+
+01:29.000 --> 01:35.900
+So if you box to a virtual machine and refresh you will find that do find them is deleted because the
+
+01:35.900 --> 01:39.670
+file created after making this natural number talk.
+
+01:39.950 --> 01:46.040
+Then if you back right here and click on the snapshot and battery let's try to see what would happen
+
+01:46.040 --> 01:47.190
+right there.
+
+01:47.200 --> 01:48.150
+OK.
+
+01:48.350 --> 01:54.850
+That's me and we want to go to the snapshot number three this mean back to the previous states before
+
+01:55.880 --> 02:08.810
+buckling to this natural number to that is it's.
+
+02:08.860 --> 02:11.210
+So you are here it's worked perfectly.
+
+02:11.210 --> 02:14.030
+If we check this one.
+
+02:14.440 --> 02:23.830
+Refresh the file number two buck so we can move between this one to this one and this one to this one.
+
+02:23.830 --> 02:30.300
+But of course if you go back to this snapshot number two and make it when you're back to the snapshot
+
+02:30.310 --> 02:33.000
+number three alde editing will be lost.
+
+02:33.010 --> 02:35.800
+So let's try it for example bucketed the snapshot.
+
+02:35.800 --> 02:44.430
+Number two does it not back in the file it will be deleted.
+
+02:53.840 --> 02:55.420
+So I headed back to that snapshot.
+
+02:55.420 --> 03:00.510
+Number two if you back to the virtual machine you have the file number one.
+
+03:00.530 --> 03:11.000
+Only if we try to create for example a mother file like that for example number for me we have a folder
+
+03:11.500 --> 03:16.200
+called number for let's try to make some other situation.
+
+03:16.200 --> 03:20.700
+For example we create a snapshot from this one like that.
+
+03:20.700 --> 03:22.610
+Take a snapshot.
+
+03:22.630 --> 03:30.430
+One example this one will be Snape George number two.
+
+03:30.680 --> 03:34.640
+Mean inside is natural number two and we create a second one.
+
+03:34.700 --> 03:35.270
+So.
+
+03:38.850 --> 03:41.040
+Let's see what would happen right here.
+
+03:48.930 --> 03:53.130
+So you see snapshot number two is Abdul-Malik of the snapshot.
+
+03:53.140 --> 03:54.980
+Number three.
+
+03:55.120 --> 04:01.440
+So we have two snapshots formed original snapshot as natural numbers to give us snapshot man memory
+
+04:01.510 --> 04:04.290
+and natural number 2 0 2.
+
+04:04.510 --> 04:11.390
+So if we back right here and for example creates an updates for those natural numbers to but this will
+
+04:11.390 --> 04:12.190
+be two
+
+04:15.100 --> 04:19.310
+like that's my nurse and talk like that.
+
+04:19.750 --> 04:24.880
+I mean this is the file does not show them but talk 0 2.
+
+04:24.990 --> 04:31.800
+So if we try to back to the snapshot number three of course if remembered the file number two will back
+
+04:31.950 --> 04:39.120
+this to a file will be deleted because we create some in Abdula bit of the SNOPT should number two but
+
+04:39.420 --> 04:47.160
+that it does not exist in the snapshot number 3 because of a snapshot before reverts back to the snapshot
+
+04:47.280 --> 04:48.420
+number two.
+
+04:48.420 --> 04:52.560
+So let's try to go back to the Sinatra and Buttrick.
+
+04:52.690 --> 05:00.710
+It's something very funny you move between a different snapshot but of course when you decide to finish
+
+05:00.770 --> 05:07.440
+the editing of the snapshot you will take the latest one that you have editing.
+
+05:07.800 --> 05:10.220
+So of course the machine will be disconnected again.
+
+05:13.160 --> 05:15.120
+This disconnect only happened in the browser.
+
+05:15.130 --> 05:22.010
+If you use them workstation division machine will be available and maybe it will disconnect and connect
+
+05:22.070 --> 05:25.670
+automatically without needing to refresh the browser.
+
+05:26.210 --> 05:31.850
+So what is it you are here in snapshot number three if you are back to just want to discover what's
+
+05:31.850 --> 05:33.640
+happened right here.
+
+05:33.650 --> 05:37.590
+We see that defined number two back but define number three.
+
+05:37.700 --> 05:46.730
+And two point two is deleted so we can move between the different snapshot for example this one we installed
+
+05:46.730 --> 05:52.060
+application and br1 this wonderful application of Berto and the other one for the application industry.
+
+05:52.070 --> 05:56.070
+When you're finished the difference not short then you just Jew.
+
+05:56.210 --> 05:57.490
+Delays are natural.
+
+05:57.500 --> 06:00.840
+So the next you would see how to delete those snapshot.

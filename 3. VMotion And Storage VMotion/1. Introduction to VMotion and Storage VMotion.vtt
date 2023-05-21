@@ -1,0 +1,334 @@
+WEBVTT
+
+00:00.530 --> 00:04.370
+Hello and welcome into this new section about the
+
+00:07.530 --> 00:12.390
+as we see in the preview section we create our shared.
+
+00:12.450 --> 00:17.840
+And this is our requirement step to discover the other future of the world.
+
+00:17.880 --> 00:24.250
+And one of them is do the motion so let's discover the motion.
+
+00:24.270 --> 00:30.640
+So we have to kind of the emotion we have a simple emotion and distort the motion.
+
+00:31.690 --> 00:37.180
+So what is do simple the emotion or simply the motion.
+
+00:37.360 --> 00:46.910
+So the motion is me great are getting your machine from a host to another host and the opposite from
+
+00:46.920 --> 00:50.360
+the second host to do first hosts.
+
+00:50.430 --> 00:51.120
+That's nice.
+
+00:51.270 --> 00:58.740
+For example here we have a house number one and number two when we use the view we pick up this virtual
+
+00:58.740 --> 01:00.690
+machine our life virtual machine.
+
+01:00.720 --> 01:01.400
+That's me.
+
+01:01.590 --> 01:03.370
+This machine is bounded on.
+
+01:03.390 --> 01:05.520
+And we make great.
+
+01:05.820 --> 01:12.840
+That's the right expression is to me get to this virtual machine to do SIGINT host for any reason for
+
+01:12.840 --> 01:15.230
+example less resource in this house.
+
+01:15.240 --> 01:22.730
+You want to move it to the other holes you want to put up this house for another kind of service you'll
+
+01:22.760 --> 01:29.890
+need to migrate this machine from this house to another house in your data center to keep using it.
+
+01:30.030 --> 01:36.790
+There are lots of situations that you need to integrate a virtual machine from a house to another house.
+
+01:36.940 --> 01:40.710
+So this is the function of the machine.
+
+01:40.800 --> 01:43.430
+Migrate this virtual machine that is powered on.
+
+01:43.620 --> 01:50.280
+That's me in the service or the application is it in this virtual machine will still use it without
+
+01:50.340 --> 01:51.830
+any problem.
+
+01:51.960 --> 01:58.920
+Drawbars the process of moving this virtual machine from this house to another house and this is one
+
+01:58.920 --> 02:04.180
+of the heights of ability function of the the motion.
+
+02:04.410 --> 02:11.720
+So next door of the emotion we need some condition to do that.
+
+02:11.760 --> 02:19.140
+The first one that we need is to the mission network config that's meant you need to have a configuration
+
+02:19.770 --> 02:23.550
+for the different tools to do the motion.
+
+02:23.580 --> 02:31.740
+If you remember in our preview section when we rebuild our home lab right there in the house Number
+
+02:31.740 --> 02:39.500
+one we create the mission we do V.M. Carmel EPEAT 1 10.
+
+02:39.660 --> 02:44.890
+If we check right now you will see that we enable do the motion service.
+
+02:44.890 --> 02:52.100
+You see this VM can and what you did for the mission service we enable it click OK.
+
+02:52.110 --> 02:55.090
+So we have the mission enabled in this host.
+
+02:55.290 --> 02:58.300
+Then we do the same thing for the husband but two.
+
+02:58.430 --> 03:05.960
+Number three all the host showed how the motion enabled it in one of the VM.
+
+03:06.390 --> 03:12.640
+And we give it to a network adapter to have redundancy.
+
+03:12.750 --> 03:14.770
+Like you said.
+
+03:14.900 --> 03:21.760
+So this has to have the emotion will be able to execute the emotion inside it.
+
+03:21.830 --> 03:29.480
+If we have another house that does not have the emotion inside it we can't run motion with that's.
+
+03:29.900 --> 03:36.160
+So we need to make our network config for the ventilation traffic.
+
+03:36.170 --> 03:39.410
+We did that in the previous section.
+
+03:39.410 --> 03:44.840
+Then of course we need to have at least one virtual machine inside the host because the ventilation
+
+03:45.320 --> 03:46.970
+work on a virtual machine.
+
+03:46.970 --> 03:56.000
+So we need to have our virtual machine inside a house that we want to migrated so as you see here and
+
+03:56.010 --> 04:02.230
+then we want to make grades of this machine from these hoes to other hosts.
+
+04:02.310 --> 04:05.660
+So we do the motion traffic.
+
+04:05.840 --> 04:14.640
+The second requirement that we need is to have ah Sherrod Stosh let's me Strozzi connected to the house
+
+04:15.180 --> 04:21.870
+number one and to host them back to the house the top the virtual machine and the host that will get
+
+04:21.960 --> 04:24.160
+the virtual machine inside.
+
+04:24.410 --> 04:26.440
+That's mean shifts.
+
+04:26.670 --> 04:34.710
+And of course the most important heard of it by using a shared interest is that the data of this virtual
+
+04:34.710 --> 04:41.230
+machine should be stored in the shedded store and not in the local storage.
+
+04:41.240 --> 04:42.800
+That's why we need assurance.
+
+04:42.830 --> 04:49.430
+If we do drop out of this virtual machine that's mean the hard drive or an operating system etc. all
+
+04:49.430 --> 04:55.240
+the data on this virtual machine should be saved in external storage.
+
+04:55.250 --> 04:57.600
+That's mean to shed its trash.
+
+04:57.620 --> 04:58.210
+That's me.
+
+04:58.250 --> 05:04.100
+The body of this virtual machine and debatin only That's it in the house.
+
+05:04.130 --> 05:07.820
+That's me in a virtual machine have a brain and a body.
+
+05:07.820 --> 05:11.030
+The brain is the Sibiu and the brain.
+
+05:11.180 --> 05:19.790
+They use it from the host and the body is split into shaded storage.
+
+05:19.790 --> 05:27.130
+This is one of the condition of the machine the virtual machine should have a sieve it insisted it was
+
+05:27.380 --> 05:30.040
+and you will see why we need this condition.
+
+05:30.050 --> 05:40.700
+So then after the shedded straws we need to have similar Sippy family but I mean the hosts and br1 and
+
+05:40.730 --> 05:49.070
+hosts and Budlong that will get Division machine should have similar Sibiu family as we know a virtual
+
+05:49.070 --> 05:54.470
+machine or any operating system astonied in our laptop or our desktop.
+
+05:54.470 --> 06:04.820
+When you change Sibiu the operations then need to update the driver of the new.
+
+06:04.850 --> 06:12.650
+So for that if you migrate a virtual machine with this spew for example and to a modern machine that
+
+06:12.710 --> 06:15.360
+is different you will have a problem.
+
+06:15.370 --> 06:24.110
+Our pension system can't detect it do not see you need to update the driver in need to reboot to detect
+
+06:24.170 --> 06:27.270
+it and work with the process.
+
+06:27.280 --> 06:33.100
+For example some C.P. have different proses all spew at work with the process.
+
+06:33.200 --> 06:37.600
+Didn't you have your process for example.
+
+06:37.640 --> 06:39.090
+Is this machine.
+
+06:39.160 --> 06:42.390
+Is this typical of the 64 bit.
+
+06:42.410 --> 06:49.190
+And then the other hosts have only to do this of course it is impossible to have a 32 bit inside the
+
+06:49.190 --> 06:55.700
+house that the is X but just an example to get an idea if you're McGeary it's a virtual machine from
+
+06:55.760 --> 07:04.580
+a few of the 64 bit and operating system have 64 bits inside a Sibiu that's only stewpot the 32 bits.
+
+07:04.610 --> 07:07.820
+This machine will not going to work.
+
+07:07.970 --> 07:15.100
+That's why we need to have a similar Sibiu a family can always come on the moderate whiteman's but to
+
+07:15.210 --> 07:17.000
+have the same model.
+
+07:17.310 --> 07:25.340
+For example Intel if I live in this host are social and other hosts have an Intel 4:58 or Xian seven
+
+07:25.460 --> 07:34.300
+or eight shawled the host should have the same 0 8 version but of course it's not a requirement.
+
+07:34.310 --> 07:36.850
+It just are commanded to have the same model.
+
+07:36.980 --> 07:44.350
+But we should have the same family that's me if I use Ghazwan right here should have zijn stupid.
+
+07:44.390 --> 07:47.890
+Right there is and then C.P right.
+
+07:48.440 --> 07:53.610
+The other host should have also an intent or I am ET.
+
+07:54.050 --> 07:59.700
+So the same C.P for me but for different model.
+
+07:59.810 --> 08:02.060
+We have a service of the VM and work on it.
+
+08:02.060 --> 08:12.920
+E vc that's inherited the machine that will balance it between the different models and lets the virtual
+
+08:12.920 --> 08:20.210
+machine migrated from the host want to host to without any problem and use this other spew even in a
+
+08:20.210 --> 08:23.720
+different model or at different speed etc..
+
+08:24.920 --> 08:32.810
+So this is due to a simple notion of the machine when you have all this equipment then you can migrate
+
+08:32.900 --> 08:38.690
+the vitriol machine from the host weren't to the house number two perfectly.
+
+08:39.050 --> 08:46.190
+And of course this machine will keep powered on without any problem and all your service will be available
+
+08:46.220 --> 08:48.400
+without any problem.
+
+08:48.410 --> 08:55.460
+So there we have the second kind of thing we shouldn't is storage the mission the mission is a simple
+
+08:56.300 --> 09:02.010
+process but to me human grace only do storage of two virtual machine.
+
+09:02.390 --> 09:08.150
+And as I said you're one of the requirements is that the virtual machine should have the data stored
+
+09:08.150 --> 09:15.890
+in our shared storage and estimates but not in the McAllister's then the storage room we think will
+
+09:15.890 --> 09:21.760
+be great that all of this virtual machine from the storage number what to do storage.
+
+09:21.810 --> 09:27.630
+Number two and the machine will keep about it on without any problem.
+
+09:27.710 --> 09:35.420
+Of course we have another kind of storage machine that's called the motion that's me the virtual machine
+
+09:35.870 --> 09:37.270
+is bolted off.
+
+09:37.310 --> 09:40.290
+Then you do the migration without any problem.
+
+09:40.340 --> 09:44.020
+And in this case it's not a requirement to have a straight it's.
+
+09:44.240 --> 09:50.860
+You can do it even from the local splodge you migrated from the local stores to a shared.
+
+09:51.110 --> 09:55.490
+Then another local store without any problem.
+
+09:55.520 --> 10:03.230
+So this is a defendant's valuation available in VM what will proxies do step in the next Vaduz and we'll
+
+10:03.230 --> 10:06.180
+discover more about the motion.
+
+10:06.190 --> 10:06.910
+So the next.

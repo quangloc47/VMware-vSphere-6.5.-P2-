@@ -1,0 +1,349 @@
+WEBVTT
+
+00:00.620 --> 00:05.670
+So the question is why we need to use our Snapshot snapshots.
+
+00:05.680 --> 00:08.240
+We use it for a specific reason.
+
+00:08.270 --> 00:11.780
+For example we want to make an update to the operating system.
+
+00:11.870 --> 00:19.460
+We want to install our specific application or we want to do some important editing at the level of
+
+00:19.460 --> 00:21.140
+the system of this machine.
+
+00:21.260 --> 00:27.220
+But as we know for example when you make an update to the operation system then patients attempt to
+
+00:27.230 --> 00:31.650
+shut down and power on again or try to restart operations.
+
+00:31.850 --> 00:39.210
+You have a neural adalah of the file system and you've lost all the data available in this virtual machine.
+
+00:39.260 --> 00:47.880
+In this case to be in a safe mode that's mean you want to make an update but you try to avoid any problem
+
+00:47.890 --> 00:50.630
+happen to admit your machine and lost audio data.
+
+00:50.630 --> 00:58.880
+You take a snap shot to this virtual machine so you saved our original file that's worked perfectly
+
+00:58.910 --> 01:08.390
+in this game DFI and start working on a new VM liquified in case you are the update or do application
+
+01:08.420 --> 01:14.220
+or the software or for example the antivirus or any anything that you want to do is individual machine.
+
+01:14.420 --> 01:20.990
+But you are not sure that the process will go imperfectly without any problem or an individual machine
+
+01:21.530 --> 01:28.860
+you do it in the new VM decie file the Delta when the virtual machine completed the installation or
+
+01:29.030 --> 01:35.870
+updates or anything that you do in your machine then bolted on perfectly and work perfectly without
+
+01:35.900 --> 01:39.010
+any problem for example after two or three day or maybe five.
+
+01:39.020 --> 01:41.370
+It's an illusion about your situation.
+
+01:41.590 --> 01:44.800
+Then you see that all of that work perfectly.
+
+01:44.900 --> 01:54.810
+And Divisoria machine work perfectly then complete using new updates by using our delayed option.
+
+01:54.840 --> 02:01.550
+We're going to see it's when you chose to delete the snapshot all the change happen in just one copy
+
+02:01.640 --> 02:08.670
+and save it in do our original VM Dicky and David become read and write.
+
+02:08.750 --> 02:15.200
+And this one deleted and any changes happen right here Kopete and civies in the original VM decie.
+
+02:15.230 --> 02:20.840
+So in this situation everything is perfect but in a model CNR you something happened to the virtual
+
+02:20.840 --> 02:26.850
+machine and the virtual machine crashes and won't boot anymore again.
+
+02:27.170 --> 02:32.230
+And you find some that are lost and a lot of problem happened to this virtual machine.
+
+02:32.510 --> 02:37.560
+If you want to reinstall this virtual machine it will take you a lot of time.
+
+02:37.730 --> 02:41.070
+Also all the data available will be lost etc..
+
+02:41.130 --> 02:44.910
+Also we have our bad situation in this scenario.
+
+02:45.200 --> 02:52.640
+But in the situation that is a snapshot you simply got to this virtual machine and chose to revert back
+
+02:52.640 --> 02:55.770
+to our original version.
+
+02:55.780 --> 03:03.740
+That's mean this video machine will disconnect to this new VM details but all the changes that will
+
+03:03.740 --> 03:10.420
+happen here will be related and we'll start using the OTS you know VM decie without any change up into
+
+03:10.430 --> 03:11.240
+this one.
+
+03:11.240 --> 03:16.090
+So this virtual machine it's like back to the original time before doing snapshots.
+
+03:16.220 --> 03:22.460
+It's like when you restore your machine you back to the original time or original date of the virtual
+
+03:22.460 --> 03:23.030
+machine.
+
+03:23.030 --> 03:29.420
+So it does connect to this VM Dickie Delta at the top of the problem and reconnect to this one and work
+
+03:29.450 --> 03:32.510
+perfectly with the original VM Dicky.
+
+03:32.810 --> 03:39.800
+And in this situation we have a save that are available for this mature machine but also you should
+
+03:39.800 --> 03:45.680
+know that any updates happen from the user that connect with this vision machine as you are an administrator
+
+03:45.980 --> 03:46.960
+of this virtual machine.
+
+03:46.970 --> 03:52.820
+You want to update something to your machine but there are some user who connect to this one and do
+
+03:53.120 --> 03:55.500
+his own job for example.
+
+03:55.530 --> 04:04.140
+Are they in the eye of the client or is it at all when you chose Joe Reebok to do all regional V.M..
+
+04:04.140 --> 04:10.580
+Dickie let's me and you found a problem in this update and you aren't back to the original one.
+
+04:10.580 --> 04:15.640
+Aldo civets fondu use that in that time will be deleted.
+
+04:15.650 --> 04:22.460
+So in this case we always recommended to boot this machine out of service in the time that you want
+
+04:22.460 --> 04:26.390
+to make an update and you want to take a snapshot.
+
+04:26.570 --> 04:33.740
+So the idea you put this virgin machine out of service lets me any sort of connect to this machine will
+
+04:33.740 --> 04:36.500
+front this machine in available for a moment.
+
+04:36.500 --> 04:45.890
+You make a snapshot you create the data and automatically then updated the software or do anything that
+
+04:45.890 --> 04:49.730
+you want to do to dispute your machine when everything is OK.
+
+04:49.790 --> 04:53.200
+Then you get to this machine available for the user.
+
+04:53.480 --> 04:57.780
+And in this situation you don't last any that often do use.
+
+04:58.250 --> 05:05.220
+And of course after that you it the snapshot you integrate and updates of this delta-V indicate to the
+
+05:05.300 --> 05:07.510
+original wall and so on and so on.
+
+05:07.520 --> 05:16.370
+Also we have another rule that we can't create more than 30 to snapshot to a virtual machine when we
+
+05:16.370 --> 05:18.770
+create a snapshot number one.
+
+05:18.770 --> 05:25.040
+For example you want to On-Star tree software to the important software in your virtual machine but
+
+05:25.550 --> 05:33.230
+you need to do it with a stick once you start to remember what the software number to then do software
+
+05:33.320 --> 05:39.200
+number three in that situation you take a snapshot to the original virtual machine.
+
+05:39.200 --> 05:43.920
+Then you installed a application that you want the application number one.
+
+05:43.970 --> 05:47.420
+So all those channels will be saved in a snapshot.
+
+05:47.510 --> 05:50.980
+VM decie that Delta number one.
+
+05:51.170 --> 05:54.430
+Then you take another snapshot to this machine.
+
+05:54.440 --> 05:55.130
+That's me.
+
+05:55.130 --> 05:56.830
+This churn is work perfectly.
+
+05:56.960 --> 05:59.260
+You weren't last does change.
+
+05:59.270 --> 06:01.510
+You need to create another snapshot.
+
+06:01.550 --> 06:03.680
+It's great the word VM dignified.
+
+06:03.710 --> 06:09.650
+That's galley's sig and they'll Talvi indicate then you upload the second application.
+
+06:09.650 --> 06:12.320
+If an application were perfectly That's great.
+
+06:12.350 --> 06:16.240
+If not you want simply book to do snapshot number one.
+
+06:16.250 --> 06:20.930
+And in this situation you already have the application want as salad without any problem.
+
+06:20.990 --> 06:23.270
+You don't need to back to the original VM.
+
+06:23.330 --> 06:29.780
+And then you try to start the application and br1 and the application number two again and three down.
+
+06:30.200 --> 06:35.430
+So when you create the stick at the one if it's work perfectly then you create a modern snapshot.
+
+06:35.720 --> 06:40.920
+The third one then you install due to the application and so on and so on.
+
+06:41.300 --> 06:45.530
+So in this situation you have midships snapshot all the VM.
+
+06:45.530 --> 06:49.150
+Dicky delta-V and ticket connect to the original one.
+
+06:49.220 --> 06:51.470
+The second one connects to the first one.
+
+06:51.600 --> 06:55.850
+The third one connects to the second one and the second one wanted to do the first one and so on and
+
+06:55.850 --> 06:56.840
+so on.
+
+06:57.320 --> 07:01.220
+Then when everything is perfect you delete the snapshots.
+
+07:01.220 --> 07:03.880
+So all the channels happen into the delta.
+
+07:04.060 --> 07:11.950
+The key will be saved in the original VM decie and the machines are worked again and not the information
+
+07:11.960 --> 07:19.380
+that you can't leave the snapshot file for a long time for about one month.
+
+07:19.410 --> 07:20.630
+Come on that is true.
+
+07:20.900 --> 07:24.710
+Delete any snapshot older than one month.
+
+07:24.730 --> 07:30.740
+But if you create the snapshot and you start working on it this neighborhood you can use it up to one
+
+07:31.130 --> 07:32.690
+month at about 13.
+
+07:32.700 --> 07:40.430
+They more than 20 in this snapshot will start giving you a problem because this file will be bigger
+
+07:40.430 --> 07:46.040
+and bigger and bigger every time you make a change in this video machine or you use that to save a file
+
+07:46.070 --> 07:48.190
+or create or find this.
+
+07:48.350 --> 07:54.500
+Delta-V immediately have a big size and so on and so on then you will have overloading on the space
+
+07:54.800 --> 07:59.780
+overloading on the input output of the harddrive and so on and so on.
+
+07:59.930 --> 08:08.000
+So it is always recommended to delete any snapshot older than 13 died and keep using the original VM
+
+08:08.000 --> 08:11.520
+decie to work in a safe place.
+
+08:11.540 --> 08:15.300
+This is not about how the snapshot work.
+
+08:15.350 --> 08:21.530
+It's a simple tool you can use it in specific time when you want to make an update to the between machine
+
+08:21.890 --> 08:26.240
+or you want to use for example as our temporary backup.
+
+08:26.240 --> 08:29.210
+It's not our backup to the virtual machine.
+
+08:29.210 --> 08:33.650
+This is our Bompard backup for example every week or every two week.
+
+08:33.680 --> 08:40.010
+You create a snapshot of the machine and leave the user do his job without any problem.
+
+08:40.070 --> 08:46.250
+If something wrong happen from the user to this virtual machine you're simply back to the preview snapshot
+
+08:46.580 --> 08:48.230
+or to the original one.
+
+08:48.350 --> 08:52.810
+It's not about the level of the snapshot you have for example if you create five snapshots.
+
+08:52.940 --> 08:55.340
+Then you come back to the natural number four.
+
+08:55.490 --> 08:58.170
+Then you come back to the snapshot number.
+
+08:58.280 --> 08:59.630
+And so on and so on.
+
+08:59.870 --> 09:05.610
+But this is our top story backup because any is not older than 13.
+
+09:05.750 --> 09:11.630
+It start getting new problem or the machine will start freezing the machine that's connected to the
+
+09:11.720 --> 09:17.890
+4 or 5 snapshot and do snapshot start consuming more size of the driver.
+
+09:17.960 --> 09:20.840
+This virtual machine will start freezing.
+
+09:20.900 --> 09:25.620
+So this is the idea of the snapshot see the next video in the real exam.

@@ -1,0 +1,148 @@
+WEBVTT
+
+00:01.240 --> 00:08.500
+Hello and welcome in this new section that we're going to cover more details of our virtual machine
+
+00:08.920 --> 00:17.590
+in the preview the cost part number one that's we cover how to create and our style is excite and managed
+
+00:17.620 --> 00:20.770
+by the central server and how to create virtual machine.
+
+00:20.770 --> 00:30.280
+And it did we cover only deuse beginner option available in our virtual machine like how to create Sibiu
+
+00:30.430 --> 00:35.040
+Mazda Riem the driver do hardware.
+
+00:35.470 --> 00:46.870
+But no after covering more information like depress the resource pool and some other option we can now
+
+00:47.060 --> 00:53.130
+cover the other option we have in a virtual machine that we didn't cover in the preview course.
+
+00:53.350 --> 00:57.890
+So for that when we have a virtual machine we simply click on it.
+
+00:58.130 --> 01:04.710
+Of course you remember the option we cover some of them and we still have some other option to cover.
+
+01:04.990 --> 01:11.270
+So we click on you did sitting through it did the stitching of this virtual machine.
+
+01:11.350 --> 01:18.670
+So if you the number this interface we already talked about it about to see how to change the speed
+
+01:18.670 --> 01:21.470
+of our virtual machine the memory etc..
+
+01:21.730 --> 01:26.770
+But if you remember we do this option in up outside of a virtual machine.
+
+01:26.770 --> 01:27.570
+That's me.
+
+01:27.670 --> 01:31.940
+We take a port of entry and machine we click on it.
+
+01:32.440 --> 01:37.960
+We chose heated seating and we start in the rain etc..
+
+01:37.960 --> 01:46.270
+For example we change from one to two from two socket etc. and so on and so on we would click ok then
+
+01:46.600 --> 01:49.180
+do it it didn't happen to just one.
+
+01:49.420 --> 01:53.760
+But when we tried it is about it on your machine.
+
+01:53.830 --> 01:58.760
+This option was not available for example in this one right.
+
+01:58.870 --> 02:06.800
+We can't charge Sibiu or drame etc. we need to polish up the virtual machine but drop the VM were restrained.
+
+02:06.850 --> 02:10.340
+We have another option that's called a hot plug.
+
+02:10.630 --> 02:14.230
+As you see here we have C.P hot plug.
+
+02:14.350 --> 02:21.140
+It does not give us the ability to enable this one but for that you need to power of this machine enables
+
+02:21.310 --> 02:22.070
+this one.
+
+02:22.120 --> 02:29.040
+Then when your power on you will find that these options are challenged and the memory is available.
+
+02:29.050 --> 02:32.220
+So here's the other one memory hot plug.
+
+02:32.440 --> 02:37.990
+If we try to do this one in our power of virtual machine click like that
+
+02:41.380 --> 02:43.140
+then we got to spew.
+
+02:43.180 --> 02:45.280
+We have the option to enable this one.
+
+02:45.280 --> 02:46.560
+Of course it's not available.
+
+02:46.570 --> 02:51.990
+No because this Windows XP does not support the hot plug.
+
+02:52.000 --> 02:58.510
+Also I know that information that the hot plug is in relation avouch do operate consistent in this one.
+
+02:58.510 --> 03:04.600
+So for that's when you go to the VM option we didn't talk about this one.
+
+03:04.610 --> 03:07.200
+We have some option to configure right.
+
+03:07.370 --> 03:11.090
+That will let us to chose a different option right there.
+
+03:11.210 --> 03:13.430
+It is integration about the one that we have here.
+
+03:13.430 --> 03:20.630
+So for example when our division machine is Windows XP number six the store house.
+
+03:20.700 --> 03:22.580
+This one is that number three.
+
+03:22.730 --> 03:28.790
+The Wii remote location is in Windows XP 6 this is a virtual machine.
+
+03:28.790 --> 03:31.750
+Then we have the insist it is Windows.
+
+03:31.970 --> 03:34.070
+Then we have two windows XP.
+
+03:34.070 --> 03:37.820
+So Windows XP does not support the hot plugging.
+
+03:38.030 --> 03:45.770
+But if we chose another Windows that supported the hot plugging of course had for example Windows Server
+
+03:45.950 --> 03:54.520
+2012 and then when we go back to this one we have to enable Scipio's plugin enabling not we can't use
+
+03:54.520 --> 04:01.560
+do spew hot plugin because we choose our Windows 2000 AES from Windows 7 and more.
+
+04:01.570 --> 04:05.700
+The operating systems support hot plugging.
+
+04:05.830 --> 04:13.030
+So if we chose for example on a pension system that does not support the hot plugging like this one.
+
+04:13.030 --> 04:14.480
+So this one is disable.

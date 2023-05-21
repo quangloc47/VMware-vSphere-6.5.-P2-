@@ -1,0 +1,220 @@
+WEBVTT
+
+00:02.200 --> 00:02.830
+Logging.
+
+00:03.010 --> 00:08.060
+So the next option in Visteon heights of ability is hard to beat that Astar.
+
+00:08.530 --> 00:15.280
+If I remember right there when I told you that the head to beat UC you know the text if the other horse
+
+00:15.340 --> 00:18.090
+is work but actually drove the Ethernet Network.
+
+00:18.100 --> 00:23.330
+Also we have a head to beat send this audio live it off the top of the muster stand.
+
+00:23.360 --> 00:28.520
+I heard a bit too that the start has all the virtual machine into the host work but actually when he
+
+00:28.520 --> 00:35.290
+says you know does the other host still work perfectly even he does not have a connection to the network.
+
+00:35.470 --> 00:41.740
+But I mean if we have a problem at the network management we know that's the other hosts still work
+
+00:41.740 --> 00:44.390
+perfectly troubador that data stored.
+
+00:44.710 --> 00:52.620
+So for that we always need to have at least two shared storage two external storage for the heights
+
+00:52.650 --> 00:54.310
+of ability.
+
+00:54.340 --> 01:01.200
+Imagine that we have only one that those took and disk that are stored loose connection and have a problem
+
+01:01.210 --> 01:03.070
+for example adding network cable.
+
+01:03.070 --> 01:06.540
+So I'll do the server will be out of service.
+
+01:06.700 --> 01:14.170
+And for example if one of them ticked down the other slave to get information about the master and he
+
+01:14.290 --> 01:18.210
+does not know how to make do the master set up.
+
+01:18.280 --> 01:22.100
+So we have a problem situation when we have our data center out of service.
+
+01:22.100 --> 01:28.660
+So for those we always want to use atlast to datastore to another.
+
+01:28.680 --> 01:31.070
+Or if you have no it will be good.
+
+01:31.360 --> 01:37.930
+So for that you see this ferrites of ability is that I start to monitor host and virtual machine when
+
+01:38.110 --> 01:40.640
+management network has filed.
+
+01:40.830 --> 01:43.990
+We have a problem in the network internet network connection.
+
+01:44.140 --> 01:50.440
+So he used that I started when he told the host Vicent the server select two that I store for each host
+
+01:50.710 --> 01:55.100
+using the policy and that does or preference specific below.
+
+01:55.810 --> 02:00.190
+So the first option we have is automatically selected accessible from the host.
+
+02:00.350 --> 02:06.550
+Here Will the text Aldo's that are still available in this cluster that have a connection with all the
+
+02:06.550 --> 02:08.380
+host or any of those host.
+
+02:08.530 --> 02:16.510
+So I would put it and use it to start a herd to get to know the situation of the host connected to that.
+
+02:16.810 --> 02:23.140
+So then we have these that are not only from the specific list we need to chose to host.
+
+02:23.140 --> 02:29.770
+So when you chose one of them they show you the host that can be monitoring Troke this one with bucket
+
+02:29.770 --> 02:34.290
+like that and things like that and its just this one.
+
+02:34.430 --> 02:41.810
+So when you select one of those Lanhee automatically show all the host that can be monitoring from this
+
+02:42.320 --> 02:44.630
+external that does the lot.
+
+02:44.630 --> 02:50.980
+Number two and then when we chose one he show you all the host that can be monitoring from this store.
+
+02:51.080 --> 02:56.480
+For example if you have two ears because I number four that connect only to learn one if were in check
+
+02:56.480 --> 03:02.660
+this one we see only three E6 I mean check the land number what you us to do.
+
+03:02.760 --> 03:04.310
+E6 I know but for audits.
+
+03:04.310 --> 03:04.990
+Right.
+
+03:05.330 --> 03:09.820
+So the second option is that I start only from the specific list thats me.
+
+03:09.840 --> 03:17.010
+It is only just that I start distraught I start to send her the beats and get a situation of different
+
+03:17.120 --> 03:19.090
+insects in our cluster.
+
+03:19.340 --> 03:26.540
+But in this situation we use it when we chose for example to a store and something wrong happened to
+
+03:26.540 --> 03:31.850
+one of those that are for example disconnect or then you connect it again.
+
+03:32.010 --> 03:39.080
+Even we do seem live this is not store will be out of do hurt the between that our he will not use this
+
+03:39.080 --> 03:43.770
+that our store when its back to life gets affirmation of all the different tones.
+
+03:44.000 --> 03:50.660
+So for that it is always recommended to use automatically or to use those that are stored from the specific
+
+03:50.660 --> 03:53.700
+list and complement automatically if needed.
+
+03:54.040 --> 04:00.320
+But I mean if we are for example four or five store we still do want that we want to use for head between
+
+04:00.650 --> 04:07.270
+if something happened to do that or store he automatically will chose another one and use it for getting
+
+04:07.270 --> 04:10.490
+the hard to get information from the different instincts.
+
+04:10.550 --> 04:16.190
+So it is always recommended to have to extend another dose if you have more.
+
+04:16.190 --> 04:22.340
+It will be good if you are for example take your usual chores for example five six seven or even all
+
+04:22.340 --> 04:26.750
+the same not just look but do work without any problem.
+
+04:26.750 --> 04:31.690
+It is always a comedy is automatically here with select all available.
+
+04:31.850 --> 04:37.960
+He will use two or four from them to get information we use for the pastor out of state.
+
+04:38.000 --> 04:43.050
+He automatically will chose the other available at another store to send a herald.
+
+04:43.100 --> 04:45.930
+BT So this is the idea about our head.
+
+04:46.190 --> 04:51.110
+You always chose automatically or your controls the one that you want to do that.
+
+04:51.200 --> 04:52.820
+The beating they have.
+
+04:52.820 --> 04:54.480
+Do other than that option.
+
+04:54.500 --> 04:55.870
+This one is a little odd.
+
+04:55.880 --> 05:02.270
+I said you at some Calment right head for example sent comment for our specific advice that all the
+
+05:02.270 --> 05:08.810
+hosts concerned at being too easy to see that I am a life in institution for example this Haast lose
+
+05:08.870 --> 05:14.540
+connection with the muster and other route also lost connection.
+
+05:14.690 --> 05:20.630
+To do that I thought Here we have another option to send for example of being too specific to the advice
+
+05:20.930 --> 05:23.120
+that exists in an older place.
+
+05:23.240 --> 05:27.890
+For example are you why or are so rude etc.
+
+05:27.980 --> 05:35.590
+It will sound that being to this one to say please I'm alive please tell to the muster that I'm still
+
+05:35.680 --> 05:36.530
+alive.
+
+05:36.550 --> 05:39.280
+So this one is use it for another option.
+
+05:39.280 --> 05:41.360
+You can add them right hand.
+
+05:41.470 --> 05:44.960
+So this is a different option that we have pissed off immediately.
+
+05:45.100 --> 05:51.190
+And next we'll get an example of that in Dublin do the speed of a beat see you in the next.

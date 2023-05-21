@@ -1,0 +1,115 @@
+WEBVTT
+
+00:00.330 --> 00:07.560
+So what of the question that I can put in your mind why we need to use the following learn and not just
+
+00:07.560 --> 00:13.370
+use the first provision to make a quick clone and all the tank will work perfectly.
+
+00:13.710 --> 00:17.510
+So the situation here is not as you think.
+
+00:17.640 --> 00:26.130
+If you remember in the snapshot we say that it is high on the do not leave us not more than 13 days.
+
+00:26.520 --> 00:31.600
+So in this region we use a snapshot the virtual machine work in a snapshot mode.
+
+00:31.620 --> 00:36.140
+In our original disk so the snapshot will start consuming more size.
+
+00:36.210 --> 00:38.180
+This not short will cost me more size.
+
+00:38.280 --> 00:40.490
+So we have more space consuming.
+
+00:40.560 --> 00:48.570
+But in this situation is not a problem of space but it will a problem of the performance of the virtual
+
+00:48.570 --> 00:49.630
+machine.
+
+00:49.630 --> 00:51.870
+So imagine if we create only one.
+
+00:51.870 --> 00:52.880
+It's not a problem.
+
+00:52.960 --> 00:57.690
+But imagine if you create 10 virtual machine using do linkit clone.
+
+00:57.780 --> 01:04.270
+We have 10 virtual machine with a built out this all of them connected to the same original disk.
+
+01:04.290 --> 01:08.550
+This original disk will have an overloading from a different it's a video machine.
+
+01:08.550 --> 01:15.440
+When you have a lot of your machine and use that to start making some rights and read from disk the
+
+01:15.470 --> 01:22.200
+disk can't support all the virtual machine so the disk will start in the virtual machine would start
+
+01:22.290 --> 01:25.420
+freezing and some problem would be start happening.
+
+01:25.650 --> 01:32.220
+And the situation if something wrong happened to the original disk but it was up with this disk crashed
+
+01:32.280 --> 01:41.060
+or the data deleted with another disk or anything else on the virtual machine connected to this.
+
+01:41.070 --> 01:48.450
+This will be out of service so your last five or 10 virtual machine at the same time.
+
+01:48.600 --> 01:55.920
+But in this situation if the virtual machine a have a problem in the disk and this machine out of service
+
+01:56.280 --> 02:03.510
+the virtual machine still work perfectly head to victory the machine a second or a third or a fourth.
+
+02:03.630 --> 02:08.350
+Well out of service at the same time we do virtual machine.
+
+02:08.760 --> 02:15.360
+So this is do but think about the first provision but in some times we need to use it in a specific
+
+02:15.600 --> 02:16.200
+situation.
+
+02:16.200 --> 02:18.160
+For example we have some temporary use.
+
+02:18.410 --> 02:21.570
+What a new employer come to your company.
+
+02:21.570 --> 02:27.540
+Want to make some work for a specific reason in your company he will work in your company for example
+
+02:27.540 --> 02:29.700
+for 13 days then he will go.
+
+02:29.700 --> 02:32.270
+You don't need to create a full complete virtual machine.
+
+02:32.310 --> 02:37.440
+You simply do a first provision are linked into one of your virtual machine.
+
+02:37.440 --> 02:39.910
+You give it to use it to work on this.
+
+02:39.930 --> 02:46.590
+Then when he finish his work you do your one and keep the original one and so on and so on.
+
+02:46.670 --> 02:53.460
+Another situation you have some thumper or user or different users who want to use only Windows 7 for
+
+02:53.460 --> 02:54.960
+example or windows.
+
+02:54.970 --> 03:02.530
+Then you make this link get the clone and work with it in a specific situation.
+
+03:02.550 --> 03:04.830
+So this is the idea of the first provision.

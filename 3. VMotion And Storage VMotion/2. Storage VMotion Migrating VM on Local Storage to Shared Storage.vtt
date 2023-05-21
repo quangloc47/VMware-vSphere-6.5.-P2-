@@ -1,0 +1,406 @@
+WEBVTT
+
+00:01.140 --> 00:05.600
+Log in so let's do some real example of the Wii motion.
+
+00:05.790 --> 00:08.570
+So as you see here we have three Isak's.
+
+00:08.790 --> 00:15.960
+That is I one have two virtual machine one for Windows 7 and second one for the Windows XP.
+
+00:15.960 --> 00:23.220
+I will keep using the Windows XP machine because it is a smart machine and that consumer listening is
+
+00:23.220 --> 00:25.690
+also because we have limited resource.
+
+00:25.730 --> 00:26.860
+Spew on the room.
+
+00:27.060 --> 00:33.490
+So to practice that I will do I will do it on Windows XP from time to time I will use the Windows 7
+
+00:33.520 --> 00:38.640
+but the Windows 7 will take a lot of time to complete the process.
+
+00:38.640 --> 00:46.190
+For example the machine will take about 2 how we do Windows 7 but only one house for Windows XP.
+
+00:46.480 --> 00:54.300
+So one of the conditions that we talk about that's due to do the motion for our life machine.
+
+00:54.320 --> 01:00.980
+The thing about it a machine you should have the body of this machine in our shared stories.
+
+01:01.130 --> 01:08.130
+So if we checked storage of these Windows XP right hand you would see that we used a local storage do
+
+01:08.210 --> 01:10.360
+that are store number of years.
+
+01:10.730 --> 01:11.510
+That's me.
+
+01:11.510 --> 01:20.020
+We're going to get an issue of do the motion for about it on your machine.
+
+01:20.020 --> 01:26.070
+So to run our mission inside this machine that's mean we want to migrate this machine from.
+
+01:26.140 --> 01:28.410
+E6 I want to.
+
+01:28.620 --> 01:32.590
+Art is in a slightly different technique to do that.
+
+01:32.590 --> 01:34.840
+So one of them is to drag and drop.
+
+01:34.870 --> 01:41.410
+It's simple drag and drop the machine into other holes that you want to begin a tweet or.
+
+01:41.680 --> 01:50.470
+Right click on choose migrate from here or even from display to migrate like that and you will have
+
+01:50.470 --> 01:52.500
+the option to migrate.
+
+01:52.750 --> 01:59.380
+So the first option of the computer restores all the McGreal the virtual machine to another Hulst or
+
+01:59.470 --> 02:00.580
+cluster.
+
+02:00.580 --> 02:08.590
+So this is simple the solution as we see into preview video when we migrate only the brain of the virtual
+
+02:08.590 --> 02:08.910
+machine.
+
+02:08.920 --> 02:14.830
+That's mean to CTU and drame we have changed storage only.
+
+02:14.900 --> 02:15.520
+That's mean.
+
+02:15.520 --> 02:17.550
+Do storage.
+
+02:17.600 --> 02:25.210
+The second option that we have is storage the emotion migrate to between machine stodge to a that are
+
+02:25.210 --> 02:32.490
+store or datastore Gloucester to account but even that's mean a star that's compatible we do storage
+
+02:32.530 --> 02:34.960
+of this virtual machine.
+
+02:35.070 --> 02:42.970
+Then we have to change both the computers lose the storage that mean the motion and to the motion at
+
+02:42.970 --> 02:43.820
+the same time.
+
+02:44.020 --> 02:51.090
+But of course do this fear does not do it at the same time he do the first one they ran the stick and
+
+02:51.090 --> 02:54.200
+the one as you say is the next computer resource Fuerth.
+
+02:54.220 --> 02:57.810
+All so then select storage first.
+
+02:58.150 --> 02:59.850
+It's not important for the order.
+
+03:00.050 --> 03:03.320
+It's just to chose one or the sig or the other.
+
+03:03.460 --> 03:09.060
+But in the background he make great resouce that's mean.
+
+03:09.190 --> 03:14.480
+The motion then migrate do store hours that's mean to storage the motion.
+
+03:14.500 --> 03:18.400
+He do it one by one.
+
+03:18.400 --> 03:27.400
+So if we try to migrate this machine one of the issues that can happen to you is when you have a device
+
+03:27.400 --> 03:29.860
+connected to this machine.
+
+03:29.860 --> 03:31.430
+So if you're right next.
+
+03:31.440 --> 03:40.420
+For example like that let's just make it simple on chals computer resource all the next.
+
+03:40.450 --> 03:46.930
+Then into Silex resouce we have only one host available that's me.
+
+03:47.180 --> 03:51.640
+We can't migrate this machine to the other host.
+
+03:51.830 --> 03:52.380
+That's me.
+
+03:52.390 --> 03:57.390
+We do not have any information right here we can't check the other host.
+
+03:57.410 --> 03:58.120
+Why.
+
+03:58.130 --> 04:06.070
+Because we use mass transit and we have another problem about the connected device.
+
+04:06.080 --> 04:15.300
+So we went back and chose storage on the head it's sure to migrate to another storage outside the same
+
+04:15.470 --> 04:16.330
+host.
+
+04:16.350 --> 04:18.800
+So this is not an option that we want.
+
+04:18.840 --> 04:22.210
+We want to migrate this machine from this host to another host.
+
+04:22.290 --> 04:25.310
+So let's try to drag on top like that.
+
+04:26.800 --> 04:34.490
+And we chose next if we chose a computer resource for example the second what you see a problem right
+
+04:34.490 --> 04:43.070
+here currently connected device City DVD drive what use back in the amp etc. which is not accessible.
+
+04:43.360 --> 04:50.070
+And logically If you migrate a machine that's comic Joe for example a cd dvd driver inside the house
+
+04:50.160 --> 05:00.850
+one inside E6 one from the E6 I took this machine can't read the content of the CD driver inside E6
+
+05:00.910 --> 05:02.100
+I want this.
+
+05:02.160 --> 05:04.070
+Oh Ill give it another.
+
+05:04.210 --> 05:13.090
+Also if you have a use being connected to this host and this machine is yes be came from this machine.
+
+05:13.240 --> 05:15.170
+It can't read this.
+
+05:15.190 --> 05:15.700
+Yes.
+
+05:15.790 --> 05:20.290
+From the second host of the terHorst So all the hosts have a problem.
+
+05:20.710 --> 05:28.270
+If we chose the photos it's OK because it's still connected with same device or the external one.
+
+05:28.300 --> 05:35.680
+So for that we need to disconnect any CD DVD driver as you will see ahead City DVD connected to host
+
+05:35.770 --> 05:37.200
+Sidorov device.
+
+05:37.240 --> 05:44.880
+So we need to disconnect the host is one of the issues that we can get from the motion.
+
+05:45.160 --> 05:52.490
+So you need to disconnect any device connected to this machine before doing the mission.
+
+05:52.550 --> 05:55.250
+So here you can check out the device for example.
+
+05:55.310 --> 05:57.960
+Yes be connected to this machine.
+
+05:58.190 --> 06:00.340
+You will see right here a green button.
+
+06:00.340 --> 06:00.830
+That's me.
+
+06:00.830 --> 06:09.760
+This one is connected to us or our car or any other device connected directly to this machine.
+
+06:10.640 --> 06:19.850
+So then if we try to migrate it again no we'll have another option like that.
+
+06:19.850 --> 06:26.060
+So no we can't migrate this machine to the host number to order the host number treat.
+
+06:26.060 --> 06:26.560
+Why.
+
+06:26.660 --> 06:34.650
+Because we chose both option we chose do both computer and storage.
+
+06:34.820 --> 06:36.590
+So we do not have any problem.
+
+06:36.590 --> 06:47.070
+Now we can't migrate this machine from the storage and from due resource but in another case if we try
+
+06:47.070 --> 06:54.550
+to do stories of course it will work because we want to change the stars from that store to us.
+
+06:54.560 --> 06:58.190
+And it's not it's work perfectly as you wish you had compatible chip.
+
+06:58.200 --> 06:58.710
+Yes.
+
+06:58.710 --> 06:59.270
+Yes.
+
+07:00.450 --> 07:07.480
+But if we try to do computer restores all only for this machine that is powered on and used the low
+
+07:07.480 --> 07:14.330
+cost of the Holston them but what if we click Next you will get an error.
+
+07:14.530 --> 07:22.540
+There are compatibility issues that need you attention and you see only one is available that can use
+
+07:22.540 --> 07:32.170
+this machine and we still have not any motion yet so we can't migrate a machine without having the data
+
+07:32.380 --> 07:35.400
+of this machine in our shed it's dark.
+
+07:35.770 --> 07:37.220
+So we click as.
+
+07:37.300 --> 07:41.310
+So I know we have one requirement is not available.
+
+07:41.560 --> 07:51.190
+We have the motion configuration already we have to shut its doors but this vitrine machine is not used.
+
+07:51.220 --> 08:00.370
+Shit it's not as if we chicken I use only do that Bastar but in another case if we try to move a virtual
+
+08:00.370 --> 08:08.320
+machine that is bolted on to another host and we try to chose the computer resouce of course the same
+
+08:08.320 --> 08:15.250
+problem would be where we can't see any other host because it is in a local store.
+
+08:17.140 --> 08:28.500
+So to do that we need to migrate do storage of this machine from a local store to a shithead store.
+
+08:28.540 --> 08:29.830
+So let's try to do.
+
+08:29.860 --> 08:35.400
+Do look at that store before we'll be able to challenge do computer resources.
+
+08:35.580 --> 08:44.650
+So if we chose storage only Next no we're going to see the data stored and the associated storage and
+
+08:44.650 --> 08:53.170
+we can't see past all of the hard number two or number three only do that sort of the E6 I want and
+
+08:53.170 --> 08:54.690
+then do it.
+
+08:54.910 --> 08:56.780
+So we click on that compatible check.
+
+08:57.280 --> 08:58.130
+Last one.
+
+08:58.300 --> 08:59.650
+OK.
+
+09:00.370 --> 09:01.560
+It's OK.
+
+09:01.720 --> 09:06.910
+So let's trolls for example Line 1 and click next.
+
+09:06.910 --> 09:13.090
+Of course here we chose some options Tillich's virtual disk format same formats as source.
+
+09:13.180 --> 09:19.360
+Then if you want to Chush from then to take provision if you remember this Mushin created with a thin
+
+09:19.480 --> 09:26.950
+provision we can take provision lazies then provision Egerton's in wait and then provision.
+
+09:27.400 --> 09:34.170
+If you don't know what those options mean is unique to bucketed of preview calls about storage that
+
+09:34.180 --> 09:37.650
+will explain take and then provision option.
+
+09:37.870 --> 09:41.520
+So it just keep it the same then keep existing in storage.
+
+09:41.660 --> 09:47.040
+If you want to change the policy of the stock will keep it as the same next.
+
+09:47.150 --> 09:53.360
+Then a quick overview about it then next door option right here.
+
+09:53.620 --> 09:58.510
+So this is the machine that is bounded on the Windows XP on its own.
+
+09:58.570 --> 10:05.800
+If we try to for example create Dokument and give it some
+
+10:09.450 --> 10:24.390
+like thats and low on this is our best storage the way Zen like that lets me I use it is this machine.
+
+10:24.590 --> 10:31.940
+And you as an administrator you want to make great story out of this machine to a shared storage but
+
+10:31.970 --> 10:35.180
+do it keep using virtual machine.
+
+10:35.210 --> 10:43.730
+So if we click Finish the process of relocating between machine and migrating from the local storage
+
+10:43.790 --> 10:49.800
+external storage and do user will keep using the machine without any problem.
+
+10:49.830 --> 10:50.840
+See right here.
+
+10:51.610 --> 10:58.970
+The machines still run without any problem and do migration work perfectly without any problem.
+
+11:01.880 --> 11:15.530
+Do use the round at your machine without any problem just like that.
+
+11:15.530 --> 11:21.710
+Of course it will take a little time and that's why I use Windows XP because it's constant only less
+
+11:21.710 --> 11:22.800
+than 1 gigabyte.
+
+11:22.990 --> 11:28.310
+But I do Windows 7 have about 4 or 5 Jacobites of that.
+
+11:28.670 --> 11:33.640
+So let's give it a little time and we'd be back later.
+
+11:33.650 --> 11:34.890
+So how does it do.
+
+11:34.960 --> 11:42.110
+Relocate a virtual machine complete 60 steeply and the vitriol machines didn't work without any problems.
+
+11:42.260 --> 11:49.370
+So if you go back to the virtual machine and check to start you will see it save interline one and not
+
+11:49.370 --> 11:58.640
+into the store locale of the Isak's like so next we'll see the different option of the cmd and ex-Beatle.

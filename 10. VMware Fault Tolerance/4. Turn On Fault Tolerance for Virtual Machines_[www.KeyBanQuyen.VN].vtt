@@ -1,0 +1,358 @@
+WEBVTT
+
+00:01.530 --> 00:02.490
+Log in.
+
+00:02.720 --> 00:08.640
+So after covering the difference that we can get when we try to enable the full two wrongs.
+
+00:08.810 --> 00:13.540
+No we're going to enable default in our virtual machine.
+
+00:13.690 --> 00:16.620
+It is bolted on or even it is bolted up.
+
+00:16.640 --> 00:17.760
+It's not a problem.
+
+00:17.840 --> 00:21.570
+So we try to do it in about it's own virtual machine.
+
+00:21.770 --> 00:24.950
+So Windows XP number before headers it to Windows XP.
+
+00:24.950 --> 00:27.340
+Number four is potted on without any problem.
+
+00:27.530 --> 00:29.860
+Then we try to enable default.
+
+00:29.960 --> 00:30.860
+In this one.
+
+00:31.130 --> 00:35.780
+So we got a full so turn on for too long.
+
+00:36.110 --> 00:37.580
+So it's very simple.
+
+00:37.730 --> 00:42.690
+It's obscure to True's do that Astara you want to put this one inside.
+
+00:42.920 --> 00:49.660
+Of course it does look out that the store is not available to use a lock out at the store for the flatirons.
+
+00:49.720 --> 00:56.750
+If you check right hand it will give you there are not compatible current that are store selection of
+
+00:56.890 --> 00:57.920
+information right there.
+
+00:57.950 --> 01:04.940
+About six I want and is X Eitel is not supported by you using this lock out at the start.
+
+01:05.030 --> 01:09.490
+So the same for the second one but we chose our shared storage.
+
+01:09.530 --> 01:11.900
+It showed your compatible checked successfully.
+
+01:12.110 --> 01:16.660
+So logically this should not show up close to that.
+
+01:16.700 --> 01:21.000
+I don't know why you show them but actually they should be hidden.
+
+01:21.050 --> 01:22.890
+It only showed the shit.
+
+01:23.120 --> 01:29.500
+If we check this one of course if you remember a different file should be in our last one and Landru.
+
+01:29.510 --> 01:31.440
+This is about affinity.
+
+01:32.180 --> 01:34.230
+So we chose one or two.
+
+01:34.310 --> 01:36.700
+But before that let's try to check.
+
+01:36.920 --> 01:39.810
+So this one exists in the land too.
+
+01:39.980 --> 01:48.710
+If for example Charles Lund too it will work but it will give you Allard massage to know that this virtual
+
+01:48.710 --> 01:53.050
+machine and one will be in the same shared storage.
+
+01:53.180 --> 01:56.900
+And if you remember for the hearts of your ability to wait.
+
+01:57.020 --> 02:04.790
+If anything wrong happen to do shit it's trash the other shit it will be available to serve you a division
+
+02:04.820 --> 02:05.400
+machine.
+
+02:05.540 --> 02:10.100
+So if it was up if we chose to do compatibly cheek is exceed it.
+
+02:10.190 --> 02:15.660
+Click next as it's done with chick.
+
+02:15.860 --> 02:20.460
+I want that can't support this virtual machine.
+
+02:20.590 --> 02:29.320
+You see datastore learn to use it for both primary and secondary vim's disk which is not recommended.
+
+02:29.470 --> 02:32.610
+So what we do we click back and we chose lane 1.
+
+02:32.620 --> 02:37.600
+Of course you should have more shared storage to chose any one that you want.
+
+02:37.900 --> 02:43.040
+So we click NEXT there it show us it fix it 1.
+
+02:43.080 --> 02:53.100
+So another question that you will ask is why we only have 6 I want and not the Ituri.
+
+02:53.130 --> 02:58.770
+So the virtual machine that we want to enable default totals in it exist in is x.
+
+02:58.800 --> 03:04.780
+I took and I told you that you should never do falter in Essex.
+
+03:04.860 --> 03:08.470
+I want and I treat that's mean.
+
+03:08.790 --> 03:12.690
+Alda has to have full loss in.
+
+03:12.840 --> 03:15.530
+They should have available right there.
+
+03:15.750 --> 03:19.880
+But you said that we only have one ESX host.
+
+03:19.980 --> 03:21.720
+So the question is why.
+
+03:21.930 --> 03:26.720
+So if you remember the preview section you know the problem.
+
+03:26.730 --> 03:27.530
+What is it.
+
+03:27.570 --> 03:30.350
+So what do you think the problem is.
+
+03:30.420 --> 03:34.970
+Try to get your answer into discussion before complete this video.
+
+03:35.070 --> 03:40.440
+Click on the pause and give me your idea why we can't see it.
+
+03:40.480 --> 03:42.760
+I number the right hand.
+
+03:42.870 --> 03:46.830
+So take a moment and back to complete this lecture.
+
+03:48.440 --> 03:55.010
+OK so if you know the correct answer you have a good memory and you can remember what happened.
+
+03:55.020 --> 03:56.400
+Drôle discourse.
+
+03:56.550 --> 04:03.140
+If not the problem right here is in distress rule.
+
+04:03.210 --> 04:10.200
+If you remember when we create some direct route we create our rule to do Windows XP.
+
+04:10.200 --> 04:10.980
+Number four.
+
+04:11.040 --> 04:18.100
+So let's back and check why we can't chose the Isak's I treat right here in the list.
+
+04:18.210 --> 04:20.750
+But Right-Hand so cancel this one.
+
+04:20.910 --> 04:28.740
+We've got to do cluster and in the config we go to the house rule and we check due to that we had the
+
+04:28.740 --> 04:31.700
+first one is this Debney you see right there is the.
+
+04:31.750 --> 04:34.160
+The second one is at the n on.
+
+04:34.180 --> 04:38.640
+Yes I agree and if we check this one we click it.
+
+04:38.770 --> 04:47.490
+You see that VM group want must not run on hosts in the group host group when we have must not.
+
+04:47.520 --> 04:49.160
+So what's its content.
+
+04:49.200 --> 04:56.160
+If we check right here we have this virtual machine must not run in Isak's tree no matter what happened.
+
+04:56.170 --> 05:00.280
+This virtual machine tool much ran in E6 number three.
+
+05:00.320 --> 05:02.710
+So if we check right here we have Win XP.
+
+05:02.730 --> 05:03.470
+Number four.
+
+05:03.630 --> 05:07.290
+So the virtual machine that we want to enable default runs.
+
+05:07.350 --> 05:16.130
+We have all the rules that say please do Windows XP but for should or must not be running into is X
+
+05:16.200 --> 05:16.790
+Ituri.
+
+05:17.010 --> 05:21.850
+That's why we don't have the choice to do it.
+
+05:21.910 --> 05:28.680
+Ideally So what we need to do because this is just too Tuireann of course in an environment you need
+
+05:28.680 --> 05:30.000
+to respect the rule.
+
+05:30.180 --> 05:34.310
+And of course you will have more i house to chose between them.
+
+05:34.500 --> 05:42.660
+So in our situation we go into design with this one or we simply delete the virtual machine number four
+
+05:42.660 --> 05:45.140
+from this rudes click Remove.
+
+05:45.180 --> 05:47.970
+Are you sure you want to remove the sexes.
+
+05:48.190 --> 05:51.630
+Man But yes so the virtual machine.
+
+05:51.760 --> 05:55.710
+No does not have any old rule about running ethics.
+
+05:55.770 --> 05:59.880
+I not pretty even this rule will still enable the virtual machine.
+
+05:59.890 --> 06:02.020
+Delegates from that group.
+
+06:02.050 --> 06:04.150
+So if we are back to the virtual machine.
+
+06:04.630 --> 06:06.660
+So no it exists into it.
+
+06:06.680 --> 06:14.730
+I do click for last then to say we chose lunch number one.
+
+06:14.950 --> 06:17.140
+This is the Rock'em on this one next.
+
+06:17.320 --> 06:19.530
+And no we have to use x.
+
+06:19.750 --> 06:20.890
+Host.
+
+06:20.950 --> 06:25.360
+So if you remember in the preview only have it I want.
+
+06:25.450 --> 06:33.650
+No we have it I want and Ituri of course more is available will show up right there and I your real
+
+06:34.420 --> 06:34.860
+estate.
+
+06:34.870 --> 06:37.150
+This is for the Master and this is for Ronnie.
+
+06:37.360 --> 06:40.340
+Hey no disconfirmation for the stadion.
+
+06:40.360 --> 06:43.420
+It's our configuration and chose which one should we muster.
+
+06:43.420 --> 06:47.040
+And the second one that will be soon into the primary and secondary.
+
+06:47.260 --> 06:55.510
+So if we chose for example is X a tree compatibly chicks see then which was do is X I want the compatibility
+
+06:55.510 --> 06:57.000
+Cheikh succeed.
+
+06:57.280 --> 07:00.240
+So we chose one of them we click next.
+
+07:00.460 --> 07:02.290
+Then here is a quick overview.
+
+07:02.290 --> 07:05.340
+The horrors that will have the secondary.
+
+07:05.470 --> 07:07.490
+So now we have to going to the end.
+
+07:07.900 --> 07:09.190
+The host will do it.
+
+07:09.220 --> 07:16.930
+I want the configuration file location ease into lane 1 tie breaker file location is lan 1 and 2 hard
+
+07:16.930 --> 07:19.560
+disk 1 location is block 1.
+
+07:19.620 --> 07:22.440
+If I remember into that option right.
+
+07:22.980 --> 07:29.980
+You have to chose any law that you want between the different land to save every file in a specific
+
+07:29.980 --> 07:30.500
+place.
+
+07:32.760 --> 07:40.910
+So like next next causing the trolls one next and click Finish.
+
+07:41.250 --> 07:44.360
+So no its start on default.
+
+07:44.400 --> 07:50.370
+In this virtual machine if we click on it it will stop changing the resource allocation for Windows
+
+07:50.370 --> 07:56.520
+XP and it will take a little time to complete the process because we'll try to mirror all the data of
+
+07:56.520 --> 08:02.270
+this imaging machine and the video must still work perfectly without any problem.
+
+08:02.440 --> 08:09.540
+Any tank still available for the user that use this image your machine and every tank will work perfectly
+
+08:11.620 --> 08:19.780
+so of course it will take a little time to complete the process by copying the top out of the virtual
+
+08:19.780 --> 08:28.050
+machine and do local disk and update and see if they an application exist in do local out hotties from
+
+08:28.050 --> 08:29.450
+not want to learn to.

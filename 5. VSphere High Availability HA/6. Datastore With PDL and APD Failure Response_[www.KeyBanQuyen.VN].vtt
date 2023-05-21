@@ -1,0 +1,493 @@
+WEBVTT
+
+00:02.790 --> 00:03.700
+Blogging.
+
+00:04.160 --> 00:10.720
+So before we start the next one we forget to mention some information right.
+
+00:11.030 --> 00:11.530
+Yes.
+
+00:11.540 --> 00:19.750
+When we talk about the master and the slave and we say that we in this house take it down.
+
+00:20.060 --> 00:24.690
+Then the master will power on the virtual machine exists in this house.
+
+00:24.800 --> 00:29.830
+In other host even though the center server is out of service.
+
+00:29.870 --> 00:38.490
+So how do muster know that the slave Hovda vitrine machine A B and C so for that we we config do that
+
+00:38.550 --> 00:46.820
+ability of the Vicent or Sayreville it automatically creates a text file into a shared storage that
+
+00:47.390 --> 00:51.750
+content all the information about the virtual machine and the host.
+
+00:51.980 --> 00:53.300
+So in that text.
+
+00:53.300 --> 00:53.710
+Right.
+
+00:53.830 --> 00:59.930
+Hey Chris do hosts muster Hovda virtual machine X Y and Z.
+
+01:00.110 --> 01:04.190
+The slave host of the virtual machine.
+
+01:04.400 --> 01:10.280
+And oh then the slave number you have the vitrine machine A B and C.
+
+01:10.490 --> 01:13.200
+So that's fine is save it in do.
+
+01:13.430 --> 01:14.570
+Shit it's trash.
+
+01:14.660 --> 01:23.000
+And this is I host in that cluster that can easy read that file and know which virtual machine in which
+
+01:23.120 --> 01:24.200
+the Center stood.
+
+01:24.200 --> 01:31.810
+So if this muster tickets than slave writer and this one will detects that the muster is to get done
+
+01:32.120 --> 01:36.510
+and he will get all the information about the vitriol machine in the muster.
+
+01:36.620 --> 01:47.410
+Rhonda textfile Khaled list so if we go to the second option we have in the heights of ability to respond
+
+01:47.410 --> 01:55.560
+for house is relation host is Rhaetian response allow you to configure the cluster to respond to host
+
+01:55.560 --> 01:57.040
+network exaltation.
+
+01:57.810 --> 02:05.420
+If you remember when we talk about the hosts file sometimes we have only do network fire a lot of we
+
+02:05.590 --> 02:12.610
+this host this mean this host is insulated from the network and the hostile work the vitriol machines
+
+02:12.640 --> 02:14.450
+departed on without any problem.
+
+02:14.550 --> 02:22.240
+Only we have a problem of the connection between the slave this host and the other is I host and the
+
+02:22.300 --> 02:30.780
+network in that case we have striation horse Israel-Egypt and not a horse filer for that we have options.
+
+02:30.810 --> 02:32.520
+Of course the first one is desirable.
+
+02:32.540 --> 02:35.890
+That's mean no action will be taken and affects V.M..
+
+02:35.940 --> 02:36.810
+That's me.
+
+02:36.810 --> 02:40.930
+Don't do anything for the virtual machine the site that host.
+
+02:40.950 --> 02:48.400
+Then we have the second option shut down and restart VM are affected VM will be gracefully shut down
+
+02:48.580 --> 02:49.860
+and Wickwire.
+
+02:50.130 --> 02:55.850
+Will attempt to restart the vim's on homes that are still online.
+
+02:56.170 --> 03:02.900
+But I mean it will shut down send a command to shut down the virtual machine exist in that host.
+
+03:02.980 --> 03:10.020
+Then when the virtual machine shuts down and pour it on in another horse in this situation we use it.
+
+03:10.050 --> 03:16.590
+If we are for example under the protection system we do application and we know that this application
+
+03:16.680 --> 03:24.720
+will have a corruption if we bought it off when we used both of those men we employ the power for that
+
+03:24.720 --> 03:25.130
+machine.
+
+03:25.140 --> 03:32.430
+It shut it down then actually without need to wait for one or two minutes to complete the process of
+
+03:32.520 --> 03:33.820
+shut down.
+
+03:34.260 --> 03:35.950
+This is the option shut down.
+
+03:35.960 --> 03:42.800
+Then we have the option powered it off and restart this part of its like you plugged the cable of the
+
+03:42.900 --> 03:49.690
+electricity from the virtual machine in one comment less than one second to a virtual machine with repotted.
+
+03:49.890 --> 03:56.840
+Then you restart the virtual machine in a different host that have connection.
+
+03:56.850 --> 04:03.030
+So in any situation that we lost the connection from this cable or from the which it does not have connection
+
+04:03.030 --> 04:04.450
+with the host.
+
+04:04.500 --> 04:11.000
+Even the hostile work perfectly and all the visual machines departed on this action will be it.
+
+04:11.220 --> 04:14.470
+Thats mean shut down or fall off.
+
+04:15.930 --> 04:25.620
+Sometimes And the most commonly it is to lose power of because in a situation is shut down sometimes
+
+04:25.680 --> 04:32.640
+as we know some machine when you send a command to shut down the process of shutdown have a problem
+
+04:32.700 --> 04:33.810
+and give you a massage.
+
+04:33.810 --> 04:36.930
+We tend to click on two choice.
+
+04:36.930 --> 04:43.200
+For example do message say please do you want to save the content of this document.
+
+04:43.200 --> 04:47.700
+For example in Microsoft Word the machine will not going to power it.
+
+04:47.900 --> 04:55.770
+We're not going to shut down and we seem to chose yes or no for that Dokument or that's a Microsoft
+
+04:55.770 --> 04:57.450
+Word in distribution.
+
+04:57.600 --> 05:00.020
+Do derrieres we'll wait.
+
+05:00.120 --> 05:07.020
+The shut down on Brijesh and before restarting it in another post and this can be take Howard or maybe
+
+05:07.140 --> 05:12.140
+Alda day maybe once a month without a portion of the vitriol machine.
+
+05:12.330 --> 05:20.860
+So always of common is power olf that's mean power of the virtual machine and posted on for use in AIDS
+
+05:20.940 --> 05:22.150
+in our company.
+
+05:22.200 --> 05:24.600
+For example some machine that need to be use it.
+
+05:24.600 --> 05:27.040
+For example the Chester server.
+
+05:27.300 --> 05:34.020
+If we wait until it shut down and have a problem so we'll have our exchange server out of service so
+
+05:34.050 --> 05:35.110
+when to power it up.
+
+05:35.160 --> 05:42.690
+Then restart the virtual machine and have the exchange available after three or four minutes in our
+
+05:42.690 --> 05:43.470
+company.
+
+05:43.830 --> 05:46.100
+Then we have another option.
+
+05:46.190 --> 05:54.620
+I tap that do that I store PDL and datastore we IPD it's close this one and we open just one.
+
+05:54.750 --> 05:57.880
+So the US thought we'd be the end.
+
+05:57.930 --> 06:00.940
+That's mean permanent device loss.
+
+06:01.050 --> 06:07.440
+We have a situation another situation if you see the one that this Haast have disconnected to the network
+
+06:07.680 --> 06:15.890
+but still work perfectly the situation that we have had for us is that this Hulst still have connection
+
+06:15.890 --> 06:26.070
+with do a work but he lose connection to do that or store the shit it look that's mean does not have
+
+06:26.100 --> 06:28.450
+any connection with the body of the Vissarion machine.
+
+06:28.470 --> 06:31.980
+So we created the virtual machine the hate and the body.
+
+06:32.010 --> 06:38.010
+We cut it down so all the virtual machine will be date of the virtual machine will be out of service.
+
+06:38.040 --> 06:46.530
+Even the House is still working perfectly the Master sent the herd to the slave and the slave said yes
+
+06:46.590 --> 06:53.610
+I'm still alive but all the virtual machine is out of service because we have a filer between the slave
+
+06:53.760 --> 06:54.860
+and the device.
+
+06:55.020 --> 07:02.010
+So we have a situation we have the device Paramount's device Los lets me he does not have connection
+
+07:02.490 --> 07:04.720
+to do device in this situation.
+
+07:04.740 --> 07:11.370
+We have the option of course by default is disable no action will be take it to the affected virtual
+
+07:11.370 --> 07:12.890
+machine.
+
+07:13.350 --> 07:20.040
+Thats mean its only give you a message that there are Vitry on the machine that is out of service because
+
+07:20.190 --> 07:23.670
+we have at that store we'd be the fire alarm response.
+
+07:23.690 --> 07:27.120
+This just gives you an event to know about it.
+
+07:27.300 --> 07:32.660
+But the action that we have is power of understanding between machine that's mean are affected.
+
+07:32.670 --> 07:39.000
+Virtual Machine will be terminated and this year of ability will attempt to restart the virtual machine
+
+07:39.150 --> 07:40.020
+on hauz.
+
+07:40.140 --> 07:42.920
+You'll have connectivity to do that.
+
+07:43.620 --> 07:50.320
+You see here we don't have shut down because the virtual machine Amerie the power of Alamoudi kill it
+
+07:50.700 --> 07:53.910
+by losing the connection between hate and Abadie.
+
+07:54.060 --> 07:55.650
+So I'll derivate your machine.
+
+07:55.650 --> 07:56.650
+It is bolted.
+
+07:56.850 --> 07:57.720
+The action.
+
+07:57.720 --> 08:05.220
+If there are some vitch and instead voted on please part of them and restart them in another host that
+
+08:05.520 --> 08:10.080
+have connection with do that are stock right.
+
+08:10.230 --> 08:17.520
+For example this one is firelit But when you want to restart a virtual machine that's already exists
+
+08:17.520 --> 08:18.660
+in this host.
+
+08:18.660 --> 08:24.150
+It will check in the top connection with decide that for example if you have a mother tree.
+
+08:24.210 --> 08:31.110
+I host if one of them does not have connection with this that does logically this virtual machine we're
+
+08:31.110 --> 08:34.540
+not going to report it on inside that server.
+
+08:34.710 --> 08:39.600
+So logically it will restart the virtual machine inside the other hosts that have connection.
+
+08:39.600 --> 08:42.300
+We do that for example in this one.
+
+08:42.330 --> 08:45.390
+And in this one that's have our connection.
+
+08:45.660 --> 08:52.900
+Then the other option right head of course we leave this one disable the other one that we have right
+
+08:52.900 --> 08:59.030
+there is do all beat down fight response to that.
+
+08:59.040 --> 09:07.380
+I start with APD all paid down to situations that mean the store is out of service.
+
+09:07.420 --> 09:14.120
+I mean we have a far left Abdula bit overdue that the US or Dusan or ice Khazaee or the storage public
+
+09:14.240 --> 09:18.400
+etc. This was a problem and it is out of service.
+
+09:18.460 --> 09:19.330
+That's mean.
+
+09:19.370 --> 09:25.920
+ALDA vitrine machine exists in this one is powered off and out of service industry.
+
+09:25.960 --> 09:30.560
+Of course this is a hard situation.
+
+09:30.660 --> 09:31.800
+We have the Zevi.
+
+09:31.800 --> 09:35.620
+As always we have events that mean gets you on that occasion.
+
+09:35.680 --> 09:44.190
+Then part of that is of vitriol machine conservative restart Polisi and aggressive restart policy.
+
+09:44.190 --> 09:50.730
+In this situation it will send a commode and keep track the connection.
+
+09:50.730 --> 09:57.360
+We thought that store and all the virtual machine exist in the store to power up and restart.
+
+09:57.390 --> 09:58.540
+We have concerts.
+
+09:58.650 --> 09:59.270
+That's me.
+
+09:59.300 --> 10:04.800
+Did this action slowly and aggressively do with as fast as possible.
+
+10:05.950 --> 10:12.830
+Are affected virtual machine would get rid of and Visby it has been it will attempt to restart VM if
+
+10:13.010 --> 10:16.440
+the host has connectivity to do that a start.
+
+10:16.780 --> 10:25.690
+I mean when this store is out of service and lost all the connection with this one if any Hulst Zeuxis
+
+10:25.770 --> 10:27.460
+do have a connection with this.
+
+10:27.460 --> 10:32.600
+That does not mean that those stores start responding to one of those hosts.
+
+10:32.750 --> 10:38.970
+For example I have no doubt about Indu network adapter the network adapter took it down.
+
+10:38.990 --> 10:42.580
+Only one that still work with a another host.
+
+10:42.590 --> 10:43.370
+In that situation.
+
+10:43.430 --> 10:49.960
+Will try to restart the virtual machine inside that host that have connection with this that.
+
+10:50.030 --> 10:58.330
+So he will try to arrest Bardos between machine inside that home that will get a connectivity to do
+
+10:58.360 --> 10:59.250
+that Astar.
+
+10:59.440 --> 11:01.370
+We have to consider what that's mean.
+
+11:01.480 --> 11:08.110
+Slowly they will wait aspecific time and check if you did that or Starbucks to the light because sometimes
+
+11:08.110 --> 11:14.950
+we only have a problem with network or the datastore have a freezing then it's need a little time to
+
+11:14.950 --> 11:16.020
+get back to the live.
+
+11:16.060 --> 11:19.540
+So we chose conservative to give it our time.
+
+11:19.570 --> 11:22.590
+Chick is really the story is out of service.
+
+11:22.750 --> 11:27.560
+If not we used to power of aggressive restart.
+
+11:27.560 --> 11:31.460
+What do you see that's mean it will do it as fast as possible.
+
+11:31.570 --> 11:33.880
+Then we have the wrist band recovery.
+
+11:33.880 --> 11:36.500
+It's integration about are they done.
+
+11:36.850 --> 11:37.860
+That's mean.
+
+11:37.870 --> 11:45.820
+When we chose deserver that's mean do response recovery will not start automatically.
+
+11:45.830 --> 11:53.960
+We'll wait three minutes before restart the virtual machine and bought it on and datastore that is fine.
+
+11:54.170 --> 11:54.930
+That's mean.
+
+11:55.090 --> 12:05.520
+If that stored back to life after a moment he will wait three minutes before he starts taking the recovery
+
+12:05.520 --> 12:12.210
+step recovery process and restart the vitriol machine in that store and use it as our men.
+
+12:12.210 --> 12:15.740
+That does not mean he used the star in the environment.
+
+12:15.750 --> 12:22.510
+He should wait three minutes before a restart intervention machine and using Indu preview place that
+
+12:22.640 --> 12:24.100
+this was before.
+
+12:24.330 --> 12:31.320
+But when we chose restart that's meant automatically when he detects Ah datastore back to the life he
+
+12:31.320 --> 12:38.750
+will restart the virtual machine and put it on in the right server that it was before.
+
+12:38.760 --> 12:45.330
+So of course we should always chose three minutes because we need to be sure that our store is ready
+
+12:45.660 --> 12:47.230
+to walk again.
+
+12:47.430 --> 12:54.480
+But sometimes if we have a small number of store for example have only two at the store we need to restart
+
+12:54.500 --> 13:01.200
+division machine as quick as possible because some virtual machine will still powered it off and we
+
+13:01.200 --> 13:03.780
+do not want to wait three minutes before.
+
+13:03.770 --> 13:06.380
+Stop audit on this virtual machine.
+
+13:06.380 --> 13:09.910
+In other server.
+
+13:10.040 --> 13:14.370
+So this is a different option that we have and we'll discover more in the next week.

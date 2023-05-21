@@ -1,0 +1,133 @@
+WEBVTT
+
+00:00.450 --> 00:09.480
+They will have to ask Mark do dependent independent and independent not persist is persistent and not
+
+00:09.480 --> 00:10.260
+persistent.
+
+00:10.290 --> 00:19.440
+So what do you do this more by default it creates a hard this automatically shows dependence dependence.
+
+00:19.470 --> 00:21.290
+That's mean our moment.
+
+00:21.300 --> 00:24.590
+This can be use it for our snapshots.
+
+00:24.630 --> 00:32.010
+We're going to talk about post-nuptial later but the dependent disc are included in our Snapshot.
+
+00:32.010 --> 00:32.460
+That's me.
+
+00:32.520 --> 00:36.820
+This one can be use it to create our Snapshot.
+
+00:37.110 --> 00:45.510
+But when we chose independence and the option resistant that's me challenge are immediately and permanently
+
+00:45.540 --> 00:52.540
+right into the disk persistent disk are most affected by snapshot where we chose independence.
+
+00:52.560 --> 00:55.720
+We can't create a snapshot to this virtual machine.
+
+00:55.770 --> 01:00.480
+This machine will not give you the ability to create a stopwatch for this one.
+
+01:00.480 --> 01:09.070
+And when we chose system that man will write to the disk directly without any problem.
+
+01:09.220 --> 01:16.140
+But when we disable does not in this host but all the child would be civies where we chose independence
+
+01:16.320 --> 01:22.810
+no persistent charge to disk are discarded when your power of your virtual machine or revert to the
+
+01:23.430 --> 01:25.780
+snap shot.
+
+01:25.800 --> 01:33.080
+The third option non-persistent but me you make this hard driver in Job.
+
+01:33.090 --> 01:33.620
+That's me.
+
+01:33.620 --> 01:40.420
+You push the operating system in that hard drive or your application or anything inside this machine.
+
+01:40.650 --> 01:48.480
+And when you change the disk more independent non-persistent that's mean any use that is dismiss your
+
+01:48.480 --> 01:54.530
+machine tried to install any software inside this machine deletes any filed anything.
+
+01:54.720 --> 02:02.670
+When this machine powered off and try to put it on again it spoke to preview a configuration that you
+
+02:02.820 --> 02:06.850
+left it when you chose the disk mode not persistent.
+
+02:06.990 --> 02:13.680
+It's like you use a software what's called deep freeze software was our redefined most in cyber coffee
+
+02:13.740 --> 02:20.430
+or in a public computer we used non-persistent that's mean anyone can use this machine to connected
+
+02:20.440 --> 02:28.270
+to internet to try doing some homework or for example in the library when you have a desktop or laptop
+
+02:28.320 --> 02:32.550
+use it for the public students in our library.
+
+02:32.550 --> 02:38.400
+Students can create some application can install some software can you did something in the operating
+
+02:38.400 --> 02:39.640
+system etc..
+
+02:39.840 --> 02:48.420
+But to save your machine from every time you need to get this machine and try to fix the problem you
+
+02:48.420 --> 02:56.160
+chose independent not persistent and no matter what the challenge happened for this machine it would
+
+02:56.160 --> 03:03.330
+just simply power off and on and on the child will discard and your virtual machine will back to the
+
+03:03.570 --> 03:07.720
+states that you make it in the preview time.
+
+03:07.800 --> 03:11.090
+So it's like when is the Duprees when your power of the vision machine.
+
+03:11.270 --> 03:18.950
+The data and the history dilated and the virtual machine back to do trivial state before using do not
+
+03:19.110 --> 03:20.650
+persistent.
+
+03:20.670 --> 03:27.310
+So this is the option of the persistent and non-persistent and we always chose dependence.
+
+03:27.420 --> 03:31.680
+If you want to use the snap shot the individual the mode.
+
+03:31.920 --> 03:32.640
+Scalzi.
+
+03:32.670 --> 03:39.840
+Of course we chose the kind of cable that we want this hard disk connected the motherboard the virtual
+
+03:39.840 --> 03:48.450
+motherboard on this virtual machine connected to the Virtual Hard Disk we do control or we do I do zero.
+
+03:48.510 --> 03:53.080
+I do one or SATA controller and we have some version of the star.
+
+03:53.130 --> 04:01.960
+It is information about the speed and the option for each of those subtle so mixed with Discover the
+
+04:02.040 --> 04:04.460
+other option we have in our virtual machine.

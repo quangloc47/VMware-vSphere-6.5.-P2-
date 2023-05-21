@@ -1,0 +1,199 @@
+WEBVTT
+
+00:01.430 --> 00:02.220
+Help again.
+
+00:02.430 --> 00:05.560
+So let's create our first resource pool.
+
+00:05.700 --> 00:10.460
+So a click on your resource pool give it a name
+
+00:13.380 --> 00:15.230
+and a source for aid.
+
+00:15.440 --> 00:21.190
+We'll give it to stand out in one format and this one as we click OK.
+
+00:21.350 --> 00:23.050
+So it's great art resource.
+
+00:23.060 --> 00:24.070
+All right.
+
+00:24.140 --> 00:27.450
+So if we click on it we get a quick idea about it.
+
+00:27.620 --> 00:34.060
+So you see the details of this one have five gigahertz then one gigabyte of the room.
+
+00:34.130 --> 00:38.750
+How much virtual machine and templates are available in this one part of on virtual machine.
+
+00:38.760 --> 00:43.310
+Child issues if you remember we can carry a child that is school and child.
+
+00:43.320 --> 00:49.840
+The app can get different hair than normal how much sleep use expand from zero.
+
+00:50.000 --> 00:54.920
+And limits in tool limits we have worst case on location.
+
+00:54.920 --> 01:02.640
+That's means the minimum gaze on location is zero the memory as the same etc..
+
+01:02.900 --> 01:09.160
+Some define right here then the cluster use it is the cluster that we have right there etc..
+
+01:09.200 --> 01:16.100
+So we have monitored to get to the event or the issue that we have the config the same if you want to
+
+01:16.100 --> 01:23.990
+continue to spew or memory you change it from this one for example we want to give it about high or
+
+01:23.990 --> 01:25.440
+low et cetera.
+
+01:25.700 --> 01:29.870
+Then the rain for example we want to give it more rain like that.
+
+01:29.870 --> 01:32.800
+We chose for example from Manimal to hide.
+
+01:32.930 --> 01:33.660
+OK.
+
+01:33.850 --> 01:39.650
+Then the permission the permission of the user if you remember to use a section from the previous course
+
+01:40.310 --> 01:46.050
+then the resource pool and the virtual machine available in this resource pool.
+
+01:46.130 --> 01:48.530
+Of course it's still empty.
+
+01:48.530 --> 01:54.450
+So let's create another resource pool like this one resource pool.
+
+01:54.840 --> 01:57.010
+No it's not.
+
+01:57.010 --> 02:06.160
+It's funny because simply a source for the and give is for example Now this one now.
+
+02:06.360 --> 02:07.440
+OK.
+
+02:08.000 --> 02:17.260
+Then this one if we try it it's restores for example give it high.
+
+02:17.390 --> 02:18.040
+And this one.
+
+02:18.210 --> 02:19.060
+Hi.
+
+02:19.410 --> 02:20.290
+OK.
+
+02:20.490 --> 02:25.140
+So then let's try to put some virtual machine inside a different resource board.
+
+02:25.350 --> 02:31.440
+For example does Windows 7 inside a resource or a make art
+
+02:34.490 --> 02:37.460
+they do Windows XP in the resource pool.
+
+02:37.530 --> 02:40.430
+And but talk just like this one.
+
+02:40.440 --> 02:44.970
+So when we take the Swan We have treat virtual machine inside the rest of the sport.
+
+02:45.270 --> 02:50.940
+And when you're through the machine inside the resource pool will be then of course we have some other
+
+02:50.940 --> 02:54.470
+virtual machine that's used to mount a resource or route.
+
+02:54.490 --> 02:58.110
+So does that mean the physical resources that actually.
+
+02:58.170 --> 03:01.290
+So if we take this one it's still consume zero.
+
+03:01.300 --> 03:02.480
+What is the result.
+
+03:02.530 --> 03:09.460
+Of course we need to power one on your machine to start seeing consumation of the results.
+
+03:09.740 --> 03:13.120
+So like Juan Sloan
+
+03:15.880 --> 03:17.490
+this one like that.
+
+03:17.740 --> 03:24.320
+So if we take note the resource board will see that stop consuming the available resource.
+
+03:25.580 --> 03:34.730
+And then when any virtual machine start how overloaded in our resource available in the cluster cluster
+
+03:34.730 --> 03:41.420
+we'll start distributing the resource of this host in relation about the value that we give it to reduce
+
+03:41.610 --> 03:42.340
+the sport.
+
+03:42.440 --> 03:48.470
+For example this one gets sort of virtual machine can consume height value of the resource available
+
+03:48.500 --> 03:49.860
+in the different terms.
+
+03:50.000 --> 03:55.550
+Then the same for the second one will consume up to the level of table in this one.
+
+03:55.700 --> 04:03.930
+So you see I had the memory star consume about 100 megabytes and if we checked the other one store consumed
+
+04:03.950 --> 04:11.060
+less because this one is just Windows XP does one have three bedroom machine so every one take its own
+
+04:11.960 --> 04:12.670
+resource.
+
+04:12.890 --> 04:15.500
+So this is the idea of the resource pool.
+
+04:15.590 --> 04:18.700
+We limited this virtual machine to the resource pool.
+
+04:18.710 --> 04:24.580
+I've lived in this one and this machine also limited the Baidu resource in this one.
+
+04:24.710 --> 04:30.950
+And of course any time you want to get more resource to our virtual machine inside our tools pull you
+
+04:30.950 --> 04:39.200
+back right where you change from normal to height and give it some reservation and so on and so on.
+
+04:39.200 --> 04:43.760
+So this is the idea of this one of course we can create a resource pool inside this one.
+
+04:43.790 --> 04:51.260
+So we click on it was Paul the only creates a child resource pool for example like this one resource
+
+04:51.260 --> 05:01.250
+pool a tool like this one inside and we have another resource pool then we give it value more money.
+
+05:01.300 --> 05:06.300
+So if we click on this one you see that it gets a part of this one.
+
+05:06.310 --> 05:11.080
+So the calculation it will be part from this one.
+
+05:11.090 --> 05:13.190
+So next we'll see do we up.

@@ -1,0 +1,166 @@
+WEBVTT
+
+00:00.370 --> 00:05.440
+Then we have another task at the top and we know it is a falconer and a linking clone.
+
+00:05.520 --> 00:07.820
+This diagram will explain a little about it.
+
+00:07.820 --> 00:15.780
+When we use the fall clone we have a file copy us mean we copy the virtual disk and the snapshot in
+
+00:15.780 --> 00:23.310
+this virtual machine and also the VM configuration we could all do that from this machine to virtual
+
+00:23.310 --> 00:28.420
+machine big copy of them cooperation with Coppi the configuration of the virtual machine.
+
+00:28.590 --> 00:34.770
+Also we could be all the virtual disk and it's not got any it's not to save it in this disk created
+
+00:34.800 --> 00:36.660
+in this one.
+
+00:36.660 --> 00:40.710
+This one has also its own snapshot from the original one.
+
+00:40.860 --> 00:46.540
+I mean we can run our back of the snapshot in this virtual machine and David are the machine.
+
+00:46.540 --> 00:50.330
+We keep using do last snapshot without any problem.
+
+00:50.400 --> 00:58.980
+So also we have a disk you I.D. automatically made unique when he copy the disk the virtual disc Hey
+
+00:58.980 --> 01:03.050
+give it a Majdi because every hard drive would have on.
+
+01:03.240 --> 01:09.250
+Also the VM config if you back to the preview cards will create some configuration file.
+
+01:09.420 --> 01:17.550
+Every virtual machine should have in the system and that operation system should have a unique ID every
+
+01:17.700 --> 01:20.340
+operating system created with a unique ID.
+
+01:20.550 --> 01:28.710
+If you run virtual machine operation system in aspecific network that's have the same ID you will have
+
+01:28.710 --> 01:33.630
+a problem in integration or Active Directory and so on and so on.
+
+01:33.640 --> 01:37.210
+So that every operation is essential to have a unique ID.
+
+01:37.350 --> 01:44.880
+If you try to copy this virtual machine manually for example you got to store your copy the folder of
+
+01:44.880 --> 01:46.110
+the virtual machine.
+
+01:46.110 --> 01:51.680
+Then you posted in another host and then connect it to the host.
+
+01:51.690 --> 01:55.460
+The host will ask you to use this virtual machine is a clone.
+
+01:55.650 --> 02:03.870
+If you see us here we'll try to get it to do your operating system Id do a disk ID and the MAC address
+
+02:03.980 --> 02:07.070
+of the machine and so on are necessary.
+
+02:07.170 --> 02:08.250
+That needs to be changed.
+
+02:08.240 --> 02:14.940
+It will do is if you say no this is not a virtual machine we don't have any copy of this but your machine
+
+02:15.060 --> 02:19.490
+will connect to a virtual machine without any problem but draw the network.
+
+02:19.500 --> 02:21.820
+You'll start seeing some problem.
+
+02:21.930 --> 02:30.150
+You will have double a Mac that is the same MAC address in the machine the same unique ID of the disk
+
+02:30.210 --> 02:32.790
+and the same unique ID of the operating system.
+
+02:32.850 --> 02:38.740
+When you try to integrate or connect this virtual machine on a negative directory here will tell you
+
+02:38.760 --> 02:43.030
+that the ID on the pension system already exist in our database.
+
+02:43.050 --> 02:46.900
+You can't add the same to of your machine two times.
+
+02:47.040 --> 02:52.550
+So this machine will not be arbitral connected to the active directory and a lot of other problem.
+
+02:52.560 --> 03:00.420
+So when we make our file cloning the disk automatically made unique do our punishment system also have
+
+03:00.450 --> 03:08.220
+a new unique ID the optional MAC address made unique it would create a new MAC address to the network
+
+03:08.220 --> 03:09.690
+adapter and so on.
+
+03:09.690 --> 03:15.540
+Also we have some option the Virtual Box monitor and client this literature connects the virtual machine
+
+03:15.540 --> 03:17.460
+with the different software.
+
+03:17.490 --> 03:22.460
+For example Virtual Box manager and client and some other tools.
+
+03:22.710 --> 03:28.140
+Then we have the linkage clone when we use the linkit clone VM config is computed.
+
+03:28.200 --> 03:35.790
+It could be the VM configuration we have copy of the VM configuration of course make editing of ADO
+
+03:35.880 --> 03:40.990
+operations systemd idea of open them the name of the machine and so on.
+
+03:41.100 --> 03:46.730
+A snapshot is taken out it's in this tradition we copied the file.
+
+03:46.740 --> 03:51.000
+How driver know it we took only a snapshot from the source.
+
+03:51.000 --> 03:53.310
+This is the virtual disk and the snapshot.
+
+03:53.340 --> 04:00.180
+It will save a new hard drive or THAT'S have only the difference between your virtual machine and the
+
+04:00.270 --> 04:02.580
+original virtual disk.
+
+04:02.650 --> 04:08.340
+The clone is our child defense disk which should snapshot as parent.
+
+04:08.410 --> 04:14.100
+That's mean he would use the change that's happened in this virtual machine and see it in a new disk
+
+04:14.610 --> 04:20.010
+and then when you try to make a snapshot he will connect to this snapshot right here and revert back
+
+04:20.010 --> 04:21.380
+to this snapshot.
+
+04:21.570 --> 04:26.280
+But it is always dependent on the original snapshot of it right.
+
+04:27.210 --> 04:34.020
+So this is the idea of ADO vim clone and link it can and will cover all the detail about a fun clone.
+
+04:34.020 --> 04:39.110
+No it will try to cover some information about linkit clone so the next video.

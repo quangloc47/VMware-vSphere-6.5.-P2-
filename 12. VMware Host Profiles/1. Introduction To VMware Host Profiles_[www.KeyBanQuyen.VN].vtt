@@ -1,0 +1,52 @@
+WEBVTT
+
+00:01.570 --> 00:08.360
+Hello and welcome again in this new section in this section we're going to talk a little about Hulst
+
+00:08.560 --> 00:15.200
+profile the host profiled is like when we create a template virtual machine.
+
+00:15.250 --> 00:21.130
+In the previous course we cover our fall section about cloning and a complete virtual machine how to
+
+00:21.130 --> 00:23.070
+create a complex picture machine.
+
+00:23.080 --> 00:31.150
+Also we cover how to create our customization specification file for every virtual machine.
+
+00:31.150 --> 00:38.790
+Also we can do the same step at the level of the host in the preview work a delivery of a virtual machine.
+
+00:38.830 --> 00:42.930
+Now we can create our profile for different tasks.
+
+00:42.970 --> 00:49.810
+Of course the value of a hospital fight it's not very important in a smart environment like this one
+
+00:49.810 --> 00:51.660
+that we have only tricky ethics.
+
+00:51.850 --> 00:58.510
+But induce big environment with 20 100 200 1000 physical hosts.
+
+00:58.630 --> 01:01.920
+It's very very useful to have a host profile.
+
+01:02.080 --> 01:09.130
+So when you're config different E6 I host you can simply do it one time and apply it.
+
+01:09.460 --> 01:12.130
+Are you is I host available.
+
+01:12.250 --> 01:15.200
+So how we get to host profile.
+
+01:15.550 --> 01:18.670
+We can't go to the home like that.
+
+01:18.670 --> 01:22.080
+Then we have our option create a hosts profile.
+
+01:22.540 --> 01:24.580
+So this is the highest profile.

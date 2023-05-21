@@ -1,0 +1,241 @@
+WEBVTT
+
+00:01.710 --> 00:02.460
+Hello again.
+
+00:02.630 --> 00:07.040
+So let's get an idea about do there is distribute you the results.
+
+00:07.040 --> 00:10.860
+Skidder So what is difference.
+
+00:10.970 --> 00:13.540
+DEAN We're distributing the resource scheduler.
+
+00:13.840 --> 00:21.730
+The principal function of the dress is to automate resource allocation budget on C.P. and memory load.
+
+00:21.730 --> 00:27.220
+So the dress has no relation about DCP and the memory load.
+
+00:27.220 --> 00:36.670
+Staci that's mean you have for example in this example we had we have tree root we unable to Derrius
+
+00:36.670 --> 00:43.790
+inside this tree root that exists in the same cluster because the configuration of the rest of the label
+
+00:43.810 --> 00:45.130
+of the cluster.
+
+00:45.130 --> 00:55.450
+So the rest track start off all those so root in the same cluster and check the location of the resource
+
+00:55.540 --> 00:57.520
+into different tasks.
+
+00:57.520 --> 01:06.390
+And when any of those Haast have an overloading in a few and and the memory like in this example I had
+
+01:06.720 --> 01:14.890
+the server would have consumed about 100 percent of the city and the Memali That's me there is schul
+
+01:14.890 --> 01:24.910
+take action and minimise the overload in this host by negating the virtual machine one of those video
+
+01:25.290 --> 01:30.320
+DNS do its calculation Jannot which virtual machine should be migrated.
+
+01:30.360 --> 01:38.820
+The one that will give a free space of the superior and the only from that host is the motion if you
+
+01:38.820 --> 01:45.420
+remember that there is an illusion about the motion before into motion section.
+
+01:45.510 --> 01:46.900
+We do it manually for them.
+
+01:46.950 --> 01:52.440
+If we found this has to have an overloading on the CPO on the ramp we got to disappoint you the machine
+
+01:52.620 --> 02:00.180
+would click on it which would be great and then send it to another house that have less loading but
+
+02:00.180 --> 02:07.470
+no Deros while doing it automatically and take this virtual machine and chose Charles Dorise destination
+
+02:07.850 --> 02:08.820
+or right.
+
+02:08.870 --> 02:13.380
+That's when we get to do not vitrine the machine inside.
+
+02:13.470 --> 02:20.510
+And of course if you see this right here you see that this has to have only 20 percent of resource use
+
+02:20.510 --> 02:20.890
+it.
+
+02:21.060 --> 02:31.830
+And this physical set would have about 14 percent of the resource use it and logically you say does
+
+02:31.860 --> 02:36.150
+this one that have lots of free resources should guests.
+
+02:36.200 --> 02:41.670
+This new virtual machine so automatically derrieres will take this virtual machine will use the Wii
+
+02:41.670 --> 02:46.060
+motion to migrate it automatically and send it to the second.
+
+02:46.070 --> 02:48.930
+That's have more free of the resouce.
+
+02:48.990 --> 02:54.290
+Of course if you have another server that's have more features than this one.
+
+02:54.330 --> 02:57.170
+He will decide to take it to that server.
+
+02:57.300 --> 03:03.080
+And the same if something wrong happened to this house and have an overloading inside it.
+
+03:03.220 --> 03:09.720
+It will take action and take one of those between machine and the revolution then migrated to the physical
+
+03:09.720 --> 03:15.150
+server that had more free C.P and memory lock.
+
+03:15.420 --> 03:17.680
+So this is the idea of the press.
+
+03:17.820 --> 03:19.380
+See it's very simple.
+
+03:19.440 --> 03:20.930
+It is the emotion.
+
+03:21.030 --> 03:29.050
+It's more of do resource use it of the virtual machine from a host of overloading to another.
+
+03:29.070 --> 03:32.850
+That's how more free resource.
+
+03:33.000 --> 03:38.130
+And when I tell you that's the motion and not the emotion that's mean.
+
+03:38.220 --> 03:41.870
+Miguel is only the head of the virtual machine if remembered to hate.
+
+03:41.910 --> 03:43.240
+And nobody knows.
+
+03:43.240 --> 03:47.570
+We might get is the hate of the vitriol machine does mean rain.
+
+03:47.640 --> 03:52.320
+And do C.P. another kind of derrieres that we have.
+
+03:52.320 --> 03:53.950
+It's got to do storage.
+
+03:54.000 --> 04:01.540
+Did s just one I guess as the same as the motion and decide we're not going to be great.
+
+04:01.550 --> 04:03.470
+The heyday of the virtual machine.
+
+04:03.690 --> 04:08.300
+But we're going to degrade the body of the virtual machine.
+
+04:08.370 --> 04:08.900
+That's me.
+
+04:09.030 --> 04:09.900
+The virtual machine.
+
+04:09.910 --> 04:20.670
+Winsted using the same resouce of the physical host but the storage that will have a different action
+
+04:20.930 --> 04:26.560
+that's mean it will migrate the body from one to another slash.
+
+04:26.760 --> 04:33.470
+So as the same idea we have for example some virtual machines that have the body inside this shed its
+
+04:33.490 --> 04:37.670
+trash and that's why we need Atlas to us.
+
+04:37.770 --> 04:43.980
+So to have the storage there is we need to have at least two shedded.
+
+04:44.010 --> 04:50.730
+So if you have only one of those stores is it will not be available in your situation.
+
+04:51.300 --> 04:58.140
+And of course the recommended is to have more than 2 4 6 10 10 or more storage that's mean more hide's
+
+04:58.230 --> 05:02.710
+availability of the vitriol machine inside your environment.
+
+05:02.730 --> 05:10.790
+So in any case one of those virtual machine or our division machines that exist in this datastore right.
+
+05:10.930 --> 05:19.340
+This is a sheet it's a Lundvall in our example is our lunch number one start consuming do speed of do
+
+05:21.070 --> 05:24.130
+the inputs output do read and write.
+
+05:24.200 --> 05:31.100
+That's mean some virtual machine have hyped a lot of rhenium of the data from the disk.
+
+05:31.100 --> 05:32.760
+Some of them have to hide.
+
+05:32.840 --> 05:41.240
+Writing to me inputs and outputs like this because the heart but also have a our city and memory to
+
+05:41.800 --> 05:46.610
+random process that everybody in Mushin ask for it.
+
+05:46.830 --> 05:54.240
+Also if they have an over Claudian of the size for example the virtual machine can some more size of
+
+05:54.240 --> 05:55.040
+the store.
+
+05:55.110 --> 06:00.510
+So the free space in this shit storm has become less.
+
+06:00.510 --> 06:05.590
+For example 10 or 20 percent of the freeze thaw has available in this case.
+
+06:06.950 --> 06:15.980
+The press will take action and take one or two or three between the machine from this shit it's trash
+
+06:16.370 --> 06:25.280
+and use the storage emotion to greeds the storage of this machine to another shared stories that have
+
+06:25.550 --> 06:32.720
+more resources and have more space to host the new virtual machine.
+
+06:32.720 --> 06:39.140
+So this is the idea we have the DNS that's have information about the city and the memory.
+
+06:39.150 --> 06:46.010
+So it migrated to hate on the virtual machine from hosts that have overloading too has less law.
+
+06:46.230 --> 06:53.570
+Then we have to start Deros that migrates the body of the virtual machine from a shared storage to another
+
+06:53.630 --> 06:56.380
+shared storage but have more resouce.
+
+06:56.750 --> 07:02.220
+So this is a different dress that we have in the gym where we sit.
+
+07:02.300 --> 07:09.090
+So next we'll see some room that we can use it do depress and so large.
+
+07:09.160 --> 07:10.250
+It soon to be.

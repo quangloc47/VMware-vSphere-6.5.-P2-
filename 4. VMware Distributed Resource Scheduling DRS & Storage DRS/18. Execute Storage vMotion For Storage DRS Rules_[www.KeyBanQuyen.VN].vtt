@@ -1,0 +1,391 @@
+WEBVTT
+
+00:00.420 --> 00:09.270
+So when he complete the data center cluster you can't see it's from displays or whatever you need to
+
+00:09.270 --> 00:11.500
+go to the store right.
+
+00:11.510 --> 00:19.440
+And then you see we have a data store cluster and if you remember when we was in Morocco data center
+
+00:19.470 --> 00:23.400
+we see the different store that was the 1 2 and 3.
+
+00:23.430 --> 00:25.930
+Then do lunch one and lunch.
+
+00:26.010 --> 00:32.080
+No the loved one and learn to become inside the store cluster.
+
+00:32.330 --> 00:33.880
+Seat lunch and lunch.
+
+00:33.900 --> 00:39.480
+Inside do cluster of the datastore we can't see that our stock was up on display.
+
+00:39.510 --> 00:46.290
+We only see it from here and from this place you can create are a data store cluster as the same as
+
+00:46.290 --> 00:47.690
+we did into one.
+
+00:47.940 --> 00:52.750
+So when we click onto datastore cluster you see a quick overview of it.
+
+00:52.980 --> 00:55.580
+The monitor and do coffee.
+
+00:55.800 --> 01:03.210
+And here we have some simple configuration do start with DNS as you see here fully automated then the
+
+01:03.210 --> 01:09.770
+different option used the cluster sieging the input output metric and some other option.
+
+01:09.780 --> 01:13.070
+Do other then one by one.
+
+01:13.210 --> 01:16.930
+How do you see the default of an e-ticket VM decie together by default.
+
+01:16.930 --> 01:18.280
+This is the default one.
+
+01:18.310 --> 01:26.830
+If you remember the VM decie of every virtual machine that by default created in the same spot then
+
+01:26.830 --> 01:28.620
+check in balance every eight hours.
+
+01:28.660 --> 01:29.490
+That's mean.
+
+01:29.630 --> 01:38.370
+Every hour we'll check in balance for our store because the store had a big file.
+
+01:38.440 --> 01:45.820
+When we talk about the stores dearest we talk about big size do files for the virtual machine have five
+
+01:45.850 --> 01:50.630
+or ten gigabytes of stars on a machine have wondered about or not.
+
+01:50.680 --> 01:53.540
+So it is impossible to keep a chicken do that.
+
+01:53.540 --> 01:57.640
+I thought every minute or second it is illogical.
+
+01:57.640 --> 02:06.400
+You need to wait about eight hours to check do new information from the data store and decide if we
+
+02:06.400 --> 02:12.670
+need to make a migration off of our storage from a should it's just another sheet it's.
+
+02:13.600 --> 02:16.180
+And some other option of course you can get it from.
+
+02:16.210 --> 02:16.840
+Right.
+
+02:16.840 --> 02:17.130
+Right.
+
+02:17.120 --> 02:23.520
+Had the same automated etc but as this is need 8 hour.
+
+02:23.680 --> 02:26.980
+So the stores will take action after each hour.
+
+02:26.980 --> 02:30.220
+He will check the different line and take action.
+
+02:30.220 --> 02:39.330
+After about a tout and we see the storage emotion start automatically but of course we want wait an
+
+02:39.400 --> 02:40.020
+hour.
+
+02:40.240 --> 02:43.600
+So we have the VM override if we want to overwrite something that your machine.
+
+02:43.600 --> 02:45.460
+And we have some rules.
+
+02:45.640 --> 02:52.060
+So let's create some room to see our life example of the storage the emotion.
+
+02:52.120 --> 03:00.340
+So we click out then we enable of course we need to enable the route that we want and we have VM Aunty
+
+03:00.400 --> 03:02.120
+affinity.
+
+03:02.310 --> 03:08.290
+Let's start with DVM and Jaffee that's meant on virtual disk of the listed that your machine should
+
+03:08.300 --> 03:10.560
+be plus it on different store.
+
+03:11.100 --> 03:18.650
+And we click on the right hand and check the difference between machines that we have and the data store
+
+03:18.780 --> 03:20.290
+that's used.
+
+03:20.340 --> 03:25.090
+So head to the rule say anti affinity.
+
+03:25.200 --> 03:26.010
+That's me.
+
+03:26.010 --> 03:33.310
+This virtual machine should not be started with a modern virtual machine or maybe the virtual machine
+
+03:33.310 --> 03:37.230
+will never started in one shaded storage.
+
+03:37.230 --> 03:45.210
+So for that if we check what is on plan 1 how Windows 7 Number 2 and Windows 7 Number 3 and I want to
+
+03:45.210 --> 03:51.120
+go to those Windows 7 Number one because it halved the operating system and this virtual machine have
+
+03:51.120 --> 03:52.860
+a size about 8 gigabytes.
+
+03:52.890 --> 03:58.830
+And we'll take a lot of time to migrate the start of this machine from land want to.
+
+03:59.070 --> 04:01.550
+So we're going to do Windows 7.
+
+04:01.620 --> 04:03.130
+Number two and Windows 7.
+
+04:03.140 --> 04:06.110
+Number three that's have a small size.
+
+04:06.720 --> 04:16.530
+So the condition that we write here is the virtual machine of Windows 7 of the number two and three
+
+04:17.520 --> 04:26.740
+should be in the front storage or indifferent lot like that.
+
+04:26.850 --> 04:33.630
+So the idea that we want the virtual machine number two and virtual machine.
+
+04:33.650 --> 04:38.600
+But we always have Auntie affinity of the different story.
+
+04:38.850 --> 04:47.910
+So we click OK no it should stop our story as Mission migration to migrate to the virtual machine 2
+
+04:48.020 --> 04:53.180
+or 3 from the land one to mother land the land that is available is land number two.
+
+04:53.180 --> 05:01.280
+If you are in a land three or four who will decide which one shawled has this vitriol machine.
+
+05:01.470 --> 05:07.640
+So let's just give it a little time and this room will start applying chose the other rule.
+
+05:07.720 --> 05:16.350
+We like that VM Dickie affinity virtual machine you need to choose only one virtual machine you can
+
+05:16.440 --> 05:23.910
+chose to Vitry in Washington in the in decie onto affinity because of the decie is at the level of vitriol
+
+05:23.910 --> 05:24.580
+machine.
+
+05:24.600 --> 05:26.040
+So you see Windows 7.
+
+05:26.040 --> 05:30.360
+Number three it's migrated from LAN one to land.
+
+05:30.600 --> 05:36.980
+If we check the data right here migrate win 7 Number three front is excited the last one is x.
+
+05:36.980 --> 05:39.480
+I treat land all in Oracle.
+
+05:39.600 --> 05:46.930
+So the rule work perfectly émigrés the stars and you see it's about 100 percent because the harddrive
+
+05:46.980 --> 05:52.150
+of this virtual machine is about three megabytes.
+
+05:52.200 --> 05:53.740
+So it happened quickly.
+
+05:53.820 --> 06:01.020
+If we do this route on the Windows 7 Number one the top two operation system it will take about 1 hour
+
+06:01.170 --> 06:03.170
+to complete the process.
+
+06:03.300 --> 06:08.280
+So we're back to the other group the VM decay Auntie affinity.
+
+06:08.630 --> 06:11.490
+Let's me this action happen.
+
+06:11.580 --> 06:13.530
+Abdula get a virtual machine.
+
+06:13.530 --> 06:15.710
+So we chose only one virtual machine.
+
+06:15.720 --> 06:20.650
+If you remember the virtual machine and BR3 have to driver click OK.
+
+06:20.850 --> 06:30.520
+So you see the hard drive and hard drive and number two Sinixt up list to get to VM decie sort see like
+
+06:30.520 --> 06:30.720
+that.
+
+06:30.760 --> 06:36.820
+No we can complete the process if we only want to detect at least two virtual disk.
+
+06:36.940 --> 06:45.130
+So we need at least two virtual disk and when we create this route that's made it will save our hard
+
+06:45.130 --> 06:51.770
+disk number one in our loved one and the hard disk number two in Ireland to the opposite Diskin number
+
+06:51.770 --> 06:56.960
+one in the last two and this number two in the last one.
+
+06:56.960 --> 07:05.350
+So this is the root of the Dekhi Auntie affinity because by default VM decie created in the same LAN.
+
+07:05.480 --> 07:10.980
+If you don't chill's in a run automatically saved the hard disk number one on the hard disk number two
+
+07:11.000 --> 07:12.530
+in the same LAN.
+
+07:12.560 --> 07:17.260
+So there are no option about affiant it's only about Auntie affinity.
+
+07:17.300 --> 07:19.070
+You need to separate them.
+
+07:19.120 --> 07:26.390
+So this option we're not going to do it because it we have a week this one day if we back to the virtual
+
+07:26.390 --> 07:27.410
+machine.
+
+07:27.830 --> 07:34.180
+And as the sim right hand we click on it and we chose to do stitching.
+
+07:34.610 --> 07:39.920
+Of course you remember the seating of every video machine we have a job that's it is called DNS that's
+
+07:39.920 --> 07:46.880
+mean stylized the there is no it is enable and you see the storage room that is connected to this material
+
+07:46.880 --> 07:47.600
+machine.
+
+07:47.760 --> 07:49.180
+We click on it.
+
+07:49.370 --> 07:58.130
+And here we have some other new rule available VM decie affinity by default you still have the VM decie
+
+07:58.130 --> 08:03.890
+up and it's a cluster of default VM afine to ease keep them together.
+
+08:03.920 --> 08:12.850
+I told you from the other place that by default VM were saved do the VM decie at the same LAN.
+
+08:13.100 --> 08:17.870
+So here we have the entity VM decie anti affinity.
+
+08:17.930 --> 08:20.000
+So we chose local hard drive.
+
+08:20.020 --> 08:23.650
+One on the hard or two for the virtual machine.
+
+08:24.260 --> 08:32.690
+Then we chose that this hard level should always separated into different shared trash then we have
+
+08:32.730 --> 08:34.510
+the VM on the iPhone.
+
+08:34.750 --> 08:35.570
+That's mean.
+
+08:35.690 --> 08:41.210
+This virtual machine shilled Antti affinity with another machine here automatically chose this one because
+
+08:41.210 --> 08:43.040
+we chose the option on this one.
+
+08:43.130 --> 08:49.520
+So we click add and add another machine that you want to separate this machine to it from the same last.
+
+08:49.520 --> 08:52.630
+This condition is already separated.
+
+08:52.640 --> 08:56.730
+We have this one in Law Number two on this white and black number one.
+
+08:56.750 --> 09:03.560
+So the route will keep all with any store data as happened in the future we never collected this virtual
+
+09:03.560 --> 09:04.100
+machine.
+
+09:04.100 --> 09:13.490
+Windows XP and Windows 7 in the same shape it's always keep them in separate slash and VM affinity is
+
+09:13.490 --> 09:16.550
+do by default all division machine by default.
+
+09:16.580 --> 09:19.370
+Keep them in the same shared storage.
+
+09:20.270 --> 09:25.320
+So the same if we chose any of those between machine this one that is bolted on.
+
+09:25.610 --> 09:29.970
+So you can't do it from either system or you simply go to config.
+
+09:30.200 --> 09:36.620
+And here you have the hardware and VM option and the VM is a direct route.
+
+09:36.680 --> 09:43.280
+You can get it right there and chose to add in a rule that you want to do a virtual machine.
+
+09:43.570 --> 09:45.520
+So the same.
+
+09:45.590 --> 09:51.900
+So this is the different storage DNS option that we have in the rest of the VM world.
+
+09:51.920 --> 09:58.010
+So if you have any other situation that you want to discuss with us into a discussion of the course
+
+09:58.310 --> 10:00.050
+please share it in due course.
+
+10:00.080 --> 10:07.040
+It will be good if you share some screen capture of your lot and let us know the different situations
+
+10:07.040 --> 10:11.500
+that you can create start with the press and do rule.
+
+10:11.690 --> 10:15.850
+So we'll see you in the next section with another future overdue.
+
+10:15.950 --> 10:17.450
+VM we're Bespin.
+
+10:17.520 --> 10:18.590
+So thank you.

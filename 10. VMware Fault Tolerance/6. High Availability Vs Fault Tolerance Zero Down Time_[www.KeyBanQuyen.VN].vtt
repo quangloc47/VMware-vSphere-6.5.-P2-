@@ -1,0 +1,268 @@
+WEBVTT
+
+00:01.780 --> 00:10.320
+Blogging so after enabling the full blast in this virtual machine and you see that it's still work without
+
+00:10.350 --> 00:11.600
+any problem.
+
+00:12.690 --> 00:21.220
+No we need to know were is it just the virtual machine that we created all the fault in the last Have
+
+00:21.240 --> 00:22.260
+you checked this one.
+
+00:22.280 --> 00:30.970
+Exist in X I want and we don't see any delay virtual machine right hand and that's logically the secondary
+
+00:31.030 --> 00:31.990
+virtual machine.
+
+00:31.990 --> 00:37.840
+We're not going to show operator because it is already exists as a virtual machine.
+
+00:38.080 --> 00:44.710
+So how we see the going do the virtual machine we've got to do E-6 I want in this situation is I want
+
+00:44.710 --> 00:46.500
+Hovda Windows XP.
+
+00:46.550 --> 00:54.250
+But what we've got is X I want and in the virtual machine we check right there we see that this virtual
+
+00:54.250 --> 00:57.490
+machine Windows XP for Khaled's primary.
+
+00:57.720 --> 01:00.260
+This is a virtual machine that we use right now.
+
+01:00.280 --> 01:03.210
+If you click on it it will take us to do virtual machine.
+
+01:03.340 --> 01:05.390
+And this is ours are Primanti.
+
+01:05.560 --> 01:10.600
+So the stick to the virtual machine that we can feek when we enable do.
+
+01:10.690 --> 01:13.050
+Ease in E6 I talk.
+
+01:13.180 --> 01:19.150
+So we got to the Isak's I took and we see those we have another virtual machine exists solely to win
+
+01:19.180 --> 01:21.790
+xp for signon diary.
+
+01:22.060 --> 01:22.480
+That's me.
+
+01:22.480 --> 01:26.270
+This is the secondary virtual machine of do what.
+
+01:26.310 --> 01:32.930
+So if we click on it to check the option of this one it will take us to the same virtual machine.
+
+01:33.640 --> 01:42.840
+So no it's the same virtual machine exists in the house running in Isak's I want and Indu I chalk up
+
+01:42.850 --> 01:44.310
+to the same time.
+
+01:44.500 --> 01:53.480
+Also if we try to check that I start up this one the line number two if you remember which creates the
+
+01:53.480 --> 01:54.690
+virtual machine.
+
+01:55.130 --> 01:57.660
+4 into Ladenburg drop her visits.
+
+01:57.950 --> 02:00.400
+So these exist in lunch.
+
+02:00.440 --> 02:04.880
+Number two if we check luck Number one we see those we have Win XP.
+
+02:04.880 --> 02:08.450
+Number four it's exists in double.
+
+02:08.540 --> 02:14.020
+Learn the hard drive and the data exists in this one and the same exists in the lot.
+
+02:14.040 --> 02:20.920
+Number two let's meet in obstetrician that we have of 5 in London broil.
+
+02:21.000 --> 02:24.430
+Hey keep connected to land number two without any problem.
+
+02:24.420 --> 02:25.400
+How does it do that.
+
+02:25.470 --> 02:29.060
+And do a vindictive fight exists in this one.
+
+02:29.220 --> 02:38.010
+So the same in London but so we have on a high ability of the military and machine that exists in to
+
+02:38.160 --> 02:43.380
+shit it Stosh if something wrong happened to one of those storage we have a model one of you to put
+
+02:43.380 --> 02:51.990
+into Seguin's trust and also exist in to E6 I host if something happened is X I want it keep working
+
+02:52.010 --> 02:54.030
+from is X number two.
+
+02:54.240 --> 03:00.120
+So there's a machine running into is X I Holst's number one in the right environment.
+
+03:00.160 --> 03:07.380
+It's running right now and the end is X I calls them br1 because this is do we want that we walk on
+
+03:07.380 --> 03:16.430
+these so we'll going to try to make this victory machine out of service and see what will happen to
+
+03:16.430 --> 03:23.180
+the virtual machine like what we did in do the height of ability when we power off our hands that have
+
+03:23.180 --> 03:24.620
+a virtual machine.
+
+03:24.620 --> 03:30.950
+We see that David your machine disconnects it then it start rebooted again but no as we want to have
+
+03:31.040 --> 03:33.680
+zero downtime Let's check.
+
+03:33.680 --> 03:36.580
+Do for us what we're going to do.
+
+03:36.800 --> 03:44.140
+So for that we going to do being to check the availability of the virtual machine Windows XP.
+
+03:44.150 --> 03:44.900
+Number four.
+
+03:45.050 --> 03:48.500
+So you see this is the IP address of this machine.
+
+03:48.680 --> 03:57.800
+So we're going to send a ping to this if be one 15 and we'll make it ultimately to checked the ability
+
+03:57.800 --> 03:59.420
+of this virtual machine.
+
+03:59.540 --> 04:02.420
+So you see it is available right now.
+
+04:02.780 --> 04:09.070
+So if we check the Windows XP number four it has it's work perfect.
+
+04:09.080 --> 04:12.440
+Let's try to mix some editing.
+
+04:12.470 --> 04:16.510
+This is a first of full reliance
+
+04:19.310 --> 04:20.030
+like that.
+
+04:20.180 --> 04:20.630
+That's me.
+
+04:20.650 --> 04:29.200
+This virtual machine is work without any problem and exist in ethics I want and we see that if something
+
+04:29.200 --> 04:30.730
+wrong happened to it is x.
+
+04:30.730 --> 04:33.910
+I wonder what will happen to this virtual machine.
+
+04:34.240 --> 04:40.850
+So I will go and try to power of do Isak's I want to create our problem right.
+
+04:42.300 --> 04:53.210
+So this is Isak's I want I try to while we're off of course it will take a little time.
+
+04:53.310 --> 05:00.260
+But one of and we check that the virtual machine is still available without any problem.
+
+05:03.810 --> 05:07.170
+So what is it you see the E6 I want is out of service.
+
+05:07.410 --> 05:10.080
+And you see it's our little time.
+
+05:10.350 --> 05:13.240
+Then it's back to the work without any problem.
+
+05:13.290 --> 05:18.990
+If we check the virtual machine of course we need to refresh but the console right here is still available.
+
+05:19.050 --> 05:24.560
+The console that connects directly to the virtual machine is still available only the browser does have
+
+05:24.570 --> 05:25.540
+that's easy.
+
+05:25.560 --> 05:27.610
+So the virtual machines still work.
+
+05:27.780 --> 05:32.840
+The file still open and that is what I want is out of service.
+
+05:32.840 --> 05:36.640
+The connectivity still available without any problem.
+
+05:37.850 --> 05:40.420
+So let's check what's happened right there.
+
+05:40.520 --> 05:47.910
+The full tolerance McGlade the connection from the windows XP and before that exist in it.
+
+05:47.960 --> 05:53.760
+I want to do Windows XP for that exist in six numbers or so.
+
+05:53.870 --> 05:54.400
+No.
+
+05:54.410 --> 06:02.370
+When we click on the Windows machine it show as he asks I talk if we try to check do is I do.
+
+06:02.420 --> 06:05.720
+That's how our secondary virtual machine.
+
+06:05.740 --> 06:09.310
+No it's become our Brimley virtual machine.
+
+06:09.440 --> 06:16.850
+Then if we check this one that was before it does not show any tank inside this because it is disconnected.
+
+06:18.470 --> 06:22.730
+So no you see that's the Windows XP.
+
+06:22.750 --> 06:26.810
+And before that was secondary become our primary.
+
+06:26.870 --> 06:31.720
+And you see right here another massage of course we can check this optimises Rhonda.
+
+06:31.770 --> 06:37.310
+And when you do it in virtual machine for nonstate Changi that means something will happen to this virtual
+
+06:37.310 --> 06:37.670
+machine.
+
+06:37.670 --> 06:42.700
+You need to check your environment to know what's happening.
+
+06:42.710 --> 06:47.900
+So this is an example of the fault in our environment.
+
+06:47.910 --> 06:54.760
+So next we'll try to power on the host and see what will happen again with the full totals.
+
+06:54.830 --> 06:55.710
+So we seem to be.

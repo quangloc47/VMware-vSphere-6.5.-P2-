@@ -1,0 +1,154 @@
+WEBVTT
+
+00:00.440 --> 00:07.250
+And another function that I will do is do of ice Kaze the anchorman for ice Kazee management.
+
+00:07.470 --> 00:15.160
+I click our network of course we chose them Gernon Knittle covert Aldo's step into part of your course.
+
+00:15.180 --> 00:21.700
+So next we chose the same materials which then Davian Cornejo we'll call it for example II.
+
+00:22.110 --> 00:30.730
+Scott Z for example one like that of course we don't not have the villain in our love so I can't charge
+
+00:30.840 --> 00:37.310
+bill but of course if you have Oswiecim that have an idea you can use it.
+
+00:37.440 --> 00:43.430
+So then where we don't chose any of the service because we want to you just want to extend up splosh
+
+00:43.710 --> 00:55.020
+ice Gazi then we give it an IP address and the same as we did in the example 1 9 2 1 6 8 1 and this
+
+00:55.020 --> 00:56.000
+for example.
+
+00:56.010 --> 01:04.790
+Give me a true 10 like about two hundred and ten that's mean this is the IP address of the.
+
+01:05.060 --> 01:08.690
+Number one that have to be addressed in the industry.
+
+01:08.700 --> 01:16.560
+NET and of course we can use the same DNS right.
+
+01:16.840 --> 01:25.850
+Then next as you see the ties finish and we will have on your eyes cause the part and the same way of
+
+01:25.890 --> 01:33.310
+a second one because we want to have two separate ice Kazee to avoid any problem for one of them.
+
+01:33.310 --> 01:39.230
+So we clipped the second one work Heiss call Z.
+
+01:39.910 --> 01:41.250
+Talk like that.
+
+01:41.400 --> 01:54.510
+Then next the BTP address 1 9 2 1 6 8 1 and 2 to then for example we add one to the IP address so to
+
+01:54.630 --> 01:56.190
+11 that's me.
+
+01:56.320 --> 01:59.950
+Two hundred ten and two hundred eleven is for do I scuzzy
+
+02:04.570 --> 02:05.340
+next.
+
+02:05.590 --> 02:08.690
+And finish them.
+
+02:08.710 --> 02:14.800
+Of course we need to connect them to one step but it's got its eyes cause you want is our physical adapter
+
+02:14.890 --> 02:17.350
+we need it is it like that.
+
+02:17.450 --> 02:21.840
+The security we don't change any tank and it came in and fell over.
+
+02:21.850 --> 02:26.790
+We chose overate and we chose to do the last one is available.
+
+02:26.830 --> 02:32.660
+We chose like that we chose and use it.
+
+02:32.780 --> 02:36.950
+After 7 also use it like that.
+
+02:36.950 --> 02:39.060
+Retools do number 6.
+
+02:39.280 --> 02:39.900
+OK.
+
+02:41.250 --> 02:46.000
+So no ice cores use only two physical adapter number 6.
+
+02:46.110 --> 02:47.120
+Ice Karzi tool.
+
+02:47.250 --> 02:51.160
+We do the same thing for the VM Annaik 7.
+
+02:51.350 --> 03:03.530
+So tainment and over overlayed shows like Godard's down to the adapter is only the number 7.
+
+03:04.020 --> 03:04.800
+OK.
+
+03:05.070 --> 03:06.770
+And here we go.
+
+03:06.960 --> 03:09.620
+So no we have this actually dictu.
+
+03:09.860 --> 03:13.790
+We check that this is actually the actor that I see.
+
+03:13.800 --> 03:20.610
+It will be good for an environment of course more physical adapter thats more and more redundancy.
+
+03:21.710 --> 03:24.290
+So the number one is the VM.
+
+03:24.290 --> 03:28.770
+Nick sake's we raise two hundred ten.
+
+03:28.810 --> 03:35.610
+Its information about the host number one that have to be 10 then to cause the number to use the VM
+
+03:35.610 --> 03:41.240
+Minick number 7 and we give it an IP address of two hundred eleven.
+
+03:41.360 --> 03:49.430
+Then we chose the management network for the host doesn't mean the VM Correll of the holes that we connect
+
+03:49.430 --> 03:50.560
+to manage the host.
+
+03:50.570 --> 03:58.580
+We did we give it to the Emenike 0 and 1 would then the VM network thats me for the virtual machine
+
+03:58.760 --> 04:03.110
+at the virtual machine is the Minick for five.
+
+04:03.470 --> 04:08.300
+And do the motion we raise one hundred ten.
+
+04:08.300 --> 04:13.080
+We took the network adapter number two and three.
+
+04:13.250 --> 04:17.720
+This is the actually texture that I can feel this has used.
+
+04:17.870 --> 04:26.990
+And I will do the same for the US number two and number three the same crude to have a good redundancy
+
+04:26.990 --> 04:29.010
+for Esch of our server.
+
+04:29.120 --> 04:29.870
+So the next.
